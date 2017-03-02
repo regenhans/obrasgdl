@@ -1,1854 +1,1854 @@
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29a"
+		"$oid": "58b7acee1d44b643db3aa6ce"
 	},
 	"contratista": "Atelier BCM, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ6103",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS EN LA UNIDAD DEPORTIVA \"FRANCISCO JAVIER MINA\", TRABAJOS CONSISTENTES EN LA COLOCACION DE ASFALTO EN TROTAPISTA",
-	"ubicacion": "PRESA EL LAUREL S/N ENTRE DIONISIO RODRIGUEZ Y MANUEL DE GOROSTIZA EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "ABC081002CZ5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Diciembre",
-	"presupesto": 144165.76,
-	"contrato": "OPG-OD-EQP-AD-C13-103/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ABC081002CZ5",
+	"ubicacion": "PRESA EL LAUREL S/N ENTRE DIONISIO RODRIGUEZ Y MANUEL DE GOROSTIZA EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-OD-EQP-AD-C13-103/12",
+	"presupuesto": 144165.76,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS EN LA UNIDAD DEPORTIVA \"FRANCISCO JAVIER MINA\", TRABAJOS CONSISTENTES EN LA COLOCACION DE ASFALTO EN TROTAPISTA",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29b"
+		"$oid": "58b7acee1d44b643db3aa6cf"
 	},
 	"contratista": "Ing. Fernando Pérez Casillas",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP101",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS CONTEMPLADAS EN EL ¨PLAN DE INTERVENCIÓN DEL CENTRO HISTÓRICO¨, POLÍGONO I.  TRABAJOS CONSISTENTES EN REHABILITACIÓN DE BANQUETAS, PAVIMENTOS, ADOQUINES, MOBILIARIO Y EQUIPAMIENTO URBANO",
-	"ubicacion": "COMPRENDIDO ENTRE LAS CALLES GONZALEZ ORTEGA - DONATO GUERRA, AV. JUAREZ, AV. 16 DE SEPTIEMBRE - ALCALDE Y SAN FELIPE, EN EL CENTRO HISTORICO DE LA CIUDAD, DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "PECF530527N66",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 2.70199588e+06,
-	"contrato": "OPG-OD-EQP-AD-C11-101/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "PECF530527N66",
+	"ubicacion": "COMPRENDIDO ENTRE LAS CALLES GONZALEZ ORTEGA - DONATO GUERRA, AV. JUAREZ, AV. 16 DE SEPTIEMBRE - ALCALDE Y SAN FELIPE, EN EL CENTRO HISTORICO DE LA CIUDAD, DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C11-101/12",
+	"presupuesto": 2.70199588e+06,
+	"descripcion_obra": "OBRAS CONTEMPLADAS EN EL ¨PLAN DE INTERVENCIÓN DEL CENTRO HISTÓRICO¨, POLÍGONO I.  TRABAJOS CONSISTENTES EN REHABILITACIÓN DE BANQUETAS, PAVIMENTOS, ADOQUINES, MOBILIARIO Y EQUIPAMIENTO URBANO",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29c"
+		"$oid": "58b7acee1d44b643db3aa6d0"
 	},
 	"contratista": "Nirva Construcciones, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1102",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS CONTEMPLADAS EN EL ¨PLAN DE INTERVENCIÓN DEL CENTRO HISTÓRICO¨, POLÍGONO II, TRABAJOS CONSISTENTES EN REHABILITACIÓN DE BANQUETAS, PAVIMENTOS, ADOQUINES, MOBILIARIO Y EQUIPAMIENTO URBANO",
-	"ubicacion": "COMPRENDIDO ENTRE LAS CALLES BELÉN - DEGOLLADO , AV. JUAREZ, AV. 16 DE SEPTIEMBRE - ALCALDE Y SAN FELIPE, EN EL CENTRO HISTORICO DE LA CIUDAD, DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "NCO010809QJ3",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 2.145e+06,
-	"contrato": "OPG-OD-EQP-AD-C11-102/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "NCO010809QJ3",
+	"ubicacion": "COMPRENDIDO ENTRE LAS CALLES BELÉN - DEGOLLADO , AV. JUAREZ, AV. 16 DE SEPTIEMBRE - ALCALDE Y SAN FELIPE, EN EL CENTRO HISTORICO DE LA CIUDAD, DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C11-102/12",
+	"presupuesto": 2.145e+06,
+	"descripcion_obra": "OBRAS CONTEMPLADAS EN EL ¨PLAN DE INTERVENCIÓN DEL CENTRO HISTÓRICO¨, POLÍGONO II, TRABAJOS CONSISTENTES EN REHABILITACIÓN DE BANQUETAS, PAVIMENTOS, ADOQUINES, MOBILIARIO Y EQUIPAMIENTO URBANO",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29d"
+		"$oid": "58b7acee1d44b643db3aa6d1"
 	},
 	"contratista": "Bufete Arquitectonico S.A. de C.V.",
-	"origen_de_resultados": "",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1088",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN DEL PARQUE ALCALDE PRIMERA ETAPA",
-	"ubicacion": "JESÚS GARCÍA, ENTRE SANTA MÓNICA Y MARIANO BÁRCENAS DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "BAR710430CT1",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 1: Centro",
 	"mes": "Septiembre",
-	"presupesto": 2.63890996e+07,
-	"contrato": "OPG-CZM-EQP-LP-C07-088/12"
+	"origen_de_recursos": "",
+	"contratista_rfc": "BAR710430CT1",
+	"ubicacion": "JESÚS GARCÍA, ENTRE SANTA MÓNICA Y MARIANO BÁRCENAS DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-CZM-EQP-LP-C07-088/12",
+	"presupuesto": 2.63890996e+07,
+	"descripcion_obra": "REHABILITACIÓN DEL PARQUE ALCALDE PRIMERA ETAPA",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29e"
+		"$oid": "58b7acee1d44b643db3aa6d2"
 	},
 	"contratista": "Constructora TGV S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12CONZ190",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) APUNTALAMIENTO (LIGERO) DE TRABES EN EVENTO \"DESPERTAR DE LA CONCIENCIA POR EL CUIDADO DE LA MADRE TIERRA\" DEL 6 AL 9 DE MARZO DE 2012; B) APUNTALAMIENTO (REFORZADO) DE TRABES EN LOS EVENTOS \"FASHION ROSE GUADALAJARA, 2012\" Y \"9ª FERIA DE LA PREVENCION",
-	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO; EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO; EN LA PRESIDENCIA MUNICIPAL DE GU",
-	"contratista_rfc": "CTG070803966",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Riesgos ( Contingencias )",
+	"zona": "Zona 1: Centro",
 	"mes": "Septiembre",
-	"presupesto": 2.62059602e+06,
-	"contrato": "OPG-OD-CON-AD-C08-090/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CTG070803966",
+	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO; EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO; EN LA PRESIDENCIA MUNICIPAL DE GU",
+	"contrato": "OPG-OD-CON-AD-C08-090/12",
+	"presupuesto": 2.62059602e+06,
+	"descripcion_obra": "A) APUNTALAMIENTO (LIGERO) DE TRABES EN EVENTO \"DESPERTAR DE LA CONCIENCIA POR EL CUIDADO DE LA MADRE TIERRA\" DEL 6 AL 9 DE MARZO DE 2012; B) APUNTALAMIENTO (REFORZADO) DE TRABES EN LOS EVENTOS \"FASHION ROSE GUADALAJARA, 2012\" Y \"9ª FERIA DE LA PREVENCION",
+	"tipo_infraestructura": "Riesgos ( Contingencias )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f29f"
+		"$oid": "58b7acee1d44b643db3aa6d3"
 	},
 	"contratista": "Activa Zone S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ491",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140391ME007 PARADEROS SEGURO DE TRANSPORTE PÚBLICO, TRABAJOS CONSISTENTES EN EL SUMINISTRO E INSTALACION DE 6 PARABUSES",
-	"ubicacion": "VARIOS PUNTOS DE LA COLONIA BALCONES DE OBLATOS, EN LA ZONA 4 OBLATOS",
-	"contratista_rfc": "AZ0908202K7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Habitat",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Septiembre",
-	"presupesto": 325251.0,
-	"contrato": "OPG-HAB-EQP-AD-C08-091/12"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "AZ0908202K7",
+	"ubicacion": "VARIOS PUNTOS DE LA COLONIA BALCONES DE OBLATOS, EN LA ZONA 4 OBLATOS",
+	"contrato": "OPG-HAB-EQP-AD-C08-091/12",
+	"presupuesto": 325251.0,
+	"descripcion_obra": "140391ME007 PARADEROS SEGURO DE TRANSPORTE PÚBLICO, TRABAJOS CONSISTENTES EN EL SUMINISTRO E INSTALACION DE 6 PARABUSES",
+	"tipo_infraestructura": "Habitat"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a0"
+		"$oid": "58b7acee1d44b643db3aa6d4"
 	},
 	"contratista": "Maprigue Construcciones, S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ6092",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140391ME004 CONSTRUCCIÓN DE CASA DE DÍA PARA ADULTOS MAYORES",
-	"ubicacion": "LUIS M. FREGOSO Y CERRADA LUIS M. FREGOSO, EN LA COL. TETLÁN DE LA ZONA 6 TETLÁN",
-	"contratista_rfc": "MCO081021JX5",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Habitat",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Septiembre",
-	"presupesto": 1.33205204e+06,
-	"contrato": "OPG-HAB-EQP-CI-C08-092/12"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "MCO081021JX5",
+	"ubicacion": "LUIS M. FREGOSO Y CERRADA LUIS M. FREGOSO, EN LA COL. TETLÁN DE LA ZONA 6 TETLÁN",
+	"contrato": "OPG-HAB-EQP-CI-C08-092/12",
+	"presupuesto": 1.33205204e+06,
+	"descripcion_obra": "140391ME004 CONSTRUCCIÓN DE CASA DE DÍA PARA ADULTOS MAYORES",
+	"tipo_infraestructura": "Habitat"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a1"
+		"$oid": "58b7acee1d44b643db3aa6d5"
 	},
 	"contratista": "Grupo Constructor Lumardi S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ4093",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140391ME006 SALÓN DE USOS MÚLTIPLES EN EL CENTRO DE DESARROLLO SOCIAL \"HELIODORO HERNÁNDEZ LOZA\"",
-	"ubicacion": "MARÍA GUADALUPE MARTÍNEZ DE HERNÁNDEZ LOZA No. 3065 ENTRE HACIENDA SANTIAGO Y HACIENDA MAZATEPEC, EN LA COL. LOMAS DE OBLATOS DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "GCL1012097HA",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Habitat",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Septiembre",
-	"presupesto": 1.27485465e+06,
-	"contrato": "OPG-HAB-EQP-CI-C08-093/12"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "GCL1012097HA",
+	"ubicacion": "MARÍA GUADALUPE MARTÍNEZ DE HERNÁNDEZ LOZA No. 3065 ENTRE HACIENDA SANTIAGO Y HACIENDA MAZATEPEC, EN LA COL. LOMAS DE OBLATOS DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-HAB-EQP-CI-C08-093/12",
+	"presupuesto": 1.27485465e+06,
+	"descripcion_obra": "140391ME006 SALÓN DE USOS MÚLTIPLES EN EL CENTRO DE DESARROLLO SOCIAL \"HELIODORO HERNÁNDEZ LOZA\"",
+	"tipo_infraestructura": "Habitat"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a2"
+		"$oid": "58b7acee1d44b643db3aa6d6"
 	},
 	"contratista": "Control de Calidad de Materiales S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONTROL DE CALIDAD DE OBRAS DE IMAGEN URBANA EN ZONA CENTRO",
-	"ubicacion": "ZONA CENTRO DE LA CIUADAD",
-	"contratista_rfc": "CCM010316N69",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Remodelacion",
+	"zona": "Zona 1: Centro",
 	"mes": "Septiembre",
-	"presupesto": 299657.05,
-	"contrato": "OPG-OD-EQP-AD-C08-094/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCM010316N69",
+	"ubicacion": "ZONA CENTRO DE LA CIUADAD",
+	"contrato": "OPG-OD-EQP-AD-C08-094/12",
+	"presupuesto": 299657.05,
+	"descripcion_obra": "CONTROL DE CALIDAD DE OBRAS DE IMAGEN URBANA EN ZONA CENTRO",
+	"tipo_infraestructura": "Obras Varias Remodelacion"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a3"
+		"$oid": "58b7acee1d44b643db3aa6d7"
 	},
 	"contratista": "Grupo Constructor Caame S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ795",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS DE LAS OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA SUR",
-	"ubicacion": "HERMENEGILDO BUSTOS ENTRE AV. DE LA ESCULTURA Y AV. DE LA PINTURA, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR; FRAY ANGELICO ENTRE ARQ. MANUEL ITUARTE Y AV. DE LA  ARQUITECTURA, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR;  AV. ARTES PLASTICAS ENTR",
-	"contratista_rfc": "GCC000107UH3",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Balizamiento",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Septiembre",
-	"presupesto": 1.41701453e+06,
-	"contrato": "OPG-OD-PAV-AD-C08-095/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GCC000107UH3",
+	"ubicacion": "HERMENEGILDO BUSTOS ENTRE AV. DE LA ESCULTURA Y AV. DE LA PINTURA, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR; FRAY ANGELICO ENTRE ARQ. MANUEL ITUARTE Y AV. DE LA  ARQUITECTURA, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR;  AV. ARTES PLASTICAS ENTR",
+	"contrato": "OPG-OD-PAV-AD-C08-095/12",
+	"presupuesto": 1.41701453e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS DE LAS OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA SUR",
+	"tipo_infraestructura": "Balizamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a4"
+		"$oid": "58b7acee1d44b643db3aa6d8"
 	},
 	"contratista": "Desarrollos Vicsa S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ696",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA EL MEJORAMIENTO DE VIVIENDAS Y REHABILITACION DE BANQUETAS EN LA COLONIA LOMAS DEL GALLO, TRABAJOS CONSISTENTES EN LA REHABILITACION DE BANQUETAS Y FACHADAS CON ENJARRES Y PINTURA",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO AL NORTE POR JOSÉ MARÍA IGLESIAS, AL SUR Y SUROESTE POR ROBERTO WEEKS LÓPEZ, AL ESTE POR AV. MALECON Y AL OESTE POR FERNANDO SOLIS, EN LA COL. LOMAS DEL GALLO DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "DVI0903301U3",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Septiembre",
-	"presupesto": 191880.51,
-	"contrato": "OPG-R33-EQP-AD-C08-096/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "DVI0903301U3",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO AL NORTE POR JOSÉ MARÍA IGLESIAS, AL SUR Y SUROESTE POR ROBERTO WEEKS LÓPEZ, AL ESTE POR AV. MALECON Y AL OESTE POR FERNANDO SOLIS, EN LA COL. LOMAS DEL GALLO DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-R33-EQP-AD-C08-096/12",
+	"presupuesto": 191880.51,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA EL MEJORAMIENTO DE VIVIENDAS Y REHABILITACION DE BANQUETAS EN LA COLONIA LOMAS DEL GALLO, TRABAJOS CONSISTENTES EN LA REHABILITACION DE BANQUETAS Y FACHADAS CON ENJARRES Y PINTURA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a5"
+		"$oid": "58b7acee1d44b643db3aa6d9"
 	},
 	"contratista": "Desarrolladora Abra S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ797",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL MEJORAMIENTO DE VIVIENDAS Y REHABILITACIÓN DE BANQUETAS EN LA COLONIA LOMA LINDA",
-	"ubicacion": "AL NORTE POR JESUS REYES HEROLES Y DIEGO MONTENEGRO, AL SUR POR AV. LA MEZQUITERA, AL ESTE POR AGUADULCE Y AGUA SALADA, AL NORESTE POR AGUA BLANCA Y AL OESTE POR RAFAEL LOZADA Y MANUEL AVELEIRA, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "DAB010213LS8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Septiembre",
-	"presupesto": 450000.0,
-	"contrato": "OPG-R33-EQP-AD-C08-097/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "DAB010213LS8",
+	"ubicacion": "AL NORTE POR JESUS REYES HEROLES Y DIEGO MONTENEGRO, AL SUR POR AV. LA MEZQUITERA, AL ESTE POR AGUADULCE Y AGUA SALADA, AL NORESTE POR AGUA BLANCA Y AL OESTE POR RAFAEL LOZADA Y MANUEL AVELEIRA, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-R33-EQP-AD-C08-097/12",
+	"presupuesto": 450000.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL MEJORAMIENTO DE VIVIENDAS Y REHABILITACIÓN DE BANQUETAS EN LA COLONIA LOMA LINDA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a6"
+		"$oid": "58b7acee1d44b643db3aa6da"
 	},
 	"contratista": "Orgo Edificaciones S.A. de C.V:",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ798",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCION DE PASOS PEATONALES DE CONCRETO ESTAMPADO",
-	"ubicacion": "COMPRENDIDO DENTRO DEL PERÍMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "OED1204167T8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Septiembre",
-	"presupesto": 450000.0,
-	"contrato": "OPG-R33-EQP-AD-C08-098/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "OED1204167T8",
+	"ubicacion": "COMPRENDIDO DENTRO DEL PERÍMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-R33-EQP-AD-C08-098/12",
+	"presupuesto": 450000.0,
+	"descripcion_obra": "CONSTRUCCION DE PASOS PEATONALES DE CONCRETO ESTAMPADO",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a7"
+		"$oid": "58b7acee1d44b643db3aa6db"
 	},
 	"contratista": "Geminis Internacional Constructora S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ599",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA ADECUACIÓN DE LA ACADEMIA MUNICIPAL DE POLICIA, TRABAJOS DE REFUERZO CON PILOTES EN EL STAND DE TIRO",
-	"ubicacion": "RIO TIZAPÁN Y RIO ZAPOTLÁN, EN LA COL. ATLAS DE LA ZONA 5 OLIMPICA",
-	"contratista_rfc": "GIC810323RA6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Modulos de Policia",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Septiembre",
-	"presupesto": 6.18447069e+06,
-	"contrato": "OPG-OD-EQP-AD-C09-099/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GIC810323RA6",
+	"ubicacion": "RIO TIZAPÁN Y RIO ZAPOTLÁN, EN LA COL. ATLAS DE LA ZONA 5 OLIMPICA",
+	"contrato": "OPG-OD-EQP-AD-C09-099/12",
+	"presupuesto": 6.18447069e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA ADECUACIÓN DE LA ACADEMIA MUNICIPAL DE POLICIA, TRABAJOS DE REFUERZO CON PILOTES EN EL STAND DE TIRO",
+	"tipo_infraestructura": "Modulos de Policia"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a8"
+		"$oid": "58b7acee1d44b643db3aa6dc"
 	},
 	"contratista": "Constructora TGV S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12CONZ1100",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA 23 AGOSTO AL  04 DE SEPTIMEBRE DE 2012; B) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA 14 AL 17 DE SEPTIMEBRE DE 2012; C) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA",
-	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.; EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "CTG070803966",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Riesgos ( Contingencias )",
+	"zona": "Zona 1: Centro",
 	"mes": "Septiembre",
-	"presupesto": 3.6328771e+06,
-	"contrato": "OPG-OD-CON-AD-C09-100/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CTG070803966",
+	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.; EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-OD-CON-AD-C09-100/12",
+	"presupuesto": 3.6328771e+06,
+	"descripcion_obra": "A) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA 23 AGOSTO AL  04 DE SEPTIMEBRE DE 2012; B) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA 14 AL 17 DE SEPTIMEBRE DE 2012; C) APUNTALAMIENTO (REFORZADO) DE TRABES PARA EVENTO EN FECHA",
+	"tipo_infraestructura": "Riesgos ( Contingencias )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2a9"
+		"$oid": "58b7acee1d44b643db3aa6dd"
 	},
 	"contratista": "Constructora y Desarrolladora Barba y Asociados S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ1087",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "Accesibilidad preferencial de la zona centro",
-	"ubicacion": "Zona 1 centro de la ciudad.",
-	"contratista_rfc": "CDB0506068Z4",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Banquetas Centro Historico",
+	"zona": "Zona 1: Centro",
 	"mes": "Agosto",
-	"presupesto": 3.987772062e+07,
-	"contrato": "OPG-CZM-PAV-LP-C07-087/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CDB0506068Z4",
+	"ubicacion": "Zona 1 centro de la ciudad.",
+	"contrato": "OPG-CZM-PAV-LP-C07-087/12",
+	"presupuesto": 3.987772062e+07,
+	"descripcion_obra": "Accesibilidad preferencial de la zona centro",
+	"tipo_infraestructura": "Banquetas Centro Historico"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2aa"
+		"$oid": "58b7acee1d44b643db3aa6de"
 	},
 	"contratista": "Construcciones Mirot, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 2: Minerva",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ2089/12",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "Rehabilitación del parque Rubén Darío primera etapa",
-	"ubicacion": "Rubén Darío S/N en el polígono formado por las calles Rubén Darío, Ostia, Ontario y Nápoles de la colonia Lomas de Providencia de la Zona 2 Minerva",
-	"contratista_rfc": "CMI110222AA0",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 2: Minerva",
 	"mes": "Agosto",
-	"presupesto": 5.80853812e+06,
-	"contrato": "OPG-CZM-EQP-LP-C07-089/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CMI110222AA0",
+	"ubicacion": "Rubén Darío S/N en el polígono formado por las calles Rubén Darío, Ostia, Ontario y Nápoles de la colonia Lomas de Providencia de la Zona 2 Minerva",
+	"contrato": "OPG-CZM-EQP-LP-C07-089/12",
+	"presupuesto": 5.80853812e+06,
+	"descripcion_obra": "Rehabilitación del parque Rubén Darío primera etapa",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ab"
+		"$oid": "58b7acee1d44b643db3aa6df"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "Proyecto URB - AL III INTEGRATION",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ7085",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SEGUNDA FASE DE CONSTRUCCION DE LA CASA DE ENLASE-INTEGRATION, TRABAJOS CONSISTENTES EN CONSTRUCCION DE AULAS, 2 MODULOS DE BAÑO, PISOS Y MOTIVO DE INGRESO",
-	"ubicacion": "COMPRENDIDO DENTRO DEL PERIMETRO DE LA CALLE 10, CALLE 9, CALLE8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Julio",
-	"presupesto": 1.7e+06,
-	"contrato": "OPG-OD-EQP-AD-C06-085/12"
+	"origen_de_recursos": "Proyecto URB - AL III INTEGRATION",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": "COMPRENDIDO DENTRO DEL PERIMETRO DE LA CALLE 10, CALLE 9, CALLE8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C06-085/12",
+	"presupuesto": 1.7e+06,
+	"descripcion_obra": "SEGUNDA FASE DE CONSTRUCCION DE LA CASA DE ENLASE-INTEGRATION, TRABAJOS CONSISTENTES EN CONSTRUCCION DE AULAS, 2 MODULOS DE BAÑO, PISOS Y MOTIVO DE INGRESO",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ac"
+		"$oid": "58b7acee1d44b643db3aa6e0"
 	},
 	"contratista": "Orgo Edificaciones S.A. de C.V:",
-	"origen_de_resultados": "Proyecto URB - AL III INTEGRATION",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ7086",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMOZAMIENTO DE LA PLAZA CIVICA ENLASE-INTEGRATION EN LA COL. FERROCARRIL, TRABAJOS CONSISTENTES EN EQUIPAMIENTO URBANO, PISOS DE CONCRETO, JARDINERIAS, MOTIVO DE INGRESO Y PINTURA",
-	"ubicacion": "COMPRENDIDO DENTRO DEL PERIMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "OED1204167T8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Julio",
-	"presupesto": 1.7e+06,
-	"contrato": "OPG-OD-EQP-AD-C06-086/12"
+	"origen_de_recursos": "Proyecto URB - AL III INTEGRATION",
+	"contratista_rfc": "OED1204167T8",
+	"ubicacion": "COMPRENDIDO DENTRO DEL PERIMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C06-086/12",
+	"presupuesto": 1.7e+06,
+	"descripcion_obra": "REMOZAMIENTO DE LA PLAZA CIVICA ENLASE-INTEGRATION EN LA COL. FERROCARRIL, TRABAJOS CONSISTENTES EN EQUIPAMIENTO URBANO, PISOS DE CONCRETO, JARDINERIAS, MOTIVO DE INGRESO Y PINTURA",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ad"
+		"$oid": "58b7acee1d44b643db3aa6e1"
 	},
 	"contratista": "Arquitectura y Espacios Beda S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ07078",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "ADECUACIÓN DE LA COMANDANCIA DE POLICIA, BASE ZONA 7 (CRUZ DEL SUR)",
-	"ubicacion": "AV. CRUZ DEL SUR ESQ. ISLAS ALEUTIANAS, EN LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "AEB000705CS2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Seguridad Publica",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Junio",
-	"presupesto": 5.96341374e+06,
-	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-078/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "AEB000705CS2",
+	"ubicacion": "AV. CRUZ DEL SUR ESQ. ISLAS ALEUTIANAS, EN LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-078/12",
+	"presupuesto": 5.96341374e+06,
+	"descripcion_obra": "ADECUACIÓN DE LA COMANDANCIA DE POLICIA, BASE ZONA 7 (CRUZ DEL SUR)",
+	"tipo_infraestructura": "Seguridad Publica"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ae"
+		"$oid": "58b7acee1d44b643db3aa6e2"
 	},
 	"contratista": "Construcciones Citus S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ07079",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "ADECUACIÓN DE LA COMANDANCIA DE POLICIA, BASE 8 (POLANQUITO)",
-	"ubicacion": "8 DE JULIO Y AV. JESUS REYES HEROLES, EN LA COL. POLANQUITO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "CCI020411HS5",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Seguridad Publica",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Junio",
-	"presupesto": 5.99571448e+06,
-	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-079/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CCI020411HS5",
+	"ubicacion": "8 DE JULIO Y AV. JESUS REYES HEROLES, EN LA COL. POLANQUITO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-079/12",
+	"presupuesto": 5.99571448e+06,
+	"descripcion_obra": "ADECUACIÓN DE LA COMANDANCIA DE POLICIA, BASE 8 (POLANQUITO)",
+	"tipo_infraestructura": "Seguridad Publica"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2af"
+		"$oid": "58b7acee1d44b643db3aa6e3"
 	},
 	"contratista": "Urbanizaciones San Guillermo S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ05080",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "EQUIPAMIENTO DEL STAND DE TIRO",
-	"ubicacion": "RÍO TIZAPÁN Y RÍO ZAPOTLÁN, EN LA COL. ATLAS DE LA ZONA 5 OLÍMPICA",
-	"contratista_rfc": "USG8511298B2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Seguridad Publica",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Junio",
-	"presupesto": 6.56564995e+06,
-	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-080/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "USG8511298B2",
+	"ubicacion": "RÍO TIZAPÁN Y RÍO ZAPOTLÁN, EN LA COL. ATLAS DE LA ZONA 5 OLÍMPICA",
+	"contrato": "OPG-SUBSEMUN-EQP-CI-C05-080/12",
+	"presupuesto": 6.56564995e+06,
+	"descripcion_obra": "EQUIPAMIENTO DEL STAND DE TIRO",
+	"tipo_infraestructura": "Seguridad Publica"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b0"
+		"$oid": "58b7acee1d44b643db3aa6e4"
 	},
 	"contratista": "Construcciones Gómez Hernández S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1081",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "LO-814039999-N1-2012 ADECUACION DEL MODULO DE SEGURIDAD PUBLICA, BASE ZONA CENTRO (PARQUE AGUA AZUL) 2da. ETAPA",
-	"ubicacion": "DR. ROBERTO MICHEL Y CALZ. GONZALEZ GALLO, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "CGH051213LT7",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Seguridad Publica",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 6.97502178e+06,
-	"contrato": "OPG-SUBSEMUN-EQP-LP-C05-081/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CGH051213LT7",
+	"ubicacion": "DR. ROBERTO MICHEL Y CALZ. GONZALEZ GALLO, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-SUBSEMUN-EQP-LP-C05-081/12",
+	"presupuesto": 6.97502178e+06,
+	"descripcion_obra": "LO-814039999-N1-2012 ADECUACION DEL MODULO DE SEGURIDAD PUBLICA, BASE ZONA CENTRO (PARQUE AGUA AZUL) 2da. ETAPA",
+	"tipo_infraestructura": "Seguridad Publica"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b1"
+		"$oid": "58b7acee1d44b643db3aa6e5"
 	},
 	"contratista": "Constructora Fremont, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ6082",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA CONSTRUCCION DE CENTRO DE DESARROLLO COMUNITARIO ''TETLAN'', TRABAJOS CONSISTENTES EN ESTUDIOS DE MECANICA DE SUELOS, CALCULO ESTRUCTURAL, ALBAÑILERIA E INSTALACIONES HIDROSANITARIAS Y ELECTRICAS",
-	"ubicacion": "LUIS M. FREGOSOS ESQ. CERRADA CON LUIS M. FREGOSO, EN LA COL. TATLAN DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "CFR1005187H9",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 236287.49,
-	"contrato": "OPG-OD-EQP-AD-C05-082/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CFR1005187H9",
+	"ubicacion": "LUIS M. FREGOSOS ESQ. CERRADA CON LUIS M. FREGOSO, EN LA COL. TATLAN DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-OD-EQP-AD-C05-082/12",
+	"presupuesto": 236287.49,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA CONSTRUCCION DE CENTRO DE DESARROLLO COMUNITARIO ''TETLAN'', TRABAJOS CONSISTENTES EN ESTUDIOS DE MECANICA DE SUELOS, CALCULO ESTRUCTURAL, ALBAÑILERIA E INSTALACIONES HIDROSANITARIAS Y ELECTRICAS",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b2"
+		"$oid": "58b7acee1d44b643db3aa6e6"
 	},
 	"contratista": "Proyectos Arquitectonicos Maple, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ01083",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACION DEL PARQUE AGUA AZUL EN LA CONCHA ACUSTICA",
-	"ubicacion": "CALZ. GONZALEZ GALLO Y CALZ. INDEPENDENCIA, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "PAM091028D54",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Junio",
-	"presupesto": 1.652534886e+07,
-	"contrato": "OPG-CZM-EQP-LP-C05-083/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "PAM091028D54",
+	"ubicacion": "CALZ. GONZALEZ GALLO Y CALZ. INDEPENDENCIA, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-CZM-EQP-LP-C05-083/12",
+	"presupuesto": 1.652534886e+07,
+	"descripcion_obra": "REHABILITACION DEL PARQUE AGUA AZUL EN LA CONCHA ACUSTICA",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b3"
+		"$oid": "58b7acee1d44b643db3aa6e7"
 	},
 	"contratista": "Servicios Metropolitanos de Jalisco, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ5084/12",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACION DE LA UNIDAD DEPORTIVA 18 DE MARZO (EXPENAL).",
-	"ubicacion": "AV. JAVIER MINA ENTRE SEBASTIAN ALLENDE (C.58) Y DAMIAN CARMONA (C.62), EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "SMJ090317FS9",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Junio",
-	"presupesto": 6.35876802e+06,
-	"contrato": "OPG-CZM-EQP-LP-C05-084/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "SMJ090317FS9",
+	"ubicacion": "AV. JAVIER MINA ENTRE SEBASTIAN ALLENDE (C.58) Y DAMIAN CARMONA (C.62), EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-CZM-EQP-LP-C05-084/12",
+	"presupuesto": 6.35876802e+06,
+	"descripcion_obra": "REHABILITACION DE LA UNIDAD DEPORTIVA 18 DE MARZO (EXPENAL).",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b4"
+		"$oid": "58b7acee1d44b643db3aa6e8"
 	},
 	"contratista": "Capacitores y Electrosistemas Industriales S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1064",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO E INSTALACION DE PANELES SOLARES EN UNIDAD DEPORTIVA NO.12 ''INDEPENDENCIA''",
-	"ubicacion": "NEVADO DE TOLUCA NO. 100 ENTRE SIETE COLINAS Y SIERRA LEONA, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "CEI021216U57",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias",
+	"zona": "Zona 1: Centro",
 	"mes": "Mayo",
-	"presupesto": 1e+06,
-	"contrato": "OPG-FOPEDEM-EQP-AD-C04-064/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CEI021216U57",
+	"ubicacion": "NEVADO DE TOLUCA NO. 100 ENTRE SIETE COLINAS Y SIERRA LEONA, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-FOPEDEM-EQP-AD-C04-064/12",
+	"presupuesto": 1e+06,
+	"descripcion_obra": "SUMINISTRO E INSTALACION DE PANELES SOLARES EN UNIDAD DEPORTIVA NO.12 ''INDEPENDENCIA''",
+	"tipo_infraestructura": "Obras Varias"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b5"
+		"$oid": "58b7acee1d44b643db3aa6e9"
 	},
 	"contratista": "Traco Transformando la Construcción, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12FOPEDEMZ065",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACION DEL LAGO Y SU PERIMETRO DE LA UNIDAD No.37 \"CIUDAD TUCSON\"",
-	"ubicacion": "ALFONSO CRAVIOTO No.2280 ENTRE JESUS ROMERO FLORES Y FIDEL VELAZQUEZ, EN LA COL. JARDINES ALCALDE DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "TTC1001191J9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Mayo",
-	"presupesto": 1.99753788e+06,
-	"contrato": "OPG-FOPEDEM-EQP-CI-C04-065/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "TTC1001191J9",
+	"ubicacion": "ALFONSO CRAVIOTO No.2280 ENTRE JESUS ROMERO FLORES Y FIDEL VELAZQUEZ, EN LA COL. JARDINES ALCALDE DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-FOPEDEM-EQP-CI-C04-065/12",
+	"presupuesto": 1.99753788e+06,
+	"descripcion_obra": "REHABILITACION DEL LAGO Y SU PERIMETRO DE LA UNIDAD No.37 \"CIUDAD TUCSON\"",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b6"
+		"$oid": "58b7acee1d44b643db3aa6ea"
 	},
 	"contratista": "Copaso Construcciones S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12FOPEDEMZ066",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMODELACION DE LA UNIDAD DEPORTIVA No.47 \"ARACELI SOUZA DUEÑAS\"",
-	"ubicacion": "POZA RICA No.1297 ESQ. MARCO POLO, EN LA COL. 18 DE MARZO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "CCO990427F5A",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Mayo",
-	"presupesto": 3.99523524e+06,
-	"contrato": "OPG-FOPEDEM-EQP-CI-C04-066/12"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CCO990427F5A",
+	"ubicacion": "POZA RICA No.1297 ESQ. MARCO POLO, EN LA COL. 18 DE MARZO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-FOPEDEM-EQP-CI-C04-066/12",
+	"presupuesto": 3.99523524e+06,
+	"descripcion_obra": "REMODELACION DE LA UNIDAD DEPORTIVA No.47 \"ARACELI SOUZA DUEÑAS\"",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b7"
+		"$oid": "58b7acee1d44b643db3aa6eb"
 	},
 	"contratista": "Atelier BCM, S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12REPZ06067",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "14039EMF001 RESCATE DE ESPACIOS PUBLICOS DE LA UNIDAD DEPORTIVA \"FRANCISCO JAVIER MINA\", TRABAJOS CONSISTENTES EN JUEGOS INFANTILES, CANCHA DE FUTBOL RAPIDO, CANCHA DE USOS MULTIPLES, GIMNASIO, LUMINARIAS, MOBILIARIO Y AREA VERDE.",
-	"ubicacion": "PRESA DEL LAUREL S/N ENTRE DIONISIO RODRIGUEZ  Y MANUEL DE GOROSTIZA EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "ABC081002CZ5",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Mayo",
-	"presupesto": 3.18079554e+06,
-	"contrato": "OPG-REP-EQP-CI-C04-067/12"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "ABC081002CZ5",
+	"ubicacion": "PRESA DEL LAUREL S/N ENTRE DIONISIO RODRIGUEZ  Y MANUEL DE GOROSTIZA EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-REP-EQP-CI-C04-067/12",
+	"presupuesto": 3.18079554e+06,
+	"descripcion_obra": "14039EMF001 RESCATE DE ESPACIOS PUBLICOS DE LA UNIDAD DEPORTIVA \"FRANCISCO JAVIER MINA\", TRABAJOS CONSISTENTES EN JUEGOS INFANTILES, CANCHA DE FUTBOL RAPIDO, CANCHA DE USOS MULTIPLES, GIMNASIO, LUMINARIAS, MOBILIARIO Y AREA VERDE.",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b8"
+		"$oid": "58b7acee1d44b643db3aa6ec"
 	},
 	"contratista": "Control de Calidad de Materiales S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP068",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONTROL DE CALIDAD DE OBRAS DE IMAGEN URBANA EN ZONA ORIENTE",
-	"ubicacion": "ZONA ORIENTE DE LA CIUDAD",
-	"contratista_rfc": "CCM010316N69",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Mayo",
-	"presupesto": 1.2825e+06,
-	"contrato": "OPG-OD-EQP-AD-C04-068/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCM010316N69",
+	"ubicacion": "ZONA ORIENTE DE LA CIUDAD",
+	"contrato": "OPG-OD-EQP-AD-C04-068/12",
+	"presupuesto": 1.2825e+06,
+	"descripcion_obra": "CONTROL DE CALIDAD DE OBRAS DE IMAGEN URBANA EN ZONA ORIENTE",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2b9"
+		"$oid": "58b7acee1d44b643db3aa6ed"
 	},
 	"contratista": "Construcciones Calvec, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "UNIDAD CENTRAL DE PROTECCION ANIMAL (UPA)",
-	"ubicacion": "DR. R. MICHEL Y SALVADOR LÓPEZ CHAVÉZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLIMPICA",
-	"contratista_rfc": "CCA081015II2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Mayo",
-	"presupesto": 4.04972218e+06,
-	"contrato": "OPG-OD-EQP-CI-C04-069/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCA081015II2",
+	"ubicacion": "DR. R. MICHEL Y SALVADOR LÓPEZ CHAVÉZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLIMPICA",
+	"contrato": "OPG-OD-EQP-CI-C04-069/12",
+	"presupuesto": 4.04972218e+06,
+	"descripcion_obra": "UNIDAD CENTRAL DE PROTECCION ANIMAL (UPA)",
+	"tipo_infraestructura": "Obras Varias"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ba"
+		"$oid": "58b7acee1d44b643db3aa6ee"
 	},
 	"contratista": "Construargon S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHSZ3070",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SANEAMIENTO Y DESAZOLVE DEL CANAL FOVISSSTE ESTADIO",
-	"ubicacion": "AV. PATRIA ENTRE MONTE SAN ELIAS A CALZADA INDEPENDENCIA, EN LA COL. FOVISSSTE ESTADIO DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "CON060731AN5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Mayo",
-	"presupesto": 521788.45,
-	"contrato": "OPG-OD-IHS-AD-C04-070/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CON060731AN5",
+	"ubicacion": "AV. PATRIA ENTRE MONTE SAN ELIAS A CALZADA INDEPENDENCIA, EN LA COL. FOVISSSTE ESTADIO DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-IHS-AD-C04-070/12",
+	"presupuesto": 521788.45,
+	"descripcion_obra": "SANEAMIENTO Y DESAZOLVE DEL CANAL FOVISSSTE ESTADIO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2bb"
+		"$oid": "58b7acee1d44b643db3aa6ef"
 	},
 	"contratista": "Ing. Veronica Bermudez Torres",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS071",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "AMPLIACION BOCA DE TORMENTA",
-	"ubicacion": "PUERTO PROGRESO ENTRE PUERTO DE TODOS LOS SANTOS Y CANTERA EN LA COLONIA CIRCUNVALACION BELISARIO DOMINGUEZ DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "BETV600515U89",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Mayo",
-	"presupesto": 275000.0,
-	"contrato": "OPG-OD-IHS-AD-C04-071/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "BETV600515U89",
+	"ubicacion": "PUERTO PROGRESO ENTRE PUERTO DE TODOS LOS SANTOS Y CANTERA EN LA COLONIA CIRCUNVALACION BELISARIO DOMINGUEZ DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-OD-IHS-AD-C04-071/12",
+	"presupuesto": 275000.0,
+	"descripcion_obra": "AMPLIACION BOCA DE TORMENTA",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2bc"
+		"$oid": "58b7acee1d44b643db3aa6f0"
 	},
 	"contratista": "Arq. Marco Antonio Corona Hernández",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ4072",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL MEJORAMIENTO DE VIVIENDAS SOBRE LA CALLE MALECON, TRABAJOS CONSISTENTES EN LA REHABILITACION DE FACHADAS CON PINTURA",
-	"ubicacion": "MALECON ENTRE FERNANDO SOLIS Y PABLO VALDEZ, EN LAS COLONIAS LOMAS DEL GALLO Y CAMPESINA, DE LAS ZONAS 4 OBLATOS Y 6 TETLAN; MARIANO CORONADO ENTRE FERNANDO SOLIS Y MALECON, EN LA COL. CAMPESINA DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "COHM590130EB2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Mayo",
-	"presupesto": 89500.0,
-	"contrato": "OPG-OD-EQP-AD-C04-072/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "COHM590130EB2",
+	"ubicacion": "MALECON ENTRE FERNANDO SOLIS Y PABLO VALDEZ, EN LAS COLONIAS LOMAS DEL GALLO Y CAMPESINA, DE LAS ZONAS 4 OBLATOS Y 6 TETLAN; MARIANO CORONADO ENTRE FERNANDO SOLIS Y MALECON, EN LA COL. CAMPESINA DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-OD-EQP-AD-C04-072/12",
+	"presupuesto": 89500.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL MEJORAMIENTO DE VIVIENDAS SOBRE LA CALLE MALECON, TRABAJOS CONSISTENTES EN LA REHABILITACION DE FACHADAS CON PINTURA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2bd"
+		"$oid": "58b7acee1d44b643db3aa6f1"
 	},
 	"contratista": "Konstrucciones Navarro Villegas, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ1073",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION I)",
-	"ubicacion": "MARIANO BARCENAS ENTRE HERRERA Y CAIRO Y JOAQUIN ANGULO, EN LA COL. VILLASEÑOR DE LA ZONA 1 CENTRO; HOSPITAL ENTRE AV. DE LAS AMERICAS Y MARIANO BARCENA, EN LAS COL. STA. TERESITA Y COL. LADRON DE GUEVARA DE LA ZONA 1 CENTRO; GRAL. EULOGIO PARRA ENTRE AV.",
-	"contratista_rfc": "KNV 0101299U9",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Mayo",
-	"presupesto": 9.92252916e+06,
-	"contrato": "OPG-CZM-PAV-LP-C04-073/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "KNV 0101299U9",
+	"ubicacion": "MARIANO BARCENAS ENTRE HERRERA Y CAIRO Y JOAQUIN ANGULO, EN LA COL. VILLASEÑOR DE LA ZONA 1 CENTRO; HOSPITAL ENTRE AV. DE LAS AMERICAS Y MARIANO BARCENA, EN LAS COL. STA. TERESITA Y COL. LADRON DE GUEVARA DE LA ZONA 1 CENTRO; GRAL. EULOGIO PARRA ENTRE AV.",
+	"contrato": "OPG-CZM-PAV-LP-C04-073/12",
+	"presupuesto": 9.92252916e+06,
+	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION I)",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2be"
+		"$oid": "58b7acee1d44b643db3aa6f2"
 	},
 	"contratista": "Guizavi Construcciones, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ01074",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION II)",
-	"ubicacion": "AV. ALEMANIA ENTRE RAYÓN Y CALZ. DEL FEDERALISMO EN LA COL. MODERNA DE LA ZONA 1 CENTRO; FRANCIA ENTRE AV. CHAPULTEPEC Y CALZ. DEL FEDERALISMO EN LA COL. MODERNA DE LA ZONA 1 CENTRO; RAYÓN ENTRE LÁZARO PÉREZ Y AV. ALEMANIA EN LA COL. MODERNA DE LA ZONA 1",
-	"contratista_rfc": "GCO090306PGA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Mayo",
-	"presupesto": 9.77876528e+06,
-	"contrato": "OPG-CZM-PAV-LP-C04-074/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "GCO090306PGA",
+	"ubicacion": "AV. ALEMANIA ENTRE RAYÓN Y CALZ. DEL FEDERALISMO EN LA COL. MODERNA DE LA ZONA 1 CENTRO; FRANCIA ENTRE AV. CHAPULTEPEC Y CALZ. DEL FEDERALISMO EN LA COL. MODERNA DE LA ZONA 1 CENTRO; RAYÓN ENTRE LÁZARO PÉREZ Y AV. ALEMANIA EN LA COL. MODERNA DE LA ZONA 1",
+	"contrato": "OPG-CZM-PAV-LP-C04-074/12",
+	"presupuesto": 9.77876528e+06,
+	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION II)",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2bf"
+		"$oid": "58b7acee1d44b643db3aa6f3"
 	},
 	"contratista": "Grupo Constructor Pavimaq S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ01075",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION III)",
-	"ubicacion": "MANUEL ACUÑA ENTRE MIGUEL CABRERA Y AV. FEDERALISMO EN LAS COL. SANTA TERESITA Y COL. SAGRADA FAMILIA DE LA ZONA 1 CENTRO; NICOLÁS ROMERO ENTRE JOSÉ MARÍA VIGIL Y JUAN MANUEL EN LAS COL. VILLASEÑOR Y COL. SANTA TERESITA DE LA ZONA 1 CENTRO; GREGORIO DÁVIL",
-	"contratista_rfc": "GCP080129AMA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Mayo",
-	"presupesto": 9.80747025e+06,
-	"contrato": "OPG-CZM-PAV-LP-C04-075/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "GCP080129AMA",
+	"ubicacion": "MANUEL ACUÑA ENTRE MIGUEL CABRERA Y AV. FEDERALISMO EN LAS COL. SANTA TERESITA Y COL. SAGRADA FAMILIA DE LA ZONA 1 CENTRO; NICOLÁS ROMERO ENTRE JOSÉ MARÍA VIGIL Y JUAN MANUEL EN LAS COL. VILLASEÑOR Y COL. SANTA TERESITA DE LA ZONA 1 CENTRO; GREGORIO DÁVIL",
+	"contrato": "OPG-CZM-PAV-LP-C04-075/12",
+	"presupuesto": 9.80747025e+06,
+	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION III)",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c0"
+		"$oid": "58b7acee1d44b643db3aa6f4"
 	},
 	"contratista": "Grupo TYP de Jalisco S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ01076",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION IV)",
-	"ubicacion": "REFORMA ENTRE AV. DE LAS AMÉRICAS Y GABRIEL RAMOS MILLÁN EN LA COL. LADRON DE GUEVARA, EN LA ZONA 1 CENTRO ; CONTRERAS MEDELLÍN ENTRE SAN FELIPE Y  JESÚS GARCÍA, EN LA COL. CENTRO DE LA ZONA 1 CENTRO; JOAQUIN ANGULO ENTRE MARIANO BÁRCENAS Y AV. ALCALDE EN",
-	"contratista_rfc": "GTJ010430461",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Mayo",
-	"presupesto": 9.51365969e+06,
-	"contrato": "OPG-CZM-PAV-LP-C04-076/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "GTJ010430461",
+	"ubicacion": "REFORMA ENTRE AV. DE LAS AMÉRICAS Y GABRIEL RAMOS MILLÁN EN LA COL. LADRON DE GUEVARA, EN LA ZONA 1 CENTRO ; CONTRERAS MEDELLÍN ENTRE SAN FELIPE Y  JESÚS GARCÍA, EN LA COL. CENTRO DE LA ZONA 1 CENTRO; JOAQUIN ANGULO ENTRE MARIANO BÁRCENAS Y AV. ALCALDE EN",
+	"contrato": "OPG-CZM-PAV-LP-C04-076/12",
+	"presupuesto": 9.51365969e+06,
+	"descripcion_obra": "IMAGEN URBANA Y PAVIMENTOS ZONA CENTRO (SECCION IV)",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c1"
+		"$oid": "58b7acee1d44b643db3aa6f5"
 	},
 	"contratista": "Constructora Galafer S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EYPZ05077",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DEL PARQUE GONZALEZ GALLO; B) REMOZAMIENTO DE PARQUES EN LA ZONA ORIENTE (REHABILITACIÓN DEL PARQUE GONZALEZ GALLO, SEGUNDA ETAPA) DEL FONDO DE APOYO PARA LA INFRAESTRUCTURA Y SEGURIDAD",
-	"ubicacion": "DR. R. MICHEL Y SALVADOR LOPEZ CHAVEZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "CGA091202HS2",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Mayo",
-	"presupesto": 1.5e+07,
-	"contrato": "OPG-CZM-EQP-LP-C04-077/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CGA091202HS2",
+	"ubicacion": "DR. R. MICHEL Y SALVADOR LOPEZ CHAVEZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-CZM-EQP-LP-C04-077/12",
+	"presupuesto": 1.5e+07,
+	"descripcion_obra": "A) REHABILITACION DEL PARQUE GONZALEZ GALLO; B) REMOZAMIENTO DE PARQUES EN LA ZONA ORIENTE (REHABILITACIÓN DEL PARQUE GONZALEZ GALLO, SEGUNDA ETAPA) DEL FONDO DE APOYO PARA LA INFRAESTRUCTURA Y SEGURIDAD",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c2"
+		"$oid": "58b7acee1d44b643db3aa6f6"
 	},
 	"contratista": "Construcciones y Proyectos SAG S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z034",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL \"AMELIA COVARRUBIAS COVARRUBIAS\", TRABAJOS CONSISTENTES EN LA REHABILITACION DE PISO DE CONCRETO, REHABILITACION DE INSTALACIONES ELECTRICAS Y CONSTRUCCION DE RAMPAS; B) REHABILITACION DE LA ESCUELA PRIMARI",
-	"ubicacion": "A) FERMINA RIVERA ENTRE ARNULFO GONZALEZ MEDINA Y EUCARIO LEON LOPEZ, EN LA COL. LOMAS DEL PARAISO 1° SECC. DE LA ZONA 3 HUENTITAN; B) MIGUEL EGUILUZ No. 2760 ENTRE CARLOS PACHECO Y JOSE MARIA MONTENEGRO, EN LA COL. RANCHO NUEVO DE LA ZONA 3 HUENTITAN; C)",
-	"contratista_rfc": "CPS101110QB0",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 3.9629797e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-034/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CPS101110QB0",
+	"ubicacion": "A) FERMINA RIVERA ENTRE ARNULFO GONZALEZ MEDINA Y EUCARIO LEON LOPEZ, EN LA COL. LOMAS DEL PARAISO 1° SECC. DE LA ZONA 3 HUENTITAN; B) MIGUEL EGUILUZ No. 2760 ENTRE CARLOS PACHECO Y JOSE MARIA MONTENEGRO, EN LA COL. RANCHO NUEVO DE LA ZONA 3 HUENTITAN; C)",
+	"contrato": "OPG-R33-ESC-CI-C02-034/12",
+	"presupuesto": 3.9629797e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL \"AMELIA COVARRUBIAS COVARRUBIAS\", TRABAJOS CONSISTENTES EN LA REHABILITACION DE PISO DE CONCRETO, REHABILITACION DE INSTALACIONES ELECTRICAS Y CONSTRUCCION DE RAMPAS; B) REHABILITACION DE LA ESCUELA PRIMARI",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c3"
+		"$oid": "58b7acee1d44b643db3aa6f7"
 	},
 	"contratista": "Infraestructura la Estancia, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z035",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA No.51 \"SIMON BOLIVAR\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA; B) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL \"CUAUHTEMOC\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA Y REH",
-	"ubicacion": "A) HACIENDA TALA No.3255 ENTRE HACIENDA LA VENTA Y HACIENDA TETLAN , EN LA COL. OBLATOS DE LA ZONA 4 OBLATOS; B) JOSEMARIA IGLESIAS No.4117 ENTRE SUCRE Y PEDRO  RIVAS, EN LA COL. LOMAS DE GALLO DE LA ZONA 6 TETLAN; C) AVENIDA DE LA PRESA ENTRE RUBLO Y MAR",
-	"contratista_rfc": "IES110803EI2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 3.99779568e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-035/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "IES110803EI2",
+	"ubicacion": "A) HACIENDA TALA No.3255 ENTRE HACIENDA LA VENTA Y HACIENDA TETLAN , EN LA COL. OBLATOS DE LA ZONA 4 OBLATOS; B) JOSEMARIA IGLESIAS No.4117 ENTRE SUCRE Y PEDRO  RIVAS, EN LA COL. LOMAS DE GALLO DE LA ZONA 6 TETLAN; C) AVENIDA DE LA PRESA ENTRE RUBLO Y MAR",
+	"contrato": "OPG-R33-ESC-CI-C02-035/12",
+	"presupuesto": 3.99779568e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA No.51 \"SIMON BOLIVAR\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA; B) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL \"CUAUHTEMOC\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA Y REH",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c4"
+		"$oid": "58b7acee1d44b643db3aa6f8"
 	},
 	"contratista": "Obras y Proyectos Jayco S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z037",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA \"LIBERTAD\", TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACION DE AZOTEA Y SUBIR EL MURO PERIMETRAL; B) REHABILITACION DEL JARDIN DE NIÑOS \"ESTEBAN ALATORRE\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO PARA PA",
-	"ubicacion": "A) DIONISIO RODRIGUEZ No.2931 ENTRE ANTONIO ENRIQUEZ Y CARLOS GONZALES PENA, EN LA COL. SANTAMARIA DE SILIO DE LA ZONA 6 TETLAN; B) ESTEBAN ALATORRE  No.3030 ENTRE TEHERAN Y CAIRO, EN LA COL. ESTEBAN ALATORRE DE LA ZONA 6 TETLAN; C) RAMON CASTELLANOS No.1",
-	"contratista_rfc": "OPJ1008265B1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 2.59842e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-037/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "OPJ1008265B1",
+	"ubicacion": "A) DIONISIO RODRIGUEZ No.2931 ENTRE ANTONIO ENRIQUEZ Y CARLOS GONZALES PENA, EN LA COL. SANTAMARIA DE SILIO DE LA ZONA 6 TETLAN; B) ESTEBAN ALATORRE  No.3030 ENTRE TEHERAN Y CAIRO, EN LA COL. ESTEBAN ALATORRE DE LA ZONA 6 TETLAN; C) RAMON CASTELLANOS No.1",
+	"contrato": "OPG-R33-ESC-CI-C02-037/12",
+	"presupuesto": 2.59842e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA \"LIBERTAD\", TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACION DE AZOTEA Y SUBIR EL MURO PERIMETRAL; B) REHABILITACION DEL JARDIN DE NIÑOS \"ESTEBAN ALATORRE\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO PARA PA",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c5"
+		"$oid": "58b7acee1d44b643db3aa6f9"
 	},
 	"contratista": "Building Option México, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z038",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA URBANA No.90 / \"MA. TERESA DE LA CUEVA\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA, REHABILITACION DE RED ELECTRICA Y  REHABILITACION DE BAÑOS; B) REHABILITACION DE LA ESCUELA SECUNDARIA No.54 \"DO",
-	"ubicacion": "A) DIAZ MIRON No.128 ENTRE GOMEZ FARIAS Y ALDAMA, EN LA COL. LA LOMA DE LA ZONA 4 OBLATOS; B) BARTOLOME DE LAS CASAS No.587 ENTRE FRANCISCO SILVA ROMERO Y JOSE LUIS VERDIA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; C) CEREZO No.1318 ENTRE PRIMAVERA Y CIPRES,",
-	"contratista_rfc": "BOM0904279A9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 2.66692802e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-038/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "BOM0904279A9",
+	"ubicacion": "A) DIAZ MIRON No.128 ENTRE GOMEZ FARIAS Y ALDAMA, EN LA COL. LA LOMA DE LA ZONA 4 OBLATOS; B) BARTOLOME DE LAS CASAS No.587 ENTRE FRANCISCO SILVA ROMERO Y JOSE LUIS VERDIA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; C) CEREZO No.1318 ENTRE PRIMAVERA Y CIPRES,",
+	"contrato": "OPG-R33-ESC-CI-C02-038/12",
+	"presupuesto": 2.66692802e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA URBANA No.90 / \"MA. TERESA DE LA CUEVA\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN CANCHA, REHABILITACION DE RED ELECTRICA Y  REHABILITACION DE BAÑOS; B) REHABILITACION DE LA ESCUELA SECUNDARIA No.54 \"DO",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c6"
+		"$oid": "58b7acee1d44b643db3aa6fa"
 	},
 	"contratista": "AR+IN, S.A. DE C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z039",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DEL JARDIN DE NIÑOS \"EVA GUERRA FLORES\", TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACION DE AZOTEA Y CONSTRUCCION DE TOLDO; B) REHABILITACION DEL JARDIN DE NIÑOS \"NIÑO ARTILLERO\", TRABAJOS CONSISTENTES EN LA COLOCACION DE ANTEPECHO EN LAS",
-	"ubicacion": "A) CUAUTLA No.261 ENTRE ANTONIO BRAVO Y CUITLAHUAC, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; B) HONDURAS No.1804 ENTRE ECUADOR  Y COLOMBIA, EN LA COL. DEL SUR DE LA ZONA 7 CRUZ DEL SUR; C) CALLE 10 No.1929 ENTRE CALLE 7 Y CALLE 9, EN LA COL. FERROCARRIL DE",
-	"contratista_rfc": "ASI060522RW7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 4.03248713e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-039/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "ASI060522RW7",
+	"ubicacion": "A) CUAUTLA No.261 ENTRE ANTONIO BRAVO Y CUITLAHUAC, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; B) HONDURAS No.1804 ENTRE ECUADOR  Y COLOMBIA, EN LA COL. DEL SUR DE LA ZONA 7 CRUZ DEL SUR; C) CALLE 10 No.1929 ENTRE CALLE 7 Y CALLE 9, EN LA COL. FERROCARRIL DE",
+	"contrato": "OPG-R33-ESC-CI-C02-039/12",
+	"presupuesto": 4.03248713e+06,
+	"descripcion_obra": "A) REHABILITACION DEL JARDIN DE NIÑOS \"EVA GUERRA FLORES\", TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACION DE AZOTEA Y CONSTRUCCION DE TOLDO; B) REHABILITACION DEL JARDIN DE NIÑOS \"NIÑO ARTILLERO\", TRABAJOS CONSISTENTES EN LA COLOCACION DE ANTEPECHO EN LAS",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c7"
+		"$oid": "58b7acee1d44b643db3aa6fb"
 	},
 	"contratista": "Proyectos y Construcciones Regina S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z040",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"LUIS DONALDO COLOSIO MURRIETA\", TRABAJOS CONSISTENTES EN LA REHABILITACION DE RED ELECTRICA,  LINEA DE DRENAJE Y CONSTRUCCION DE  MODULO DE BAÑOS.B) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL  \"MELCHOR OCAMPO\",",
-	"ubicacion": "A) RAMON ALCORTA No.2131 ENTRE ANSELMO CAMACHO Y GUILLERMO BACA, EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR; B) JESUS CAPISTRAN No.2658 ENTRE JERONIMO TREVIÑO Y PROL. COLON, EN LA COL. LOPEZ PORTILLO DE LA ZONA 7 CRUZ DEL SUR; C) JERONIMO TREVI",
-	"contratista_rfc": "PYC070827PP3",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 2.74867305e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-040/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "PYC070827PP3",
+	"ubicacion": "A) RAMON ALCORTA No.2131 ENTRE ANSELMO CAMACHO Y GUILLERMO BACA, EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR; B) JESUS CAPISTRAN No.2658 ENTRE JERONIMO TREVIÑO Y PROL. COLON, EN LA COL. LOPEZ PORTILLO DE LA ZONA 7 CRUZ DEL SUR; C) JERONIMO TREVI",
+	"contrato": "OPG-R33-ESC-CI-C02-040/12",
+	"presupuesto": 2.74867305e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"LUIS DONALDO COLOSIO MURRIETA\", TRABAJOS CONSISTENTES EN LA REHABILITACION DE RED ELECTRICA,  LINEA DE DRENAJE Y CONSTRUCCION DE  MODULO DE BAÑOS.B) REHABILITACION DE LA ESCUELA PRIMARIA FEDERAL  \"MELCHOR OCAMPO\",",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c8"
+		"$oid": "58b7acee1d44b643db3aa6fc"
 	},
 	"contratista": "Complementos Constructivos y Manejo de Carga Diesel S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z041",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA \"EMILIANO ZAPATA SALAZAR\", TRABAJOS CONSISTENTES EN LA INSTALACION DE PISO  EN AULAS E INSTALACION DE ALUMBRADO EN ESCALERAS; B) REHABILITACION DE LA ESCUELA PRIMARIA \"JOSE GUADALUPE ZUNO\", TRABAJOS CONSISTENTES",
-	"ubicacion": "A) OTHON BLANCO CACERES No.37 ENTRE JULIAN GRANADOS Y ADOLFO CINEROS, EN LA COL. LOPEZ PORTILLO DE LA ZONA 7 CRUZ DEL SUR; B) CARLOS A CARRILLO No.1435 ENTRE GABINO ORTIZ Y JUAN JOSE RIOS, EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR; C) CARLOS A",
-	"contratista_rfc": "CCM091125822",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 4.46426548e+06,
-	"contrato": "OPG-R33-ESC-CI-C02-041/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CCM091125822",
+	"ubicacion": "A) OTHON BLANCO CACERES No.37 ENTRE JULIAN GRANADOS Y ADOLFO CINEROS, EN LA COL. LOPEZ PORTILLO DE LA ZONA 7 CRUZ DEL SUR; B) CARLOS A CARRILLO No.1435 ENTRE GABINO ORTIZ Y JUAN JOSE RIOS, EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR; C) CARLOS A",
+	"contrato": "OPG-R33-ESC-CI-C02-041/12",
+	"presupuesto": 4.46426548e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA \"EMILIANO ZAPATA SALAZAR\", TRABAJOS CONSISTENTES EN LA INSTALACION DE PISO  EN AULAS E INSTALACION DE ALUMBRADO EN ESCALERAS; B) REHABILITACION DE LA ESCUELA PRIMARIA \"JOSE GUADALUPE ZUNO\", TRABAJOS CONSISTENTES",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2c9"
+		"$oid": "58b7acee1d44b643db3aa6fd"
 	},
 	"contratista": "Constructora y Desarrolladora Barba y Asociados S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z3045",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
-	"ubicacion": "IGUALDAD ENTRE CALZADA INDEPENDENCIA NORTE Y BELISARIO DOMINGUEZ, EN LA COL. LA FEDERACHA DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "CDB0506068Z4",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Abril",
-	"presupesto": 1.429676472e+07,
-	"contrato": "OPG-R33-PAV-LP-C02-045/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CDB0506068Z4",
+	"ubicacion": "IGUALDAD ENTRE CALZADA INDEPENDENCIA NORTE Y BELISARIO DOMINGUEZ, EN LA COL. LA FEDERACHA DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-R33-PAV-LP-C02-045/12",
+	"presupuesto": 1.429676472e+07,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ca"
+		"$oid": "58b7acee1d44b643db3aa6fe"
 	},
 	"contratista": "M3 Creación, S. de R.L. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z4046",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
-	"ubicacion": "HACIENDA LA VENTA ENTRE ARTESANOS Y HACIENDA DE TALA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS; HACIENDA LA ESTANCIA ENTRE HACIENDA IXCUINTLA Y HACIENDA LA VENTA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "MCR061215GZ6",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Abril",
-	"presupesto": 2.52171333e+07,
-	"contrato": "OPG-R33-PAV-LP-C02-046/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "MCR061215GZ6",
+	"ubicacion": "HACIENDA LA VENTA ENTRE ARTESANOS Y HACIENDA DE TALA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS; HACIENDA LA ESTANCIA ENTRE HACIENDA IXCUINTLA Y HACIENDA LA VENTA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-LP-C02-046/12",
+	"presupuesto": 2.52171333e+07,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2cb"
+		"$oid": "58b7acee1d44b643db3aa6ff"
 	},
 	"contratista": "Constructora Galafer S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z6048",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
-	"ubicacion": "DR. ROBERTO WEEK LOPEZ ENTRE JOSE MARIA IGLESIAS Y AV. PRESA DE OSORIO, EN LA COL. LOMAS DEL GALLO DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "CGA091202HS2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Abril",
-	"presupesto": 5.04774804e+06,
-	"contrato": "OPG-R33-PAV-CI-C02-048/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CGA091202HS2",
+	"ubicacion": "DR. ROBERTO WEEK LOPEZ ENTRE JOSE MARIA IGLESIAS Y AV. PRESA DE OSORIO, EN LA COL. LOMAS DEL GALLO DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-R33-PAV-CI-C02-048/12",
+	"presupuesto": 5.04774804e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2cc"
+		"$oid": "58b7acee1d44b643db3aa700"
 	},
 	"contratista": "Consorcio Roja Asesoria y Proyectos S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z4049",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA; PAVIMENTO CON CONCRETO ASFALTICO, INCLUYE SUSTITUCION DE DESCARGA Y TOMA DOMICILIARIA",
-	"ubicacion": "A) HACIENDA ZENZONTLA ENTRE PLUTARCO ELIAS CALLES Y HACIENDA DE CEDROS, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS; B) HACIENDA NAVAJAS ENTRE PLUTARCO ELIAS CALLES Y HACIENDA TABLON EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "CRA100723PP7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Abril",
-	"presupesto": 4.28340092e+06,
-	"contrato": "OPG-R33-PAV-CI-C02-049/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CRA100723PP7",
+	"ubicacion": "A) HACIENDA ZENZONTLA ENTRE PLUTARCO ELIAS CALLES Y HACIENDA DE CEDROS, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS; B) HACIENDA NAVAJAS ENTRE PLUTARCO ELIAS CALLES Y HACIENDA TABLON EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-CI-C02-049/12",
+	"presupuesto": 4.28340092e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA; PAVIMENTO CON CONCRETO ASFALTICO, INCLUYE SUSTITUCION DE DESCARGA Y TOMA DOMICILIARIA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2cd"
+		"$oid": "58b7acee1d44b643db3aa701"
 	},
 	"contratista": "Grupo Constructor Maca, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z3050",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
-	"ubicacion": "VOLCAN SAN FRANCISCO ENTRE CALZADA INDEPENDENCIA NORTE Y CALLE DEL REAL, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "GCM071204995",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Abril",
-	"presupesto": 3.01612862e+06,
-	"contrato": "OPG-R33-PAV-CI-C02-050/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "GCM071204995",
+	"ubicacion": "VOLCAN SAN FRANCISCO ENTRE CALZADA INDEPENDENCIA NORTE Y CALLE DEL REAL, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-R33-PAV-CI-C02-050/12",
+	"presupuesto": 3.01612862e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ce"
+		"$oid": "58b7acee1d44b643db3aa702"
 	},
 	"contratista": "Grupo Bufete Arquitectonico S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33Z4058",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
-	"ubicacion": "HACIENDA CIENEGA DE MATA ENTRE HACIENDA DE TALA Y HACIENDA LA SAUCEDA, EN LA COL. BALCONES DE OBLATOS 2da. SECCION DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "GBA070115FK1",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Abril",
-	"presupesto": 7.67403619e+06,
-	"contrato": "OPG-R33-PAV-LP-C02-058/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "GBA070115FK1",
+	"ubicacion": "HACIENDA CIENEGA DE MATA ENTRE HACIENDA DE TALA Y HACIENDA LA SAUCEDA, EN LA COL. BALCONES DE OBLATOS 2da. SECCION DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-LP-C02-058/12",
+	"presupuesto": 7.67403619e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2cf"
+		"$oid": "58b7acee1d44b643db3aa703"
 	},
 	"contratista": "Trama Constructora y Maquinaria S.A. de C.V.",
-	"origen_de_resultados": "BIPARTITA",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12FODEREGZ060",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "RENOVACION URBANA DE LA AV.MALECON (PRIMERA ETAPA)",
-	"ubicacion": "AV. MALECON ENTRE CALLE GIGANTES Y CALLE MANUEL DE GOROSTIZA, EN LA ZONA 6 TETLAN",
-	"contratista_rfc": "TMC0111148H5",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 4.52632227e+06,
-	"contrato": "OPG-FONDEREG-PAV-LP-C02-060/12"
+	"origen_de_recursos": "BIPARTITA",
+	"contratista_rfc": "TMC0111148H5",
+	"ubicacion": "AV. MALECON ENTRE CALLE GIGANTES Y CALLE MANUEL DE GOROSTIZA, EN LA ZONA 6 TETLAN",
+	"contrato": "OPG-FONDEREG-PAV-LP-C02-060/12",
+	"presupuesto": 4.52632227e+06,
+	"descripcion_obra": "RENOVACION URBANA DE LA AV.MALECON (PRIMERA ETAPA)",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d0"
+		"$oid": "58b7acee1d44b643db3aa704"
 	},
 	"contratista": "Metropolizadora de Servicios para la Construcción S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHSZ7061",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SANEAMIENTO DE VASO REGULADOR DEL DEAN (DESAZOLVE 2da. ETAPA)",
-	"ubicacion": "CALZ. LAZARO CARDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACION DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "MSC090401AZ0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Desazolves",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Abril",
-	"presupesto": 2.39381602e+06,
-	"contrato": "OPG-OD-IHS-AD-C03-061/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MSC090401AZ0",
+	"ubicacion": "CALZ. LAZARO CARDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACION DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-IHS-AD-C03-061/12",
+	"presupuesto": 2.39381602e+06,
+	"descripcion_obra": "SANEAMIENTO DE VASO REGULADOR DEL DEAN (DESAZOLVE 2da. ETAPA)",
+	"tipo_infraestructura": "Desazolves"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d1"
+		"$oid": "58b7acee1d44b643db3aa705"
 	},
 	"contratista": "Ing. Francisco Rocha Tovar",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ3062",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCION DE MURO DE CONTENCION",
-	"ubicacion": "PEDRO TABOADA CASI ESQ. MANUEL IGNACIO SOLIS, EN LA COL. LOMAS DEL PARAISO EN LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "ROTF830509KE3",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Abril",
-	"presupesto": 1.49780608e+06,
-	"contrato": "OPG-OD-EQP-AD-C03-062/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ROTF830509KE3",
+	"ubicacion": "PEDRO TABOADA CASI ESQ. MANUEL IGNACIO SOLIS, EN LA COL. LOMAS DEL PARAISO EN LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-EQP-AD-C03-062/12",
+	"presupuesto": 1.49780608e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCION DE MURO DE CONTENCION",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d2"
+		"$oid": "58b7acee1d44b643db3aa706"
 	},
 	"contratista": "Constructora y Pavimentadora VISE S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAVZ5063",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "RESTRUCTURACION URBANA DE CALLES CON PAVIMENTO ASFALTICO DE LA ZONA 5 OLIMPICA",
-	"ubicacion": "VARIOS PUNTOS DE LA ZONA 5 OLIMPICA",
-	"contratista_rfc": "CPV810615PP5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Asfaltos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Abril",
-	"presupesto": 2.5e+06,
-	"contrato": "OPG-OD-PAV-AD-C03-063/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CPV810615PP5",
+	"ubicacion": "VARIOS PUNTOS DE LA ZONA 5 OLIMPICA",
+	"contrato": "OPG-OD-PAV-AD-C03-063/12",
+	"presupuesto": 2.5e+06,
+	"descripcion_obra": "RESTRUCTURACION URBANA DE CALLES CON PAVIMENTO ASFALTICO DE LA ZONA 5 OLIMPICA",
+	"tipo_infraestructura": "Asfaltos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d3"
+		"$oid": "58b7acee1d44b643db3aa707"
 	},
 	"contratista": "Imsic Comercializadora e Importadora S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33033",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE ESCUELA PRIMARIA \"ISABEL FERNANDEZ DE MOLINA\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN PATIO, REHABILITACION DE PISO DE CONCRETO EN PATIO Y CAMBIO DE TEJAS EN CUBIERTA. B) REHABILITACION DE JARDIN DE NIÑOS \"JAIME TORRES B",
-	"ubicacion": "A) VOLCAN BABUYAN No. 5349 ENTRE VOLCAN PATAMBAN Y VOLCAN TACANA, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN. B) VOLCAN BABUYAN No. 5215 ENTRE VOLCAN SAN FRANCISCO Y VOLCAN BUMBAN, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN. C) VOLCAN VI",
-	"contratista_rfc": "ICI960207EZ6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.24405198e+06,
-	"contrato": "OPG-R33-ESC-AD-C02-033/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "ICI960207EZ6",
+	"ubicacion": "A) VOLCAN BABUYAN No. 5349 ENTRE VOLCAN PATAMBAN Y VOLCAN TACANA, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN. B) VOLCAN BABUYAN No. 5215 ENTRE VOLCAN SAN FRANCISCO Y VOLCAN BUMBAN, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN. C) VOLCAN VI",
+	"contrato": "OPG-R33-ESC-AD-C02-033/12",
+	"presupuesto": 2.24405198e+06,
+	"descripcion_obra": "A) REHABILITACION DE ESCUELA PRIMARIA \"ISABEL FERNANDEZ DE MOLINA\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE TOLDO EN PATIO, REHABILITACION DE PISO DE CONCRETO EN PATIO Y CAMBIO DE TEJAS EN CUBIERTA. B) REHABILITACION DE JARDIN DE NIÑOS \"JAIME TORRES B",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d4"
+		"$oid": "58b7acee1d44b643db3aa708"
 	},
 	"contratista": "Construcciones Integrales de Occidente, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33036",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"BEATRIZ SANABRIA\" No.158, TRABAJOS CONSISTENTES EN LA REHABILITACION DE PISO DE CONCRETO, CONSTRUCCION DE TOLDO, REHABILITACION MENOR DE BAÑOS, REHABILITACION DE  AULAS Y PINTURA EN HERRERIA. B) REHABILITACION DE",
-	"ubicacion": "A) HACIENDA LOS BELENES No.2000 ENTRE HACIENDA DEL CORTIJO Y GENOVEVO RIVAS GUILLEN, EN LA COL. OBLATOS DE LA ZONA 4 OBLATOS. B) MERCEDES CELIS No.55 ENTRE MARIA REYES Y ANDRES BELLO, EN LA COL. TETLAN DE LA ZONA 6 TETLAN. C) FCO. CARDENAS LARIOS ENTRE MA",
-	"contratista_rfc": "CIO070404DT8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.47752939e+06,
-	"contrato": "OPG-R33-ESC-AD-C02-036/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CIO070404DT8",
+	"ubicacion": "A) HACIENDA LOS BELENES No.2000 ENTRE HACIENDA DEL CORTIJO Y GENOVEVO RIVAS GUILLEN, EN LA COL. OBLATOS DE LA ZONA 4 OBLATOS. B) MERCEDES CELIS No.55 ENTRE MARIA REYES Y ANDRES BELLO, EN LA COL. TETLAN DE LA ZONA 6 TETLAN. C) FCO. CARDENAS LARIOS ENTRE MA",
+	"contrato": "OPG-R33-ESC-AD-C02-036/12",
+	"presupuesto": 2.47752939e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"BEATRIZ SANABRIA\" No.158, TRABAJOS CONSISTENTES EN LA REHABILITACION DE PISO DE CONCRETO, CONSTRUCCION DE TOLDO, REHABILITACION MENOR DE BAÑOS, REHABILITACION DE  AULAS Y PINTURA EN HERRERIA. B) REHABILITACION DE",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d5"
+		"$oid": "58b7acee1d44b643db3aa709"
 	},
 	"contratista": "Solorio y Becerra Construcciones S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33042",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA MIXTA No.62 \"NETZAHUALCOYOTL\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MODULO DE BAÑOS. B) REHABILITACION DE LA ESCUELA PRIMARIA \"SOLEDAD BLANCO RODRIGUEZ\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MODULO",
-	"ubicacion": "A) FELIPE LOPEZ No.3700 ENTRE FRANCISCO VILLA Y ELISEO GRANJA, EN LA COL. REVOLUCIONARIA DE LA ZONA 7 CRUZ DEL SUR. B) AV. 8 DE JULIO No.3885 ENTRE AVENIDA JESUS REYES HEROLES Y LUIS N. MORONES, EN LA COL. POLANQUITO DE LA ZONA 7 CRUZ DEL SUR. C) OTHON BL",
-	"contratista_rfc": "SBC0812095A8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.54412381e+06,
-	"contrato": "OPG-R33-ESC-AD-C02-042/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "SBC0812095A8",
+	"ubicacion": "A) FELIPE LOPEZ No.3700 ENTRE FRANCISCO VILLA Y ELISEO GRANJA, EN LA COL. REVOLUCIONARIA DE LA ZONA 7 CRUZ DEL SUR. B) AV. 8 DE JULIO No.3885 ENTRE AVENIDA JESUS REYES HEROLES Y LUIS N. MORONES, EN LA COL. POLANQUITO DE LA ZONA 7 CRUZ DEL SUR. C) OTHON BL",
+	"contrato": "OPG-R33-ESC-AD-C02-042/12",
+	"presupuesto": 2.54412381e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA SECUNDARIA MIXTA No.62 \"NETZAHUALCOYOTL\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MODULO DE BAÑOS. B) REHABILITACION DE LA ESCUELA PRIMARIA \"SOLEDAD BLANCO RODRIGUEZ\", TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MODULO",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d6"
+		"$oid": "58b7acee1d44b643db3aa70a"
 	},
 	"contratista": "Proyectos y Construcciones Argu S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33043",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"PORFIRIO RENTERIA FIGUEROA\", TRABAJOS CONSISTENTES EN LA REHABILITACION EN BAÑOS. SUSTITUCION DE TEJA DEL MODULO DE BAÑOS Y COLOCACION  DE CONCERTINA EN AZOTEA. B) REHABILITACION DE LA ESCUELA PRIMARIA \"BENITO JUA",
-	"ubicacion": "A) RAFAEL NAVARRO CORTINA ENTRE DIEGO MONTENEGRO Y TEODOMIRO MANZANO, EN LA COL. BALCONES DEL 4 DE LA ZONA 7 CRUZ DEL SUR. B) 18 DE AGOSTO No.1931 ENTRE 1° DE OCTUBRE Y JOSE FIGUEROA, EN LA COL. LOS  COLORINES DE LA ZONA 7 CRUZ DEL SUR. C) COATLAN ENTRE C",
-	"contratista_rfc": "PYC080108EC8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.59704408e+06,
-	"contrato": "OPG-R33-ESC-AD-C02-043/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "PYC080108EC8",
+	"ubicacion": "A) RAFAEL NAVARRO CORTINA ENTRE DIEGO MONTENEGRO Y TEODOMIRO MANZANO, EN LA COL. BALCONES DEL 4 DE LA ZONA 7 CRUZ DEL SUR. B) 18 DE AGOSTO No.1931 ENTRE 1° DE OCTUBRE Y JOSE FIGUEROA, EN LA COL. LOS  COLORINES DE LA ZONA 7 CRUZ DEL SUR. C) COATLAN ENTRE C",
+	"contrato": "OPG-R33-ESC-AD-C02-043/12",
+	"presupuesto": 2.59704408e+06,
+	"descripcion_obra": "A) REHABILITACION DE LA ESCUELA PRIMARIA \"PORFIRIO RENTERIA FIGUEROA\", TRABAJOS CONSISTENTES EN LA REHABILITACION EN BAÑOS. SUSTITUCION DE TEJA DEL MODULO DE BAÑOS Y COLOCACION  DE CONCERTINA EN AZOTEA. B) REHABILITACION DE LA ESCUELA PRIMARIA \"BENITO JUA",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d7"
+		"$oid": "58b7acee1d44b643db3aa70b"
 	},
 	"contratista": "Constructora Fremont, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33044",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA.",
-	"ubicacion": "TOMAS DOSAL ENTRE MARIA DEL CARMEN FRIAS Y ANTONIO ALVAREZ VEGA, EN LA COL. LOMAS DEL PARAISO DE LA ZONA 3 HUENTITAN. ANTONIO ALVAREZ VEGA ENTRE  TOMAS DOSAL Y CALLE CERRADA, EN LA COL. LOMAS DEL PARAISO DE LA ZONA 3 HUENTITAN. GUILLERMO CHAVEZ ENTRE TOMA",
-	"contratista_rfc": "CFR1005187H9",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 1.44504275e+06,
-	"contrato": "OPG-R33-PAV-AD-C02-044/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CFR1005187H9",
+	"ubicacion": "TOMAS DOSAL ENTRE MARIA DEL CARMEN FRIAS Y ANTONIO ALVAREZ VEGA, EN LA COL. LOMAS DEL PARAISO DE LA ZONA 3 HUENTITAN. ANTONIO ALVAREZ VEGA ENTRE  TOMAS DOSAL Y CALLE CERRADA, EN LA COL. LOMAS DEL PARAISO DE LA ZONA 3 HUENTITAN. GUILLERMO CHAVEZ ENTRE TOMA",
+	"contrato": "OPG-R33-PAV-AD-C02-044/12",
+	"presupuesto": 1.44504275e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRAULICO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA, SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS Y CONSTRUCCION DE BANQUETA.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d8"
+		"$oid": "58b7acee1d44b643db3aa70c"
 	},
 	"contratista": "Infrapav S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33047",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "ADOQUINAMIENTO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA Y SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS.",
-	"ubicacion": "LAURO VILLAR ENTRE ANDRES MARTINEZ Y CALLE CERRADA, EN LA COL. JARDINES DE LA BARRANCA DE LA ZONA 4 OBLATOS. MIGUEL CASTULO ENTRE FELIX ALDAMA Y  CALLE CERRADA, EN LA COL. JARDINES DE LA BARRANCA DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "INF110131JD7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Marzo",
-	"presupesto": 970487.13,
-	"contrato": "OPG-R33-PAV-AD-C02-047/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "INF110131JD7",
+	"ubicacion": "LAURO VILLAR ENTRE ANDRES MARTINEZ Y CALLE CERRADA, EN LA COL. JARDINES DE LA BARRANCA DE LA ZONA 4 OBLATOS. MIGUEL CASTULO ENTRE FELIX ALDAMA Y  CALLE CERRADA, EN LA COL. JARDINES DE LA BARRANCA DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-R33-PAV-AD-C02-047/12",
+	"presupuesto": 970487.13,
+	"descripcion_obra": "ADOQUINAMIENTO, INCLUYE SUSTITUCION DE RED HIDROSANITARIA Y SUSTITUCION DE TOMAS Y DESCARGAS DOMICILIARIAS.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2d9"
+		"$oid": "58b7acee1d44b643db3aa70d"
 	},
 	"contratista": "Desarrolladora Abra S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33051",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDAS Y REHABILITACIÓN DE BANQUETAS EN LA COLONIA LOMA LINDA",
-	"ubicacion": "AL NORTE POR JESUS REYES HEROLES Y DIEGO MONTENEGRO, AL SUR POR AV. LA MEZQUITERA AL ESTE POR AGUA DULCE Y AGUA SALADA, AL NORESTE POR AGUA BLANCA Y AL OESTE POR RAFAEL LOZADA Y MANUEL AVELEIRA, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "DAB010213LS8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Vivienda",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Marzo",
-	"presupesto": 2.5e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-051/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "DAB010213LS8",
+	"ubicacion": "AL NORTE POR JESUS REYES HEROLES Y DIEGO MONTENEGRO, AL SUR POR AV. LA MEZQUITERA AL ESTE POR AGUA DULCE Y AGUA SALADA, AL NORESTE POR AGUA BLANCA Y AL OESTE POR RAFAEL LOZADA Y MANUEL AVELEIRA, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-R33-EQP-AD-C02-051/12",
+	"presupuesto": 2.5e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDAS Y REHABILITACIÓN DE BANQUETAS EN LA COLONIA LOMA LINDA",
+	"tipo_infraestructura": "Vivienda"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2da"
+		"$oid": "58b7acee1d44b643db3aa70e"
 	},
 	"contratista": "Constructora TGV S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12CON052",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) APUNTALAMIENTO (REFORZADO) DE TRABES EN EVENTO \"MARCHA POR JESUS\" DEL 10 AL 14 DE NOVIEMBRE DE 2011. B) APUNTALAMIENTO (REFORZADO) DE TRABES EN EVENTO \"POR AMOR A JALISCO\" DEL 02 AL 05 DE DICIEMBRE DE 2011. C) APUNTALAMIENTO (REFORZADO) DE TRABES EN EV",
-	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO. EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "CTG070803966",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Riesgos ( Contingencias )",
+	"zona": "Zona 1: Centro",
 	"mes": "Marzo",
-	"presupesto": 1.87694496e+06,
-	"contrato": "OPG-OD-CON-AD-C02-052/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CTG070803966",
+	"ubicacion": "EN EL ESTACIONAMIENTO DE LA PLAZA LIBERACIÓN PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO. EN LA EXPLANADA DEL HOSPICIO CABAÑAS PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-OD-CON-AD-C02-052/12",
+	"presupuesto": 1.87694496e+06,
+	"descripcion_obra": "A) APUNTALAMIENTO (REFORZADO) DE TRABES EN EVENTO \"MARCHA POR JESUS\" DEL 10 AL 14 DE NOVIEMBRE DE 2011. B) APUNTALAMIENTO (REFORZADO) DE TRABES EN EVENTO \"POR AMOR A JALISCO\" DEL 02 AL 05 DE DICIEMBRE DE 2011. C) APUNTALAMIENTO (REFORZADO) DE TRABES EN EV",
+	"tipo_infraestructura": "Riesgos ( Contingencias )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2db"
+		"$oid": "58b7acee1d44b643db3aa70f"
 	},
 	"contratista": "Constructora 5 Minas S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS053",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) SANEAMIENTO DEL CANAL DEL SUR (DESAZOLVE). B) SANEAMIENTO REPRESA VALENTIN GOMEZ FARIAS (DESAZOLVE). C) SANEAMIENTO DEL CANAL PLUVIAL MIRAVALLE (DESAZOLVE)",
-	"ubicacion": "A) LUIS COVARRUBIAS ENTRE DAVID BERNAGA  A 3 DE MAYO, EN LA COL. BALCONES DEL 4 EN LA ZONA 7 CRUZ DEL SUR. B) AV. JESUS REYES HEROLES Y MARIA C. BANCALARI, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR. C) LUIS COVARRUBIAS ENTRE ARTES PLASTICAS Y 3 DE M",
-	"contratista_rfc": "CCM0404151UA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Desazolves",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.5982e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-053/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCM0404151UA",
+	"ubicacion": "A) LUIS COVARRUBIAS ENTRE DAVID BERNAGA  A 3 DE MAYO, EN LA COL. BALCONES DEL 4 EN LA ZONA 7 CRUZ DEL SUR. B) AV. JESUS REYES HEROLES Y MARIA C. BANCALARI, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR. C) LUIS COVARRUBIAS ENTRE ARTES PLASTICAS Y 3 DE M",
+	"contrato": "OPG-OD-IHS-AD-C02-053/12",
+	"presupuesto": 2.5982e+06,
+	"descripcion_obra": "A) SANEAMIENTO DEL CANAL DEL SUR (DESAZOLVE). B) SANEAMIENTO REPRESA VALENTIN GOMEZ FARIAS (DESAZOLVE). C) SANEAMIENTO DEL CANAL PLUVIAL MIRAVALLE (DESAZOLVE)",
+	"tipo_infraestructura": "Desazolves"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2dc"
+		"$oid": "58b7acee1d44b643db3aa710"
 	},
 	"contratista": "Industria Constructora Vallartense S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS054",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) SANEAMIENTO VASO REGULADOR BALCONES DEL 4 (DESAZOLVE). B) SANEAMIENTO VASO REGULADOR 5 DE MAYO (DESAZOLVE). C) SANEAMIENTO DE CANAL PLUVIAL NUEVA ESPAÑA (DESAZOLVE). D) SANEAMIENTO DEL CANAL ACATENGO.",
-	"ubicacion": "A) AV. JESUS REYES HEROLES Y RAFAEL MOLINA, EN LA COL. LÁZARO CÁRDENAS DE LA ZONA 7 CRUZ DEL SUR. B) AV. PATRIA Y JOSE MARIA MENDEZ OLIVARES Y DOMINGO LOEZA, EN LA COL. 5 DE MAYO DE LA ZONA 7 CRUZ DEL SUR. C) PROL. AV. COLON ENTRE FRANCISCO OSORNIO Y SECO",
-	"contratista_rfc": "ICV070601BK2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Desazolves",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.494e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-054/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ICV070601BK2",
+	"ubicacion": "A) AV. JESUS REYES HEROLES Y RAFAEL MOLINA, EN LA COL. LÁZARO CÁRDENAS DE LA ZONA 7 CRUZ DEL SUR. B) AV. PATRIA Y JOSE MARIA MENDEZ OLIVARES Y DOMINGO LOEZA, EN LA COL. 5 DE MAYO DE LA ZONA 7 CRUZ DEL SUR. C) PROL. AV. COLON ENTRE FRANCISCO OSORNIO Y SECO",
+	"contrato": "OPG-OD-IHS-AD-C02-054/12",
+	"presupuesto": 2.494e+06,
+	"descripcion_obra": "A) SANEAMIENTO VASO REGULADOR BALCONES DEL 4 (DESAZOLVE). B) SANEAMIENTO VASO REGULADOR 5 DE MAYO (DESAZOLVE). C) SANEAMIENTO DE CANAL PLUVIAL NUEVA ESPAÑA (DESAZOLVE). D) SANEAMIENTO DEL CANAL ACATENGO.",
+	"tipo_infraestructura": "Desazolves"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2dd"
+		"$oid": "58b7acee1d44b643db3aa711"
 	},
 	"contratista": "Metropolizadora de Servicios para la Construcción S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS055",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SANEAMIENTO DE VASO REGULADOR DEL DEAN (DESAZOLVE 1ra ETAPA).",
-	"ubicacion": "CALZ. LAZARO CARDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACION DE LA ZONA 7 CRUZ DEL SUR.",
-	"contratista_rfc": "MSC090401AZ0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Desazolves",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.59760946e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-055/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MSC090401AZ0",
+	"ubicacion": "CALZ. LAZARO CARDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACION DE LA ZONA 7 CRUZ DEL SUR.",
+	"contrato": "OPG-OD-IHS-AD-C02-055/12",
+	"presupuesto": 2.59760946e+06,
+	"descripcion_obra": "SANEAMIENTO DE VASO REGULADOR DEL DEAN (DESAZOLVE 1ra ETAPA).",
+	"tipo_infraestructura": "Desazolves"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2de"
+		"$oid": "58b7acee1d44b643db3aa712"
 	},
 	"contratista": "Proyecto Urbanizaciones y Construcciones Luma S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS056",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CUADRILLA DE EMERGENCIAS HIDRAULICAS PARA LA PREVENCION DEL TEMPORAL DE LLUVIAS",
-	"ubicacion": "DIFERENTES COLONIAS DEL MUNICIPIO DE GUADALAJARA",
-	"contratista_rfc": "PUC020208K87",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Marzo",
-	"presupesto": 2.599689e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-056/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "PUC020208K87",
+	"ubicacion": "DIFERENTES COLONIAS DEL MUNICIPIO DE GUADALAJARA",
+	"contrato": "OPG-OD-IHS-AD-C02-056/12",
+	"presupuesto": 2.599689e+06,
+	"descripcion_obra": "CUADRILLA DE EMERGENCIAS HIDRAULICAS PARA LA PREVENCION DEL TEMPORAL DE LLUVIAS",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2df"
+		"$oid": "58b7acee1d44b643db3aa713"
 	},
 	"contratista": "Grupo Constructor Gunema, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP057",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS ADICIONALES PARA LA REHABILITACION DEL CENTRO ESCOLAR INFANTIL \"LA FEDERACHA\".",
-	"ubicacion": "DENTRO DEL POLÍGONO DE BELISARIO DOMÍNGUEZ, AV. DE LA CRUZ Y CONCORDIA, EN LA COL. LA FEDERACHA DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "GCG011129LB5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 1.46674846e+06,
-	"contrato": "OPG-OD-EQP-AD-C02-057/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GCG011129LB5",
+	"ubicacion": "DENTRO DEL POLÍGONO DE BELISARIO DOMÍNGUEZ, AV. DE LA CRUZ Y CONCORDIA, EN LA COL. LA FEDERACHA DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-EQP-AD-C02-057/12",
+	"presupuesto": 1.46674846e+06,
+	"descripcion_obra": "TRABAJOS ADICIONALES PARA LA REHABILITACION DEL CENTRO ESCOLAR INFANTIL \"LA FEDERACHA\".",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e0"
+		"$oid": "58b7acee1d44b643db3aa714"
 	},
 	"contratista": "Ing. Rosendo Martin Aguilar Gutierrez",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12R33059",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACION DEL CENTRO ESCOLAR No.7 DEL DIF, TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MURO PERIMETRAL CON REJA DE HERRERIA, ENJARRES, IMPERMEABILIZACION, CAMBIO DE HERRERIA, PINTURA GENERAL, CONSTRUCCION DE RAMPA DE ACCESO E INSTALACION DE ALUMBRADO",
-	"ubicacion": "MOTA PADILLA No.198 ENTRE MEDRANO Y ALDAMA, EN LA COL. LA LOMA DE LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "AUGR531111LN8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Marzo",
-	"presupesto": 1.019934e+06,
-	"contrato": "OPG-R33-ESC-AD-C02-059/12"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "AUGR531111LN8",
+	"ubicacion": "MOTA PADILLA No.198 ENTRE MEDRANO Y ALDAMA, EN LA COL. LA LOMA DE LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-R33-ESC-AD-C02-059/12",
+	"presupuesto": 1.019934e+06,
+	"descripcion_obra": "REHABILITACION DEL CENTRO ESCOLAR No.7 DEL DIF, TRABAJOS CONSISTENTES EN LA CONSTRUCCION DE MURO PERIMETRAL CON REJA DE HERRERIA, ENJARRES, IMPERMEABILIZACION, CAMBIO DE HERRERIA, PINTURA GENERAL, CONSTRUCCION DE RAMPA DE ACCESO E INSTALACION DE ALUMBRADO",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e1"
+		"$oid": "58b7acee1d44b643db3aa715"
 	},
 	"contratista": "Terra Civitas, S. de R.L. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP001",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCION DE CANCHA DE USOS MULTIPLES, TRABAJOS CONSISTENTES EN ANDADORES, MOBILIARIO URBANO Y JUEGOS INFANTILES",
-	"ubicacion": "PREDIO DE LA CALLE JOSE BECERRA ENTRE JOSE ORTIZ VIDALES Y MIRADOR, EN EL FRACC. VILLAS DE LA BARRANCA DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "TCI100324HP0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Febrero",
-	"presupesto": 71690.71,
-	"contrato": "OPG-OD-EQP-AD-C01-001/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TCI100324HP0",
+	"ubicacion": "PREDIO DE LA CALLE JOSE BECERRA ENTRE JOSE ORTIZ VIDALES Y MIRADOR, EN EL FRACC. VILLAS DE LA BARRANCA DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-EQP-AD-C01-001/12",
+	"presupuesto": 71690.71,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCION DE CANCHA DE USOS MULTIPLES, TRABAJOS CONSISTENTES EN ANDADORES, MOBILIARIO URBANO Y JUEGOS INFANTILES",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e2"
+		"$oid": "58b7acee1d44b643db3aa716"
 	},
 	"contratista": "Velero Pavimentación y Construcción S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP002",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCION DE ESPACIOS RECREATIVOS, TRABAJOS CONSISTENTES EN PISOS DE CONCRETO, PISOS DE CAUCHO, CENEFAS DE PISO PORFIDO, LUMINARIAS, MOBILIARIO URBANO Y JUEGOS INFANTILES",
-	"ubicacion": "JOSE ORTIZ VIDALES ESQ. JUAQUIN TELLEZ, CED. No. 1723, EN LA COL. VILLAS DE LA BARRANCA DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "VPC0012148K0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Febrero",
-	"presupesto": 406221.24,
-	"contrato": "OPG-OD-EQP-AD-C01-002/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "VPC0012148K0",
+	"ubicacion": "JOSE ORTIZ VIDALES ESQ. JUAQUIN TELLEZ, CED. No. 1723, EN LA COL. VILLAS DE LA BARRANCA DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-EQP-AD-C01-002/12",
+	"presupuesto": 406221.24,
+	"descripcion_obra": "CONSTRUCCION DE ESPACIOS RECREATIVOS, TRABAJOS CONSISTENTES EN PISOS DE CONCRETO, PISOS DE CAUCHO, CENEFAS DE PISO PORFIDO, LUMINARIAS, MOBILIARIO URBANO Y JUEGOS INFANTILES",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e3"
+		"$oid": "58b7acee1d44b643db3aa717"
 	},
 	"contratista": "Diseños Arquitectonicos Nova S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 2: Minerva",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP003",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO, ELABORACION Y COLOCACION DE BARANDAL TUBULAR EN ''EL PARQUE MANUEL AVILA CAMACHO''",
-	"ubicacion": "AV. PATRIA Y AV. MANUEL ÁVILA CAMACHO, EN LA COL. JARDINES DEL COUNTRY EN LA ZONA 2 MINERVA.",
-	"contratista_rfc": "DAN100621GB5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 2: Minerva",
 	"mes": "Febrero",
-	"presupesto": 1.17785461e+06,
-	"contrato": "OPG-OD-EQP-AD-C01-003/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "DAN100621GB5",
+	"ubicacion": "AV. PATRIA Y AV. MANUEL ÁVILA CAMACHO, EN LA COL. JARDINES DEL COUNTRY EN LA ZONA 2 MINERVA.",
+	"contrato": "OPG-OD-EQP-AD-C01-003/12",
+	"presupuesto": 1.17785461e+06,
+	"descripcion_obra": "SUMINISTRO, ELABORACION Y COLOCACION DE BARANDAL TUBULAR EN ''EL PARQUE MANUEL AVILA CAMACHO''",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e4"
+		"$oid": "58b7acee1d44b643db3aa718"
 	},
 	"contratista": "Complementos Constructivos y Manejo de Carga Diesel S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP004",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACIÓN DE ALBERCA Y EQUIPAMIENTO EN LA UNIDAD DEPORTIVA No. 8 CUAHUTEMOC",
-	"ubicacion": "SAN ESTEBAN No. 2095 ENTRE LAS CALLES FRANCISCO GONZÁLEZ BOCANEGRA (C-66) Y FRANCISCO VILLA (C-70) EN LA COL. POPULAR DE LA ZONA 5 OLIMPICA",
-	"contratista_rfc": "CCM091125822",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Unidades Deportivas",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Febrero",
-	"presupesto": 989793.22,
-	"contrato": "OPG-OD-EQP-AD-C01-004/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCM091125822",
+	"ubicacion": "SAN ESTEBAN No. 2095 ENTRE LAS CALLES FRANCISCO GONZÁLEZ BOCANEGRA (C-66) Y FRANCISCO VILLA (C-70) EN LA COL. POPULAR DE LA ZONA 5 OLIMPICA",
+	"contrato": "OPG-OD-EQP-AD-C01-004/12",
+	"presupuesto": 989793.22,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACIÓN DE ALBERCA Y EQUIPAMIENTO EN LA UNIDAD DEPORTIVA No. 8 CUAHUTEMOC",
+	"tipo_infraestructura": "Unidades Deportivas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e5"
+		"$oid": "58b7acee1d44b643db3aa719"
 	},
 	"contratista": "Ing. Jorge Saul Muñoz Aceves",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP005",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACION DE BANQUETAS EN LA CALZADA INDEPENDENCIA \"BLOQUE L\"",
-	"ubicacion": "CALZADA INDEPENDENCIA ACERA ORIENTE ENTRE CUITLAHUAC Y 5 DE FEBRERO, EN LA ZONA 1 CENTRO",
-	"contratista_rfc": "MUAJ551230AW4",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Banquetas Calzada Independecia",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 190882.75,
-	"contrato": "OPG-OD-EQP-AD-C01-005/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MUAJ551230AW4",
+	"ubicacion": "CALZADA INDEPENDENCIA ACERA ORIENTE ENTRE CUITLAHUAC Y 5 DE FEBRERO, EN LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C01-005/12",
+	"presupuesto": 190882.75,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACION DE BANQUETAS EN LA CALZADA INDEPENDENCIA \"BLOQUE L\"",
+	"tipo_infraestructura": "Banquetas Calzada Independecia"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e6"
+		"$oid": "58b7acee1d44b643db3aa71a"
 	},
 	"contratista": "Madison Constructores S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP006",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA CONSTRUCCION DEL CENTRO DE DESARROLLO COMUNITARIO \"BALCONES DE OBLATOS\".",
-	"ubicacion": "HACIENDA DE CEDROS (FRENTE AL 1515) ENTRE RANCHO GRANDE Y HACIENDA ZENZONTLA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "MCO1005204Z5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Febrero",
-	"presupesto": 1.5976837e+06,
-	"contrato": "OPG-OD-EQP-AD-C01-006/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MCO1005204Z5",
+	"ubicacion": "HACIENDA DE CEDROS (FRENTE AL 1515) ENTRE RANCHO GRANDE Y HACIENDA ZENZONTLA, EN LA COL. BALCONES DE OBLATOS DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-OD-EQP-AD-C01-006/12",
+	"presupuesto": 1.5976837e+06,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA CONSTRUCCION DEL CENTRO DE DESARROLLO COMUNITARIO \"BALCONES DE OBLATOS\".",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e7"
+		"$oid": "58b7acee1d44b643db3aa71b"
 	},
 	"contratista": "Torres Aguirre Ingenieros S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQPZ1007",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA OBRA DEL SUMINISTRO Y COLOCACION DE ELEVADOR DE USO COMERCIAL PARA 15 PERSONAS EN LA PRESIDENCIA MUNICIPAL",
-	"ubicacion": "AV. HIDALGO NO. 400, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "TAI920312952",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Edificios Municipales",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 531190.9,
-	"contrato": "OPG-OD-EQP-AD-C01-007/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TAI920312952",
+	"ubicacion": "AV. HIDALGO NO. 400, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C01-007/12",
+	"presupuesto": 531190.9,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA OBRA DEL SUMINISTRO Y COLOCACION DE ELEVADOR DE USO COMERCIAL PARA 15 PERSONAS EN LA PRESIDENCIA MUNICIPAL",
+	"tipo_infraestructura": "Edificios Municipales"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e8"
+		"$oid": "58b7acee1d44b643db3aa71c"
 	},
 	"contratista": "Romsa de Occidente S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP008",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN DE SALÓN NUEVO, ASÍ COMO LA REHABILITACIÓN DE SALONES, COCINA, BODEGA, BAÑOS, ÁREA DE JUEGOS, GRADAS, CANCHA Y JARDINES DE FOMENTO DEPORTIVO. SUMINISTRO Y COLOCACIÓN DE BANCAS, PISO SINTÉTICO Y PASTO EN EL JARDÍN JALISCO.",
-	"ubicacion": "MONTE ACONCAGUA ENTRE SIERRA NEVADA Y MONTE PARNASO, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "ROC100310IZ5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 2.08193437e+06,
-	"contrato": "OPG-OD-EQP-AD-C01-008/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ROC100310IZ5",
+	"ubicacion": "MONTE ACONCAGUA ENTRE SIERRA NEVADA Y MONTE PARNASO, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C01-008/12",
+	"presupuesto": 2.08193437e+06,
+	"descripcion_obra": "CONSTRUCCIÓN DE SALÓN NUEVO, ASÍ COMO LA REHABILITACIÓN DE SALONES, COCINA, BODEGA, BAÑOS, ÁREA DE JUEGOS, GRADAS, CANCHA Y JARDINES DE FOMENTO DEPORTIVO. SUMINISTRO Y COLOCACIÓN DE BANCAS, PISO SINTÉTICO Y PASTO EN EL JARDÍN JALISCO.",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2e9"
+		"$oid": "58b7acee1d44b643db3aa71d"
 	},
 	"contratista": "Sphaera Construcciones S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12IHS009",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL CAMBIO DE VÁLVULAS DE DESFOGUE, OBRA DE LLAMADA PARA AGUA PLUVIAL Y DEMOLICIÓN DE MURO DE MAMPOSTERÍA",
-	"ubicacion": "MANOLETE Y C. 14 EN EL PARQUE LIBERACIÓN DE LA COL. EL DEÁN EN LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "SCO010221L95",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 398710.0,
-	"contrato": "OPG-OD-IHS-AD-C01-009/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "SCO010221L95",
+	"ubicacion": "MANOLETE Y C. 14 EN EL PARQUE LIBERACIÓN DE LA COL. EL DEÁN EN LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-IHS-AD-C01-009/12",
+	"presupuesto": 398710.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA EL CAMBIO DE VÁLVULAS DE DESFOGUE, OBRA DE LLAMADA PARA AGUA PLUVIAL Y DEMOLICIÓN DE MURO DE MAMPOSTERÍA",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ea"
+		"$oid": "58b7acee1d44b643db3aa71e"
 	},
 	"contratista": "Keops Ingenieria y Construccion S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12PAV010",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCIÓN DE CONDUCCIÓN DE AGUAS PLUVIALES, REGULACIÓN DE GASTO EN LÍNEA DE ALCANTARILLADO SANITARIO Y CONSTRUCCIÓN DE EMPEDRADO ZAMPEADO",
-	"ubicacion": "CAÑITAS ESQ. FELIPE LOPEZ, EN LA COL. LOMAS DEL PEDREGAL  DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "KIC040617JIA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 459510.0,
-	"contrato": "OPG-OD-PAV-AD-C01-010/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "KIC040617JIA",
+	"ubicacion": "CAÑITAS ESQ. FELIPE LOPEZ, EN LA COL. LOMAS DEL PEDREGAL  DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-PAV-AD-C01-010/12",
+	"presupuesto": 459510.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCIÓN DE CONDUCCIÓN DE AGUAS PLUVIALES, REGULACIÓN DE GASTO EN LÍNEA DE ALCANTARILLADO SANITARIO Y CONSTRUCCIÓN DE EMPEDRADO ZAMPEADO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2eb"
+		"$oid": "58b7acee1d44b643db3aa71f"
 	},
 	"contratista": "Constructora Lucian de Occidente, S.A.de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP011",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA SUB-ESTACIÓN ELÉCTRICA DE 150 KVA EN EL PARQUE LIBERACIÓN \"EL DEÁN\", CONSISTENTE EN SUMINISTRO Y COLOCACIÓN DE ACOMETIDA PRINCIPAL, ELECTRIFICACIÓN, ILUMINACIÓN CON LUMINARIAS DE 1500 WATTS EN ADITIVOS METÁLICOS, INTERRUPTORE",
-	"ubicacion": "CALZ. LÁZARO CÁRDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACIÓN DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "CLO-060627J88",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Electrificacion",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 320500.0,
-	"contrato": "OPG-OD-EQP-AD-C01-011/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CLO-060627J88",
+	"ubicacion": "CALZ. LÁZARO CÁRDENAS Y RAMAL DEL FERROCARRIL, EN EL PARQUE LIBERACIÓN DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C01-011/12",
+	"presupuesto": 320500.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA SUB-ESTACIÓN ELÉCTRICA DE 150 KVA EN EL PARQUE LIBERACIÓN \"EL DEÁN\", CONSISTENTE EN SUMINISTRO Y COLOCACIÓN DE ACOMETIDA PRINCIPAL, ELECTRIFICACIÓN, ILUMINACIÓN CON LUMINARIAS DE 1500 WATTS EN ADITIVOS METÁLICOS, INTERRUPTORE",
+	"tipo_infraestructura": "Electrificacion"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ec"
+		"$oid": "58b7acee1d44b643db3aa720"
 	},
 	"contratista": "Emtrucsa de México S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQO012",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCIÓN DE ESPACIOS RECREATIVOS, TRABAJOS CONSISTENTES EN PISOS DE CONCRETO, PISOS DE CAUCHO, CENEFAS DE PISO PÓRFIDO, LUMINARIAS, MOBILIARIO URBANO Y JUEGOS INFANTILES",
-	"ubicacion": "ISLA MADAGASCAR E ISLA TORTUGA (TERRENO No.24), EN LA COL. RESIDENCIAL LA CRUZ DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "EME091127T18",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 85971.34,
-	"contrato": "OPG-OD-EQP-AD-C01-012/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "EME091127T18",
+	"ubicacion": "ISLA MADAGASCAR E ISLA TORTUGA (TERRENO No.24), EN LA COL. RESIDENCIAL LA CRUZ DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C01-012/12",
+	"presupuesto": 85971.34,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA CONSTRUCCIÓN DE ESPACIOS RECREATIVOS, TRABAJOS CONSISTENTES EN PISOS DE CONCRETO, PISOS DE CAUCHO, CENEFAS DE PISO PÓRFIDO, LUMINARIAS, MOBILIARIO URBANO Y JUEGOS INFANTILES",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ed"
+		"$oid": "58b7acee1d44b643db3aa721"
 	},
 	"contratista": "Constructora Dominicana de México S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP013",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REHABILITACIÓN DE UNIDAD DEPORTIVA No.48 ''MANUEL URIARTE TOVAR'', TRABAJOS CONSISTENTES EN LA EXCAVACIÓN, CONFORMACIÓN, NIVELACIÓN Y RELLENO DE CANCHAS",
-	"ubicacion": "AV. ARTES PLÁSTICAS No.276 ESQ. HERMENEGILDO BUSTOS, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "CDM091127KM6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 792510.51,
-	"contrato": "OPG-OD-EQP-AD-C01-013/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CDM091127KM6",
+	"ubicacion": "AV. ARTES PLÁSTICAS No.276 ESQ. HERMENEGILDO BUSTOS, EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C01-013/12",
+	"presupuesto": 792510.51,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REHABILITACIÓN DE UNIDAD DEPORTIVA No.48 ''MANUEL URIARTE TOVAR'', TRABAJOS CONSISTENTES EN LA EXCAVACIÓN, CONFORMACIÓN, NIVELACIÓN Y RELLENO DE CANCHAS",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ee"
+		"$oid": "58b7acee1d44b643db3aa722"
 	},
 	"contratista": "Grupo Ordiez, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP014",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS DE LA CRUZ VERDE \"DR. LEONARDO OLIVA\", TRABAJOS CONSISTENTES EN LA REHABILITACIÓN DEL AIRE ACONDICIONADO, ÁREAS DE QUIRÓFANOS, ÁREA DE URGENCIAS Y ÁREA EXTERIOR.\r\nOBRAS COMPLEMENTARIAS DE LA CRUZ VERDE \"DR. RUIZ SÁNCHEZ\", TRABAJOS CO",
-	"ubicacion": "AV. CRUZ DEL SUR E ISLAS ANTILLAS, EN EL FRACC. JARDINES DE LA CRUZ DE LA ZONA 7 CRUZ DEL SUR.\r\nANTONIO TELLO ENTRE ALDAMA Y MEDRANO, EN LA COL. MEDRANO DE LA ZONA 5 OLÍMPICA.",
-	"contratista_rfc": "GOR1008163R7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 2.05779964e+06,
-	"contrato": "OPG-OD-EQP-AD-C01-014/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GOR1008163R7",
+	"ubicacion": "AV. CRUZ DEL SUR E ISLAS ANTILLAS, EN EL FRACC. JARDINES DE LA CRUZ DE LA ZONA 7 CRUZ DEL SUR.\r\nANTONIO TELLO ENTRE ALDAMA Y MEDRANO, EN LA COL. MEDRANO DE LA ZONA 5 OLÍMPICA.",
+	"contrato": "OPG-OD-EQP-AD-C01-014/12",
+	"presupuesto": 2.05779964e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS DE LA CRUZ VERDE \"DR. LEONARDO OLIVA\", TRABAJOS CONSISTENTES EN LA REHABILITACIÓN DEL AIRE ACONDICIONADO, ÁREAS DE QUIRÓFANOS, ÁREA DE URGENCIAS Y ÁREA EXTERIOR.\r\nOBRAS COMPLEMENTARIAS DE LA CRUZ VERDE \"DR. RUIZ SÁNCHEZ\", TRABAJOS CO",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ef"
+		"$oid": "58b7acee1d44b643db3aa723"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP015",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN DE CENTRO CULTURAL CÍVICO DEPORTIVO FERROCARRIL",
-	"ubicacion": "COMPRENDIDO DENTRO DEL PERÍMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Plazas Civicas",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 985953.86,
-	"contrato": "OPG-OD-EQP-AD-C01-015/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": "COMPRENDIDO DENTRO DEL PERÍMETRO DE LA CALLE 10, CALLE 9, CALLE 8 Y CALLE 7, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C01-015/12",
+	"presupuesto": 985953.86,
+	"descripcion_obra": "REHABILITACIÓN DE CENTRO CULTURAL CÍVICO DEPORTIVO FERROCARRIL",
+	"tipo_infraestructura": "Plazas Civicas"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f0"
+		"$oid": "58b7acee1d44b643db3aa724"
 	},
 	"contratista": "E.S. Grupo Constructor S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZM016",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN I",
-	"ubicacion": "NICOLÁS BRAVO ENTRE CALZADA REVOLUCIÓN Y CUITLAHUAC EN LA COL. ANALCO DE LA ZONA 1 CENTRO; CUITLAHUAC ENTRE CALZADA DEL EJERCITO Y ANALCO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; BARTOLOMÉ DE LAS CASAS ENTRE CALZADA DEL EJERCITO Y CALZADA INDEPENDENCIA, EN",
-	"contratista_rfc": "EGC030102TA7",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 7.86732399e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-016/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "EGC030102TA7",
+	"ubicacion": "NICOLÁS BRAVO ENTRE CALZADA REVOLUCIÓN Y CUITLAHUAC EN LA COL. ANALCO DE LA ZONA 1 CENTRO; CUITLAHUAC ENTRE CALZADA DEL EJERCITO Y ANALCO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; BARTOLOMÉ DE LAS CASAS ENTRE CALZADA DEL EJERCITO Y CALZADA INDEPENDENCIA, EN",
+	"contrato": "OPG-CZM-PAV-LP-C01-016/12",
+	"presupuesto": 7.86732399e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN I",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f1"
+		"$oid": "58b7acee1d44b643db3aa725"
 	},
 	"contratista": "Consorcio Constructor Diestro S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ017",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL  MUNICIPIO DE GUADALAJARA SECCIÓN II",
-	"ubicacion": "FRANCISCO DE AYZA ENTRE JARAUTA Y ESTEBAN LOERA, EN LA COL. SAN JUAN DE DIOS DE LAS ZONAS 1 CENTRO Y 5 OLÍMPICA\r\nRIVA PALACIO ENTRE GIGANTES Y GÓMEZ FARÍAS, EN LA COL. GENERAL REAL DE LA ZONA 1 CENTRO\r\nGANTE ENTRE 20 DE NOVIEMBRE Y CALZADA INDEPENDENCIA,",
-	"contratista_rfc": "CCD980709IIA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 5.77615049e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-017/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CCD980709IIA",
+	"ubicacion": "FRANCISCO DE AYZA ENTRE JARAUTA Y ESTEBAN LOERA, EN LA COL. SAN JUAN DE DIOS DE LAS ZONAS 1 CENTRO Y 5 OLÍMPICA\r\nRIVA PALACIO ENTRE GIGANTES Y GÓMEZ FARÍAS, EN LA COL. GENERAL REAL DE LA ZONA 1 CENTRO\r\nGANTE ENTRE 20 DE NOVIEMBRE Y CALZADA INDEPENDENCIA,",
+	"contrato": "OPG-CZM-PAV-LP-C01-017/12",
+	"presupuesto": 5.77615049e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL  MUNICIPIO DE GUADALAJARA SECCIÓN II",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f2"
+		"$oid": "58b7acee1d44b643db3aa726"
 	},
 	"contratista": "Ing. Ricardo Diaz de la Torre",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ018",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN III",
-	"ubicacion": "FRAY ANTONIO MARGIL DE JESÚS ENTRE CALZADA INDEPENDENCIA Y SALVADOR QUEVEDO Y ZUBIETA, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO PABLO GUTIERREZ ENTRE CALZADA INDEPENDENCIA Y JUAN DÍAZ COVARRUBIAS, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO\r\nROQUE ABARCA ENTRE",
-	"contratista_rfc": "DITR700403MW6",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 7.34017571e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-018/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "DITR700403MW6",
+	"ubicacion": "FRAY ANTONIO MARGIL DE JESÚS ENTRE CALZADA INDEPENDENCIA Y SALVADOR QUEVEDO Y ZUBIETA, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO PABLO GUTIERREZ ENTRE CALZADA INDEPENDENCIA Y JUAN DÍAZ COVARRUBIAS, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO\r\nROQUE ABARCA ENTRE",
+	"contrato": "OPG-CZM-PAV-LP-C01-018/12",
+	"presupuesto": 7.34017571e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN III",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f3"
+		"$oid": "58b7acee1d44b643db3aa727"
 	},
 	"contratista": "Grupo Constructor Pavimaq S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ019",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN IV",
-	"ubicacion": "JUAN R. ZAVALA (CALLE 38) ENTRE JAVIER MINA Y PABLO VALDEZ, EN LA ZONA 5 OLÍMPICA\r\nGUADALUPE VICTORIA ENTRE CALZADA DEL EJERCITO Y CALZADA INDEPENDENCIA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; NICOLAS BRAVO ENTRE CUITLAHUAC Y LOS ANGELES EN LA COL. ANALCO",
-	"contratista_rfc": "GCP080129AMA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 8.59927123e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-019/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "GCP080129AMA",
+	"ubicacion": "JUAN R. ZAVALA (CALLE 38) ENTRE JAVIER MINA Y PABLO VALDEZ, EN LA ZONA 5 OLÍMPICA\r\nGUADALUPE VICTORIA ENTRE CALZADA DEL EJERCITO Y CALZADA INDEPENDENCIA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; NICOLAS BRAVO ENTRE CUITLAHUAC Y LOS ANGELES EN LA COL. ANALCO",
+	"contrato": "OPG-CZM-PAV-LP-C01-019/12",
+	"presupuesto": 8.59927123e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN IV",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f4"
+		"$oid": "58b7acee1d44b643db3aa728"
 	},
 	"contratista": "Madison Constructores S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ020",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN V",
-	"ubicacion": "TOLUCA ENTRE SALVADOR QUEVEDO Y ZUBIETA Y ESTEBAN ALATORRE, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO; JOSE LUIS VERDIA ENTRE CALZADA REVOLUCIÓN Y GÓMEZ FARÍAS, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; ALDAMA ENTRE RIVA PALACIO Y CALZADA INDEPENDENCIA, EN LA",
-	"contratista_rfc": "MCO1005204Z5",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 7.592469e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-020/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "MCO1005204Z5",
+	"ubicacion": "TOLUCA ENTRE SALVADOR QUEVEDO Y ZUBIETA Y ESTEBAN ALATORRE, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO; JOSE LUIS VERDIA ENTRE CALZADA REVOLUCIÓN Y GÓMEZ FARÍAS, EN LA COL. ANALCO DE LA ZONA 1 CENTRO; ALDAMA ENTRE RIVA PALACIO Y CALZADA INDEPENDENCIA, EN LA",
+	"contrato": "OPG-CZM-PAV-LP-C01-020/12",
+	"presupuesto": 7.592469e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN V",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f5"
+		"$oid": "58b7acee1d44b643db3aa729"
 	},
 	"contratista": "Grupo REAC Arquitectura e Ingenieria, S.A. de .CV.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ021",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VI",
-	"ubicacion": "MANUEL DOBLADO ENTRE GIGANTES Y SALVADOR QUEVEDO Y ZUBIETA, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO;  FCO. SILVA ROMERO (JAZMÍN) ENTRE LOS ÁNGELES Y JAVIER MINA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO;  IGNACIO MACHAIN (CALLE 60) ENTRE PABLO VALDEZ Y PUERT",
-	"contratista_rfc": "GRA-111123-1X6",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 7.52552607e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-021/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "GRA-111123-1X6",
+	"ubicacion": "MANUEL DOBLADO ENTRE GIGANTES Y SALVADOR QUEVEDO Y ZUBIETA, EN LA COL. LA PERLA DE LA ZONA 1 CENTRO;  FCO. SILVA ROMERO (JAZMÍN) ENTRE LOS ÁNGELES Y JAVIER MINA, EN LA COL. ANALCO DE LA ZONA 1 CENTRO;  IGNACIO MACHAIN (CALLE 60) ENTRE PABLO VALDEZ Y PUERT",
+	"contrato": "OPG-CZM-PAV-LP-C01-021/12",
+	"presupuesto": 7.52552607e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VI",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f6"
+		"$oid": "58b7acee1d44b643db3aa72a"
 	},
 	"contratista": "Constructora Erlort y Asociados S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ022",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VII",
-	"ubicacion": "FEDERACION ENTRE DAMIAN CARMONA (CALLE62) A FRANCISCO GONZALEZ BOCANEGRA (CALLE 66), EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.\r\nRIVAS GUILLEN (CALLE 64) ENTRE FEDERACION A ESTEBAN A LA TORRE, EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.\r\nSANTA CLEMEN",
-	"contratista_rfc": "CEA070208SB1",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 2.918903756e+07,
-	"contrato": "OPG-CZM-PAV-LP-C01-022/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CEA070208SB1",
+	"ubicacion": "FEDERACION ENTRE DAMIAN CARMONA (CALLE62) A FRANCISCO GONZALEZ BOCANEGRA (CALLE 66), EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.\r\nRIVAS GUILLEN (CALLE 64) ENTRE FEDERACION A ESTEBAN A LA TORRE, EN LA COL. LAS HUERTAS DE LA ZONA 5 OLIMPICA.\r\nSANTA CLEMEN",
+	"contrato": "OPG-CZM-PAV-LP-C01-022/12",
+	"presupuesto": 2.918903756e+07,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VII",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f7"
+		"$oid": "58b7acee1d44b643db3aa72b"
 	},
 	"contratista": "Roth's Ingenieria y Representaciones S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZM023",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VIII",
-	"ubicacion": "SAN IDELFONSO ENTRE CALZADA JUAN PABLO II Y RITA PÉREZ DE MORENO (CALLE 50), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; CHIMBORAZO ENTRE CALZADA JUAN PABLO II Y CERRADA AL ORIENTE, EN LA COL. EL MIRADOR DE LA ZONA 5 OLÍMPICA; INDUSTRIA ENTRE ESTEBAN LO",
-	"contratista_rfc": "RIR070208NF2",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 3.087678684e+07,
-	"contrato": "OPG-CZM-PAV-LP-C01-023/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "RIR070208NF2",
+	"ubicacion": "SAN IDELFONSO ENTRE CALZADA JUAN PABLO II Y RITA PÉREZ DE MORENO (CALLE 50), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; CHIMBORAZO ENTRE CALZADA JUAN PABLO II Y CERRADA AL ORIENTE, EN LA COL. EL MIRADOR DE LA ZONA 5 OLÍMPICA; INDUSTRIA ENTRE ESTEBAN LO",
+	"contrato": "OPG-CZM-PAV-LP-C01-023/12",
+	"presupuesto": 3.087678684e+07,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN VIII",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f8"
+		"$oid": "58b7acee1d44b643db3aa72c"
 	},
 	"contratista": "Constructores en Corporación, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ024",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN IX",
-	"ubicacion": "SANTA ROSALÍA ENTRE CALZADA JUAN PABLO II Y RITA PÉREZ DE MORENO (CALLE 50), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; SANTA MARGARITA ENTRE CALZADA JUAN PABLO II Y JUAN R. ZAVALA (CALLE 38), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; DR. LEONARDO",
-	"contratista_rfc": "CCO780607JD6",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 2.356120771e+07,
-	"contrato": "OPG-CZM-PAV-LP-C01-024/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "CCO780607JD6",
+	"ubicacion": "SANTA ROSALÍA ENTRE CALZADA JUAN PABLO II Y RITA PÉREZ DE MORENO (CALLE 50), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; SANTA MARGARITA ENTRE CALZADA JUAN PABLO II Y JUAN R. ZAVALA (CALLE 38), EN LA COL. SANTA MARIA DE LA ZONA 5 OLÍMPICA; DR. LEONARDO",
+	"contrato": "OPG-CZM-PAV-LP-C01-024/12",
+	"presupuesto": 2.356120771e+07,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN IX",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2f9"
+		"$oid": "58b7acee1d44b643db3aa72d"
 	},
 	"contratista": "Murokay Tecnología en Construcción, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ025",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN X",
-	"ubicacion": "ANTONIO BRAVO SANCHEZ ENTRE CALZADA DEL EJERCITO Y BOULEVARD GRAL. MARCELINO GARCIA BARRAGAN, EN LA COL. EL DOLAR  DE LA ZONA 5 OLÍMPICA; FRAY BARTOLOMÉ DE LAS CASAS ENTRE CALZADA DEL EJERCITO Y GANTE, EN; LA COL. PENSIONES FEDERALES DE LA ZONA 5 OLIMPICA",
-	"contratista_rfc": "MTC0901295Z2",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 8.26849056e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-025/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "MTC0901295Z2",
+	"ubicacion": "ANTONIO BRAVO SANCHEZ ENTRE CALZADA DEL EJERCITO Y BOULEVARD GRAL. MARCELINO GARCIA BARRAGAN, EN LA COL. EL DOLAR  DE LA ZONA 5 OLÍMPICA; FRAY BARTOLOMÉ DE LAS CASAS ENTRE CALZADA DEL EJERCITO Y GANTE, EN; LA COL. PENSIONES FEDERALES DE LA ZONA 5 OLIMPICA",
+	"contrato": "OPG-CZM-PAV-LP-C01-025/12",
+	"presupuesto": 8.26849056e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN X",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2fa"
+		"$oid": "58b7acee1d44b643db3aa72e"
 	},
 	"contratista": "M3 Creación, S. de R.L. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ026",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XI",
-	"ubicacion": "TABACHIN ENTRE CALZ. LÁZARO CÁRDENAS Y PINO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR\r\nCIPRÉS ENTRE ENRIQUE DÍAZ DE LEÓN Y CEREZO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "MCR061215GZ6",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 7.11545283e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-026/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "MCR061215GZ6",
+	"ubicacion": "TABACHIN ENTRE CALZ. LÁZARO CÁRDENAS Y PINO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR\r\nCIPRÉS ENTRE ENRIQUE DÍAZ DE LEÓN Y CEREZO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-CZM-PAV-LP-C01-026/12",
+	"presupuesto": 7.11545283e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XI",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2fb"
+		"$oid": "58b7acee1d44b643db3aa72f"
 	},
 	"contratista": "E.S. Grupo Constructor S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ027",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XII",
-	"ubicacion": "PIÑA ENTRE CALZ. LÁZARO CÁRDENAS Y PINO, EN LA COL. JARDINES DE LA VICTORIA DE LA ZONA 7 CRUZ DEL SUR\r\nCEREZO ENTRE SABINO Y CHABACANO, EN LA COL. JARDINES DE LA VICTORIA DE LA ZONA 7 CRUZ DEL SUR\r\nEUCALIPTO ENTRE MANDARINA Y PIÑA, EN LA COL. JARDINES DE",
-	"contratista_rfc": "EGC030102TA7",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 8.94236516e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-027/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "EGC030102TA7",
+	"ubicacion": "PIÑA ENTRE CALZ. LÁZARO CÁRDENAS Y PINO, EN LA COL. JARDINES DE LA VICTORIA DE LA ZONA 7 CRUZ DEL SUR\r\nCEREZO ENTRE SABINO Y CHABACANO, EN LA COL. JARDINES DE LA VICTORIA DE LA ZONA 7 CRUZ DEL SUR\r\nEUCALIPTO ENTRE MANDARINA Y PIÑA, EN LA COL. JARDINES DE",
+	"contrato": "OPG-CZM-PAV-LP-C01-027/12",
+	"presupuesto": 8.94236516e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XII",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2fc"
+		"$oid": "58b7acee1d44b643db3aa730"
 	},
 	"contratista": "Terracerias y Pavimentos G\u0026A;, S.A. de C.V.",
-	"origen_de_resultados": "CONSEJO METROPOLITANO",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=12CZMZ028",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XIII",
-	"ubicacion": "PINO ENTRE PIÑA Y OLIVO, EN LA COL. JARDINES DE LA VICTORIA Y COL. DEL FRESNO, DE LA ZONA 7 CRUZ DEL SUR; NARANJO ENTRE CIPRES Y PARAISO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "TPG090928SB9",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Febrero",
-	"presupesto": 7.34570718e+06,
-	"contrato": "OPG-CZM-PAV-LP-C01-028/12"
+	"origen_de_recursos": "CONSEJO METROPOLITANO",
+	"contratista_rfc": "TPG090928SB9",
+	"ubicacion": "PINO ENTRE PIÑA Y OLIVO, EN LA COL. JARDINES DE LA VICTORIA Y COL. DEL FRESNO, DE LA ZONA 7 CRUZ DEL SUR; NARANJO ENTRE CIPRES Y PARAISO, EN LA COL. DEL FRESNO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-CZM-PAV-LP-C01-028/12",
+	"presupuesto": 7.34570718e+06,
+	"descripcion_obra": "OBRAS DE IMAGEN URBANA, PAVIMENTOS Y BALIZAMIENTO EN LA ZONA ORIENTE, SEGUNDA ETAPA, EN EL MUNICIPIO DE GUADALAJARA SECCIÓN XIII",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2fd"
+		"$oid": "58b7acee1d44b643db3aa731"
 	},
 	"contratista": "Ime Servicios y Suministros S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP029",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PROYECTO EJECUTIVO PARA LA REHABILITACIÓN DEL PARQUE GONZÁLEZ GALLO",
-	"ubicacion": "COMPRENDIDO EN EL PERÍMETRO DE DR. R. MICHEL, RIO LOZA, RIO TIZAPAN, CALZ. GONZÁLEZ GALLO Y SALVADOR LOPEZ CHAVEZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLÍMPICA",
-	"contratista_rfc": "ISS920330811",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Febrero",
-	"presupesto": 1.35622093e+06,
-	"contrato": "OPG-OD-EYP-AD-C01-029/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ISS920330811",
+	"ubicacion": "COMPRENDIDO EN EL PERÍMETRO DE DR. R. MICHEL, RIO LOZA, RIO TIZAPAN, CALZ. GONZÁLEZ GALLO Y SALVADOR LOPEZ CHAVEZ, EN LA COL. QUINTA VELARDE DE LA ZONA 5 OLÍMPICA",
+	"contrato": "OPG-OD-EYP-AD-C01-029/12",
+	"presupuesto": 1.35622093e+06,
+	"descripcion_obra": "PROYECTO EJECUTIVO PARA LA REHABILITACIÓN DEL PARQUE GONZÁLEZ GALLO",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2fe"
+		"$oid": "58b7acee1d44b643db3aa732"
 	},
 	"contratista": "S2 Arquitectura S.C.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP030",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PROYECTO EJECUTIVO PARA LA REGENERACIÓN DE IMAGEN URBANA Y EQUIPAMIENTO DEL PARQUE AGUA AZUL - ENTORNO PLAZA JUÁREZ - MUSEO PALEONTOLOGÍA",
-	"ubicacion": "COMPRENDIDO EN EL PERÍMETRO DE CALZ. GONZÁLEZ GALLO, CALZ. INDEPENDENCIA, CALZ. DE LAS PALMAS Y DR. R. MICHEL, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "SDA020715175",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 1.1368e+06,
-	"contrato": "OPG-OD-EYP-AD-C01-030/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "SDA020715175",
+	"ubicacion": "COMPRENDIDO EN EL PERÍMETRO DE CALZ. GONZÁLEZ GALLO, CALZ. INDEPENDENCIA, CALZ. DE LAS PALMAS Y DR. R. MICHEL, EN LA COL. LA AURORA DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-OD-EYP-AD-C01-030/12",
+	"presupuesto": 1.1368e+06,
+	"descripcion_obra": "PROYECTO EJECUTIVO PARA LA REGENERACIÓN DE IMAGEN URBANA Y EQUIPAMIENTO DEL PARQUE AGUA AZUL - ENTORNO PLAZA JUÁREZ - MUSEO PALEONTOLOGÍA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f2ff"
+		"$oid": "58b7acee1d44b643db3aa733"
 	},
 	"contratista": "Carreteras y Puentes del Tule S. de RL de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP031",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN DE RAMPA PARA DISCAPACITADOS EN EL MERCADO \"SANTOS DEGOLLADO\".\r\nREHABILITACIÓN DE BANQUETAS EN LA SECUNDARIA MIXTA No.11",
-	"ubicacion": "GUILLERMO VACA (CALLE 36) Y LONGINOS CADENA (CALLE 7), EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR.\r\nCOMPRENDIDO EN EL PERÍMETRO DE CARLOS A CARRILLO (C-9), JULIÁN GRANADOS, JUAN JOSE RÍOS (C-22) Y GABINO ORTIZ (C-26), EN LA COL. LOMAS DE POLANC",
-	"contratista_rfc": "CPT100920K84",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Mercados",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 403122.89,
-	"contrato": "OPG-OD-EQP-AD-C01-031/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CPT100920K84",
+	"ubicacion": "GUILLERMO VACA (CALLE 36) Y LONGINOS CADENA (CALLE 7), EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR.\r\nCOMPRENDIDO EN EL PERÍMETRO DE CARLOS A CARRILLO (C-9), JULIÁN GRANADOS, JUAN JOSE RÍOS (C-22) Y GABINO ORTIZ (C-26), EN LA COL. LOMAS DE POLANC",
+	"contrato": "OPG-OD-EQP-AD-C01-031/12",
+	"presupuesto": 403122.89,
+	"descripcion_obra": "CONSTRUCCIÓN DE RAMPA PARA DISCAPACITADOS EN EL MERCADO \"SANTOS DEGOLLADO\".\r\nREHABILITACIÓN DE BANQUETAS EN LA SECUNDARIA MIXTA No.11",
+	"tipo_infraestructura": "Mercados"
 }
 {
 	"_id": {
-		"$oid": "58b7a1fe1d44b63e1656f300"
+		"$oid": "58b7acee1d44b643db3aa734"
 	},
 	"contratista": "Solorio y Becerra Construcciones S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=12EQP032",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS  EN LA REMODELACIÓN Y EQUIPAMIENTO DEL FORO MULTIDISCIPLINARIO DEL TEATRO DE LA CIUDAD - LABORATORIO DE ARTES VARIEDADES - LARVA, SUMINISTRO Y COLOCACIÓN DE LOSAS DE CONCRETO PULIDO",
-	"ubicacion": "AV. JUÁREZ Y OCAMPO EN AL CENTRO HISTÓRICO, EN LA ZONA 1 CENTRO",
-	"contratista_rfc": "SBC0812095A8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Teatros",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 597085.74,
-	"contrato": "OPG-OD-EQP-AD-C01-032/12"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "SBC0812095A8",
+	"ubicacion": "AV. JUÁREZ Y OCAMPO EN AL CENTRO HISTÓRICO, EN LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C01-032/12",
+	"presupuesto": 597085.74,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS  EN LA REMODELACIÓN Y EQUIPAMIENTO DEL FORO MULTIDISCIPLINARIO DEL TEATRO DE LA CIUDAD - LABORATORIO DE ARTES VARIEDADES - LARVA, SUMINISTRO Y COLOCACIÓN DE LOSAS DE CONCRETO PULIDO",
+	"tipo_infraestructura": "Teatros"
 }

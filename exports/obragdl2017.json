@@ -1,288 +1,288 @@
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5ba"
+		"$oid": "58b7acf81d44b643db3aa9ee"
 	},
 	"contratista": "Pared Urbana, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ03001",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE MESA CENTRAL ENTRE AV. BELISARIO DOMÍNGUEZ Y CALLE PUERTO PROGRESO ZONA OBLATOS, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "PUR071001L23",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Febrero",
-	"presupesto": 4.92290634e+06,
-	"contrato": "DOP-CON-EST-PAV-CI-001-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "PUR071001L23",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-PAV-CI-001-17",
+	"presupuesto": 4.92290634e+06,
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE MESA CENTRAL ENTRE AV. BELISARIO DOMÍNGUEZ Y CALLE PUERTO PROGRESO ZONA OBLATOS, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5bb"
+		"$oid": "58b7acf81d44b643db3aa9ef"
 	},
 	"contratista": "Emmaqui, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17RESZ01002",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMOZAMIENTO DE LOS JUZGADOS MUNICIPALES (JUZGADO ZONA 6, JUZGADO ZONA 7 Y EDIFICIO DE UNIDAD DE PREVENSIÓN SOCIAL), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "EMM150608BE9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 1.99089074e+06,
-	"contrato": "DOP-RES-EST-CZM-CI-002-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "EMM150608BE9",
+	"ubicacion": ".",
+	"contrato": "DOP-RES-EST-CZM-CI-002-17",
+	"presupuesto": 1.99089074e+06,
+	"descripcion_obra": "REMOZAMIENTO DE LOS JUZGADOS MUNICIPALES (JUZGADO ZONA 6, JUZGADO ZONA 7 Y EDIFICIO DE UNIDAD DE PREVENSIÓN SOCIAL), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5bc"
+		"$oid": "58b7acf81d44b643db3aa9f0"
 	},
 	"contratista": "Grupo Emporio Contemporáneo, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17RESZ01005",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMOZAMIENTO DE LOS JUZGADOS MUNICIPALES (EDIFICIO DE DIRECCIÓN DE JUSTICIA MUNICIPAL), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "GEC060410IX9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Edificios Municipales",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 2.92625604e+06,
-	"contrato": "DOP-RES-EST-CZM-CI-005-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "GEC060410IX9",
+	"ubicacion": ".",
+	"contrato": "DOP-RES-EST-CZM-CI-005-17",
+	"presupuesto": 2.92625604e+06,
+	"descripcion_obra": "REMOZAMIENTO DE LOS JUZGADOS MUNICIPALES (EDIFICIO DE DIRECCIÓN DE JUSTICIA MUNICIPAL), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Edificios Municipales"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5bd"
+		"$oid": "58b7acf81d44b643db3aa9f1"
 	},
 	"contratista": "Sr. Regino Ruiz del Campo Medina",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17REHZ01009",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN DE MACHUELOS, BANQUETAS Y PAVIMENTO DE CONCRETO EN LA CALLE CONSTITUCIÓN Y CALLE 20 DE NOVIEMBRE EN EL BARRIO DE ANALCO DE LA ZONA 1 CENTRO, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "RUMR771116UA8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 1.09961105e+06,
-	"contrato": "DOP-REH-MUN-PAV-AD-009-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "RUMR771116UA8",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PAV-AD-009-17",
+	"presupuesto": 1.09961105e+06,
+	"descripcion_obra": "REHABILITACIÓN DE MACHUELOS, BANQUETAS Y PAVIMENTO DE CONCRETO EN LA CALLE CONSTITUCIÓN Y CALLE 20 DE NOVIEMBRE EN EL BARRIO DE ANALCO DE LA ZONA 1 CENTRO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5be"
+		"$oid": "58b7acf81d44b643db3aa9f2"
 	},
 	"contratista": "Ing. Sergio Adrian Llamas Monreal",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ04010",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS DE PLATAFORMAS Y MUROS DE CONTENCIÓN PARA EL PARQUE JOSÉ ORTÍZ VIDALEZ EN LA COLONIA VILLAS DE LA BARRANCA, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "LAMS5001312T6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Febrero",
-	"presupesto": 1.51026498e+06,
-	"contrato": "DOP-CON-MUN-PRO-AD-010-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "LAMS5001312T6",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-MUN-PRO-AD-010-17",
+	"presupuesto": 1.51026498e+06,
+	"descripcion_obra": "TRABAJOS DE PLATAFORMAS Y MUROS DE CONTENCIÓN PARA EL PARQUE JOSÉ ORTÍZ VIDALEZ EN LA COLONIA VILLAS DE LA BARRANCA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5bf"
+		"$oid": "58b7acf81d44b643db3aa9f3"
 	},
 	"contratista": "Orbi Proyectos y Construcciones S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ01014",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN DE MURO DE CONTENCIÓN EN EL PARQUE ALCALDE (2DA. ETAPA), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "OPC030925224",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 5.58954161e+06,
-	"contrato": "DOP-CON-MUN-PRO-CI-014-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "OPC030925224",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-MUN-PRO-CI-014-17",
+	"presupuesto": 5.58954161e+06,
+	"descripcion_obra": "CONSTRUCCIÓN DE MURO DE CONTENCIÓN EN EL PARQUE ALCALDE (2DA. ETAPA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c0"
+		"$oid": "58b7acf81d44b643db3aa9f4"
 	},
 	"contratista": "C. Veronica Alejandra Ledezma Bermudez",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17REHZ01016",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN DE BAÑOS EN EDIFICIO DE PARQUIMETROS EN LA CALLE GHILARDI, COL. MEZQUITAN COUNTRY, Y TRABAJOS COMPLEMENTARIOS PARA VIVIENDAS DE LA COL. HELIODORO HERNANDEZ LOZA, ZONA OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "LEBV881126M45",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias",
+	"zona": "Zona 1: Centro",
 	"mes": "Febrero",
-	"presupesto": 619804.47,
-	"contrato": "DOP-REH-MUN-PRO-AD-016-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "LEBV881126M45",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PRO-AD-016-17",
+	"presupuesto": 619804.47,
+	"descripcion_obra": "REHABILITACIÓN DE BAÑOS EN EDIFICIO DE PARQUIMETROS EN LA CALLE GHILARDI, COL. MEZQUITAN COUNTRY, Y TRABAJOS COMPLEMENTARIOS PARA VIVIENDAS DE LA COL. HELIODORO HERNANDEZ LOZA, ZONA OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c1"
+		"$oid": "58b7acf81d44b643db3aa9f5"
 	},
 	"contratista": "Aqua Innova Consultoria e Ingenieria S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ04017",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MODULOS LUDICOS EN ESPACIO PÚBLICO EN EL PARQUE MONTENEGRO EN LOMAS DE POLANCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "AIC0309015R6",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Febrero",
-	"presupesto": 1.73200926e+06,
-	"contrato": "DOP-CON-EST-MOD-CI-017-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "AIC0309015R6",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-MOD-CI-017-17",
+	"presupuesto": 1.73200926e+06,
+	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MODULOS LUDICOS EN ESPACIO PÚBLICO EN EL PARQUE MONTENEGRO EN LOMAS DE POLANCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c2"
+		"$oid": "58b7acf81d44b643db3aa9f6"
 	},
 	"contratista": "Ing. Saul Mireles Navarro",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=17PAVZ06028",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN EL CRUCE DE LA CALLE JORDAN Y CALLE PABLO VALDEZ; Y LA CALLE GAZA ENTRE ESTEBAN A LA TORRE Y PABLO VALDEZ EN LA COLONIA HERMOSA PROVINCIA EN LA ZONA TETLÁN, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "MINS590404CM5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Febrero",
-	"presupesto": 194122.17,
-	"contrato": "DOP-PAV-MUN-PRO-AD-028-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MINS590404CM5",
+	"ubicacion": ".",
+	"contrato": "DOP-PAV-MUN-PRO-AD-028-17",
+	"presupuesto": 194122.17,
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN EL CRUCE DE LA CALLE JORDAN Y CALLE PABLO VALDEZ; Y LA CALLE GAZA ENTRE ESTEBAN A LA TORRE Y PABLO VALDEZ EN LA COLONIA HERMOSA PROVINCIA EN LA ZONA TETLÁN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c3"
+		"$oid": "58b7acf81d44b643db3aa9f7"
 	},
 	"contratista": "Haro Rent, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17REHZ02003",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PROGRAMA DE RECUPERACIÓN DE BANQUETAS LIBRES EN DIVERSAS COLONIAS, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "HRE970609BY7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias",
+	"zona": "Zona 1: Centro",
 	"mes": "Enero",
-	"presupesto": 2.99962689e+06,
-	"contrato": "DOP-REH-MUN-PRO-AD-003-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "HRE970609BY7",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PRO-AD-003-17",
+	"presupuesto": 2.99962689e+06,
+	"descripcion_obra": "PROGRAMA DE RECUPERACIÓN DE BANQUETAS LIBRES EN DIVERSAS COLONIAS, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c4"
+		"$oid": "58b7acf81d44b643db3aa9f8"
 	},
 	"contratista": "Barnsten México, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17SENZV004",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS DE SUMINISTRO Y COLOCACIÓN DE SEÑALÉTICA VERTICAL Y HORIZONTAL (FRENTE 4), EN EL PROGRAMA DE VIALIDADES DE LAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "BME140630IR2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Balizamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Enero",
-	"presupesto": 1.35e+06,
-	"contrato": "DOP-CON-EST-SEÑ-AD-004-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "BME140630IR2",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-SEÑ-AD-004-17",
+	"presupuesto": 1.35e+06,
+	"descripcion_obra": "TRABAJOS DE SUMINISTRO Y COLOCACIÓN DE SEÑALÉTICA VERTICAL Y HORIZONTAL (FRENTE 4), EN EL PROGRAMA DE VIALIDADES DE LAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Balizamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c5"
+		"$oid": "58b7acf81d44b643db3aa9f9"
 	},
 	"contratista": "Constructora Amicum, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17REHZ01006",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PROGRAMA DE RECUPERACIÓN DE BANQUETAS LIBRES EN DIVERSAS COLONIAS, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "CAM160621G52",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Enero",
-	"presupesto": 2.9960038e+06,
-	"contrato": "DOP-REH-MUN-PRO-AD-006-17"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CAM160621G52",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PRO-AD-006-17",
+	"presupuesto": 2.9960038e+06,
+	"descripcion_obra": "PROGRAMA DE RECUPERACIÓN DE BANQUETAS LIBRES EN DIVERSAS COLONIAS, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c6"
+		"$oid": "58b7acf81d44b643db3aa9fa"
 	},
 	"contratista": "Constructora 5392, S.A. de C.V",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ07007",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MÓDULOS LÚDICOS EN ESPACIOS PÚBLICOS, EN SANTA CECILIA, BALCONES DEL CUATRO, PATRIA NUEVA Y CANCHA DE BASQUETBOL EN LA UNIDAD CLEMENTE OROZCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "CCM130208MW2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Recuperación de Espacios Publicos",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Enero",
-	"presupesto": 1.59595e+06,
-	"contrato": "DOP-CON-EST-CRD-AD-007-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "CCM130208MW2",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CRD-AD-007-17",
+	"presupuesto": 1.59595e+06,
+	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MÓDULOS LÚDICOS EN ESPACIOS PÚBLICOS, EN SANTA CECILIA, BALCONES DEL CUATRO, PATRIA NUEVA Y CANCHA DE BASQUETBOL EN LA UNIDAD CLEMENTE OROZCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Recuperación de Espacios Publicos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c7"
+		"$oid": "58b7acf81d44b643db3aa9fb"
 	},
 	"contratista": "Ingenieros de la Torre, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17REHZ01008",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLÍGONO DEL MERCADO SAN JUAN DE DIOS/ CORREDOR PLAZA TAPATÍA EN EL PARQUE MORELOS  (TRABAJOS PRELIMINARES), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "ITO951005HY5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias",
+	"zona": "Zona 1: Centro",
 	"mes": "Enero",
-	"presupesto": 1.595248e+06,
-	"contrato": "DOP-REH-EST-CZM-AD-008-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "ITO951005HY5",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-EST-CZM-AD-008-17",
+	"presupuesto": 1.595248e+06,
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLÍGONO DEL MERCADO SAN JUAN DE DIOS/ CORREDOR PLAZA TAPATÍA EN EL PARQUE MORELOS  (TRABAJOS PRELIMINARES), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c8"
+		"$oid": "58b7acf81d44b643db3aa9fc"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=17CONZ01013",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS DE SEÑALÉTICA VERTICAL Y HORIZONTAL PARA PUNTOS DE CARGA Y DESCARGA, PARA EL PROGRAMA DE SEGURIDAD VIAL EN ZONAS DE ALTA SINIESTRALIDAD, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Balizamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Enero",
-	"presupesto": 750000.0,
-	"contrato": "DOP-CON-EST-SEÑ-AD-013-17"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-SEÑ-AD-013-17",
+	"presupuesto": 750000.0,
+	"descripcion_obra": "TRABAJOS DE SEÑALÉTICA VERTICAL Y HORIZONTAL PARA PUNTOS DE CARGA Y DESCARGA, PARA EL PROGRAMA DE SEGURIDAD VIAL EN ZONAS DE ALTA SINIESTRALIDAD, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Balizamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2071d44b63e1656f5c9"
+		"$oid": "58b7acf81d44b643db3aa9fd"
 	},
 	"contratista": "Arrendamiento y Desarrollo de Obras, S.A de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06284",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MODULOS LUDICOS EN ESPACIO PÚBLICO RECREATIVO EN LA AV. PLUTARCO ELIAS CALLES, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "ADO031020C58",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Recuperación de Espacios Publicos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Enero",
-	"presupesto": 4.01629103e+06,
-	"contrato": "DOP-CON-EST-CRD-CI-284-16"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "ADO031020C58",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CRD-CI-284-16",
+	"presupuesto": 4.01629103e+06,
+	"descripcion_obra": "CONSTRUCCIÓN E INSTALACIÓN DE MODULOS LUDICOS EN ESPACIO PÚBLICO RECREATIVO EN LA AV. PLUTARCO ELIAS CALLES, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Recuperación de Espacios Publicos"
 }

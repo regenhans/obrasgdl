@@ -1,1674 +1,1674 @@
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f450"
+		"$oid": "58b7acf41d44b643db3aa884"
 	},
 	"contratista": "Proyectos  E Insumos Industriales Jelp S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ01102",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCIÓN Y SUS CALLES ALEDAÑAS. FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "PEI020208RW0",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 8.04107121e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-102-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "PEI020208RW0",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-102-15",
+	"presupuesto": 8.04107121e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCIÓN Y SUS CALLES ALEDAÑAS. FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f451"
+		"$oid": "58b7acf41d44b643db3aa885"
 	},
 	"contratista": "Lacariere Edificaciones, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ01103",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCIÓN Y SUS CALLES ALEDAÑAS. FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "LED091006JG1",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 7.58309543e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-103-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "LED091006JG1",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-103-15",
+	"presupuesto": 7.58309543e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCIÓN Y SUS CALLES ALEDAÑAS. FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f452"
+		"$oid": "58b7acf41d44b643db3aa886"
 	},
 	"contratista": "Fazort y Compañia S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ05104",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCION Y SUS CALLES ALEDAÑAS, FRENTE 3, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "FAZ831215CSA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Parques",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 5.08859506e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-104-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "FAZ831215CSA",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-104-15",
+	"presupuesto": 5.08859506e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACION INTEGRAL DEL PARQUE REVOLUCION Y SUS CALLES ALEDAÑAS, FRENTE 3, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Parques"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f453"
+		"$oid": "58b7acf41d44b643db3aa887"
 	},
 	"contratista": "Grupo Elizaar Elizaar S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ05105",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DEL BARRIO DE SAN ANDRES, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "GEE0012153I0",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Diciembre",
-	"presupesto": 9.08955281e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-105-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "GEE0012153I0",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-105-15",
+	"presupuesto": 9.08955281e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DEL BARRIO DE SAN ANDRES, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f454"
+		"$oid": "58b7acf41d44b643db3aa888"
 	},
 	"contratista": "Tecnologia Civil Aztech S. de R.L. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ5106",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DEL BARRIO DE SAN ANDRES, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "TCA0103088RA",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Diciembre",
-	"presupesto": 4.02504288e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-106-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "TCA0103088RA",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-106-15",
+	"presupuesto": 4.02504288e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DEL BARRIO DE SAN ANDRES, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f455"
+		"$oid": "58b7acf41d44b643db3aa889"
 	},
 	"contratista": "SJ Lagos Constructora e Inmobiliaria, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15COZ01107",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA. ETAPA, RENOVACIÓN URBANA DE LA AVENIDA CHAPULTEPEC, TRAMO 1 (AV. MÉXICO A AV. HIDALGO), FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "SLC090211283",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 1.297402624e+07,
-	"contrato": "DOP-CON-EST-CZM-LP-107-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "SLC090211283",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-107-15",
+	"presupuesto": 1.297402624e+07,
+	"descripcion_obra": "2DA. ETAPA, RENOVACIÓN URBANA DE LA AVENIDA CHAPULTEPEC, TRAMO 1 (AV. MÉXICO A AV. HIDALGO), FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f456"
+		"$oid": "58b7acf41d44b643db3aa88a"
 	},
 	"contratista": "Ingenieria y Proyectos Liderazgo, S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ01108",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DE LA  AVENIDA CHAPULTEPEC, TRAMO 2 (AV. HIDALGO A AV. VALLARTA), FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "IPL081209LV2",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 1.465596035e+07,
-	"contrato": "DOP-CON-EST-CZM-LP-108-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "IPL081209LV2",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-108-15",
+	"presupuesto": 1.465596035e+07,
+	"descripcion_obra": "2DA ETAPA, RENOVACION URBANA DE LA  AVENIDA CHAPULTEPEC, TRAMO 2 (AV. HIDALGO A AV. VALLARTA), FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f457"
+		"$oid": "58b7acf41d44b643db3aa88b"
 	},
 	"contratista": "Pavimentos Industriales y Urbanizaciones S.A. de C.V.",
-	"origen_de_resultados": "ESTATAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15CONZ01109",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2DA ETAPA, RENOVACIÓN URBANA DEL BARRIO DE SANTA TERESITA, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "PIU790912MS1",
 	"modalidad": "LICITACION PUBLICA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Diciembre",
-	"presupesto": 7.14017409e+06,
-	"contrato": "DOP-CON-EST-CZM-LP-109-15"
+	"origen_de_recursos": "ESTATAL",
+	"contratista_rfc": "PIU790912MS1",
+	"ubicacion": ".",
+	"contrato": "DOP-CON-EST-CZM-LP-109-15",
+	"presupuesto": 7.14017409e+06,
+	"descripcion_obra": "2DA ETAPA, RENOVACIÓN URBANA DEL BARRIO DE SANTA TERESITA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f458"
+		"$oid": "58b7acf41d44b643db3aa88c"
 	},
 	"contratista": "SB  Ingenieros Civiles S. A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ06111",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140391ME004 AMPLIACION DEL CENTRO DE DESARROLLO COMUNITARIO BALCONES DE OBLATOS, UBICADA EN HACIENDA DE CEDROS ENTRE RANCHO GRANDE Y HACIENDA ZENZONTLA, EN LA COL. LOMAS DE SAN EUGENIO DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "SIC980529I59",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 2.4590835e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-111-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "SIC980529I59",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-111-15",
+	"presupuesto": 2.4590835e+06,
+	"descripcion_obra": "140391ME004 AMPLIACION DEL CENTRO DE DESARROLLO COMUNITARIO BALCONES DE OBLATOS, UBICADA EN HACIENDA DE CEDROS ENTRE RANCHO GRANDE Y HACIENDA ZENZONTLA, EN LA COL. LOMAS DE SAN EUGENIO DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f459"
+		"$oid": "58b7acf41d44b643db3aa88d"
 	},
 	"contratista": "Sam-Trac S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ06112",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140391ME005 AMPLIACION DEL CENTRO DE DESARROLLO COMUNITARIO EN EDUCACION POPULAR ARANDAS, UBICADA EN HACIENDA DE TALA ENTRE HACIENDA LA AURORA Y ALBINO CORZO ANGEL, EN LA COL. LOMAS DE OBLATOS DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "STR960701CU4",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 2.22964119e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-112-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "STR960701CU4",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-112-15",
+	"presupuesto": 2.22964119e+06,
+	"descripcion_obra": "140391ME005 AMPLIACION DEL CENTRO DE DESARROLLO COMUNITARIO EN EDUCACION POPULAR ARANDAS, UBICADA EN HACIENDA DE TALA ENTRE HACIENDA LA AURORA Y ALBINO CORZO ANGEL, EN LA COL. LOMAS DE OBLATOS DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45a"
+		"$oid": "58b7acf41d44b643db3aa88e"
 	},
 	"contratista": "Lacariere Edificaciones, S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ04113",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140392ME001 HABILITACION DEL CENTRO DE DESARROLLO COMUNITARIO BIENESTAR RIO VERDE(EDIFICIO PRINCIPAL), UBICADO EN HACIENDA DE TAHUEJO ENTRE JUAN PABLO II Y HACIENDA SANTA INES, EN LA UNIDAD HABITACIONAL RIO VERDE TETLAN DE LA ZONA 4 OBLATOS, MUNICIPIO DE",
-	"ubicacion": ".",
-	"contratista_rfc": "LED091006JG1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 2.86626425e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-113-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "LED091006JG1",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-113-15",
+	"presupuesto": 2.86626425e+06,
+	"descripcion_obra": "140392ME001 HABILITACION DEL CENTRO DE DESARROLLO COMUNITARIO BIENESTAR RIO VERDE(EDIFICIO PRINCIPAL), UBICADO EN HACIENDA DE TAHUEJO ENTRE JUAN PABLO II Y HACIENDA SANTA INES, EN LA UNIDAD HABITACIONAL RIO VERDE TETLAN DE LA ZONA 4 OBLATOS, MUNICIPIO DE",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45b"
+		"$oid": "58b7acf41d44b643db3aa88f"
 	},
 	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ04114",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140392ME006 CALLE PEATONAL INTEGRAL HACIENDA DE TAHUEJO, UBICADO EN HACIENDA DE TAHUEJO ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": "",
-	"contratista_rfc": "SCI0003011Z5",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 2.02254531e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-114-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "SCI0003011Z5",
+	"ubicacion": "",
+	"contrato": "DOP-REH-FED-HAB-CI-114-15",
+	"presupuesto": 2.02254531e+06,
+	"descripcion_obra": "140392ME006 CALLE PEATONAL INTEGRAL HACIENDA DE TAHUEJO, UBICADO EN HACIENDA DE TAHUEJO ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45c"
+		"$oid": "58b7acf41d44b643db3aa890"
 	},
 	"contratista": "Arquitectura y Diseño en Armonia S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ04115",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140392ME007 CALLE PEATONAL INTEGRAL BATALLA DE PETATLAN, UBICADO EN BATALLA DE PETATLAN ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "ADA040607DY7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 1.75338126e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-115-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "ADA040607DY7",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-115-15",
+	"presupuesto": 1.75338126e+06,
+	"descripcion_obra": "140392ME007 CALLE PEATONAL INTEGRAL BATALLA DE PETATLAN, UBICADO EN BATALLA DE PETATLAN ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45d"
+		"$oid": "58b7acf41d44b643db3aa891"
 	},
 	"contratista": "Constructora Anguibara N.G. S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ04116",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140392ME008 CALLE PEATONAL INTEGRAL BATALLA DE TECPAN, UBICADO EN BATALLA DE TECPAN ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "CAN071001BH1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 724420.68,
-	"contrato": "DOP-REH-FED-HAB-CI-116-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "CAN071001BH1",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-116-15",
+	"presupuesto": 724420.68,
+	"descripcion_obra": "140392ME008 CALLE PEATONAL INTEGRAL BATALLA DE TECPAN, UBICADO EN BATALLA DE TECPAN ENTRE CALZ. JUAN PABLO II Y AV. HACIENDA LA CALERA, EN LA COL. RIO VERDE OBLATOS DE LA ZONA 4 OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45e"
+		"$oid": "58b7acf41d44b643db3aa892"
 	},
 	"contratista": "Gama Constructores y Asociados S.A. de C.V.",
-	"origen_de_resultados": "TRIPARTITA",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ04118",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "140392ME001 HABILITACION DEL CENTRO DE DESARROLLO COMUNITARIO BIENESTAR RIO VERDE (AULA DE USOS MULTIPLES, EXPLANADA Y TERRAZA), UBICADO EN HACIENDA DE TAHUEJO ENTRE JUAN PABLO II Y HACIENDA SANTA INES, EN LA UNIDAD HABITACIONAL RIO VERDE TETLAN DE LA ZON",
-	"ubicacion": ".",
-	"contratista_rfc": "GCA010529EU7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Diciembre",
-	"presupesto": 2.30478294e+06,
-	"contrato": "DOP-REH-FED-HAB-CI-118-15"
+	"origen_de_recursos": "TRIPARTITA",
+	"contratista_rfc": "GCA010529EU7",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-FED-HAB-CI-118-15",
+	"presupuesto": 2.30478294e+06,
+	"descripcion_obra": "140392ME001 HABILITACION DEL CENTRO DE DESARROLLO COMUNITARIO BIENESTAR RIO VERDE (AULA DE USOS MULTIPLES, EXPLANADA Y TERRAZA), UBICADO EN HACIENDA DE TAHUEJO ENTRE JUAN PABLO II Y HACIENDA SANTA INES, EN LA UNIDAD HABITACIONAL RIO VERDE TETLAN DE LA ZON",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f45f"
+		"$oid": "58b7acf41d44b643db3aa893"
 	},
 	"contratista": "Mega Geotecnia S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ01091",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 1 (CENTRO), FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO",
-	"ubicacion": ".",
-	"contratista_rfc": "MGE070227V61",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 3.01328275e+06,
-	"contrato": "DOP-MANT-MUN-PRO-AD-091-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MGE070227V61",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-AD-091-15",
+	"presupuesto": 3.01328275e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 1 (CENTRO), FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f460"
+		"$oid": "58b7acf41d44b643db3aa894"
 	},
 	"contratista": "Urbanizacion y Construccion Avanzada S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ05092",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 5 (OLIMPICA), FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO",
-	"ubicacion": ".",
-	"contratista_rfc": "UCA0207107X6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Noviembre",
-	"presupesto": 2.55142604e+06,
-	"contrato": "DOP-MANT-MUN-PRO-AD-092-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "UCA0207107X6",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-AD-092-15",
+	"presupuesto": 2.55142604e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 5 (OLIMPICA), FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f461"
+		"$oid": "58b7acf41d44b643db3aa895"
 	},
 	"contratista": "Proyección Integral Zure, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ06093",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 6 (TETLÁN), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "PIZ070717DX6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Noviembre",
-	"presupesto": 2.84402059e+06,
-	"contrato": "DOP-MANT-MUN-PRO-AD-093-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "PIZ070717DX6",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-AD-093-15",
+	"presupuesto": 2.84402059e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 6 (TETLÁN), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f462"
+		"$oid": "58b7acf41d44b643db3aa896"
 	},
 	"contratista": "Construcciones Citus S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTVA094",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN Y MANTENIMIENTO DE LAS FUENTES PLAZAS GUADALAJARA, QUETZALCOATL, LOS PATOS Y SAN JACINTO, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "CCI020411HS5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 1.65006136e+06,
-	"contrato": "DOP-MANT-MUN-PRO-AD-094-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCI020411HS5",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-AD-094-15",
+	"presupuesto": 1.65006136e+06,
+	"descripcion_obra": "REHABILITACIÓN Y MANTENIMIENTO DE LAS FUENTES PLAZAS GUADALAJARA, QUETZALCOATL, LOS PATOS Y SAN JACINTO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f463"
+		"$oid": "58b7acf41d44b643db3aa897"
 	},
 	"contratista": "Constructora Liderazgo, S.A. de C.V",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZV095",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 1 (CENTRO), FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "CLI081211GL3",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 5.57712825e+06,
-	"contrato": "DOP-MANT-MUN-PRO-CI-095-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CLI081211GL3",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-CI-095-15",
+	"presupuesto": 5.57712825e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 1 (CENTRO), FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f464"
+		"$oid": "58b7acf41d44b643db3aa898"
 	},
 	"contratista": "Napreco Grupo Constructor S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ05096",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 5 (OLÍMPICA), FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO",
-	"ubicacion": ".",
-	"contratista_rfc": "NGC010921SV7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Noviembre",
-	"presupesto": 5.6623531e+06,
-	"contrato": "DOP-MANT-MUN-PRO-CI-096-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "NGC010921SV7",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-CI-096-15",
+	"presupuesto": 5.6623531e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 5 (OLÍMPICA), FRENTE 2 MUNICIPIO DE GUADALAJARA, JALISCO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f465"
+		"$oid": "58b7acf41d44b643db3aa899"
 	},
 	"contratista": "Toscana Ingeniería, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ03097",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 3 (HUENTITAN) Y ZONA 4 (OBLATOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "TIN04100824A",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Noviembre",
-	"presupesto": 5.62930552e+06,
-	"contrato": "DOP-MANT-MUN-PRO-CI-097-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TIN04100824A",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-CI-097-15",
+	"presupuesto": 5.62930552e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 3 (HUENTITAN) Y ZONA 4 (OBLATOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f466"
+		"$oid": "58b7acf41d44b643db3aa89a"
 	},
 	"contratista": "Infraestructura San Miguel S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ07098",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 7 (CRUZ DEL SUR), MUNICIPIO DE GUADALAJARA, JALISCO",
-	"ubicacion": ".",
-	"contratista_rfc": "ISM0112209Y5",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Noviembre",
-	"presupesto": 5.72155145e+06,
-	"contrato": "DOP-MANT-MUN-PRO-CI-098-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ISM0112209Y5",
+	"ubicacion": ".",
+	"contrato": "DOP-MANT-MUN-PRO-CI-098-15",
+	"presupuesto": 5.72155145e+06,
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO EN LA ZONA 7 (CRUZ DEL SUR), MUNICIPIO DE GUADALAJARA, JALISCO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f467"
+		"$oid": "58b7acf41d44b643db3aa89b"
 	},
 	"contratista": "Megaobras S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ01099",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES, CALLE ESPAÑA DE ENRIQUE DÍAZ DE LEÓN A CALLE COLONIAS; CALLE JOSEFA ORTIZ DE DOMÍNGUEZ DE LA AV. BELISARIO DOMÍNGUEZ A CALLE MARIANO JIMÉNEZ; CALLE DIONISIO RODRÍGUEZ DE CALZADA INDEPENDENCIA A AV. BELISARIO DOMÍNGUEZ, EN LA",
-	"ubicacion": ".",
-	"contratista_rfc": "MEG030224QK1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 8.24083759e+06,
-	"contrato": "DOP-REH-MUN-PRO-CI-099-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "MEG030224QK1",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PRO-CI-099-15",
+	"presupuesto": 8.24083759e+06,
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES, CALLE ESPAÑA DE ENRIQUE DÍAZ DE LEÓN A CALLE COLONIAS; CALLE JOSEFA ORTIZ DE DOMÍNGUEZ DE LA AV. BELISARIO DOMÍNGUEZ A CALLE MARIANO JIMÉNEZ; CALLE DIONISIO RODRÍGUEZ DE CALZADA INDEPENDENCIA A AV. BELISARIO DOMÍNGUEZ, EN LA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f468"
+		"$oid": "58b7acf41d44b643db3aa89c"
 	},
 	"contratista": "Torres Aguirre Ingenieros S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15REHZ01100",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES, CALLE ENRIQUE GONZÁLEZ MARTÍNEZ DE AV. JUÁREZ A CALLE MORELOS; CALLE LIBERTAD DE AV. FEDERALISMO A CALLE CORONA; CALLE MORELOS DE AV. FEDERALISMO A CALLE CONTRERAS MEDELLÍN; CALLE SAN FELIPE DE CALLE PINO SUAREZ A AV. FEDERA",
-	"ubicacion": ".",
-	"contratista_rfc": "TAI920312952",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 6.36431752e+06,
-	"contrato": "DOP-REH-MUN-PRO-CI-100-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TAI920312952",
+	"ubicacion": ".",
+	"contrato": "DOP-REH-MUN-PRO-CI-100-15",
+	"presupuesto": 6.36431752e+06,
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES, CALLE ENRIQUE GONZÁLEZ MARTÍNEZ DE AV. JUÁREZ A CALLE MORELOS; CALLE LIBERTAD DE AV. FEDERALISMO A CALLE CORONA; CALLE MORELOS DE AV. FEDERALISMO A CALLE CONTRERAS MEDELLÍN; CALLE SAN FELIPE DE CALLE PINO SUAREZ A AV. FEDERA",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f469"
+		"$oid": "58b7acf41d44b643db3aa89d"
 	},
 	"contratista": "Tecorsa S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESPZV101",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACIÓN Y MANTENIMIENTO DE LAS FUENTES MINERVA, COPAS PLAZA LIBERACIÓN Y DANZARINAS, MUNICIPIO DE GUADALAJARA, JALISCO.",
-	"ubicacion": ".",
-	"contratista_rfc": "TEC0806209D9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"zona": "Zona 1: Centro",
 	"mes": "Noviembre",
-	"presupesto": 2.88069029e+06,
-	"contrato": "DOP-ESP-MUN-PRO-CI-101-15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TEC0806209D9",
+	"ubicacion": ".",
+	"contrato": "DOP-ESP-MUN-PRO-CI-101-15",
+	"presupuesto": 2.88069029e+06,
+	"descripcion_obra": "REHABILITACIÓN Y MANTENIMIENTO DE LAS FUENTES MINERVA, COPAS PLAZA LIBERACIÓN Y DANZARINAS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"tipo_infraestructura": "Obras Varias Rehabilitación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46a"
+		"$oid": "58b7acf41d44b643db3aa89e"
 	},
 	"contratista": "Ventura Construcciones, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESCZ6063",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y APLICACIÓN DE IMPERMEABILIZANTE ROJO ELASTROMERICO Y PINTURA VINILICA  EN LAS ESCUELAS: A) ESCUELA PRIMARIA FEDERAL \"SALVADOR M. LIMA\";  B) JARDIN DE NIÑOS \"EL PIPILA\";  C) JARDIN DE NIÑOS \"AGUSTIN  YAÑEZ\";  D) ESCUELA PRIMARIA  URBANA 9 ALFO",
-	"ubicacion": "A) PITAGORAS # 238, EN LA COL. SANTA MARIA DEL SILO DE LA ZONA 6 TETLAN;  B) HACIENDA CEDROS BALCONES DE OBLATOS;  C) JUAN B BENDEJAS 3043;  D) JUAN DIAZ COVARRUBIAS 160;  E) POTRERO DEL LLANO 1534;  F) RIO GRIJALBA 1027 COL. GONZALEZ GALLO;  G) AV. ARTES",
-	"contratista_rfc": "VCO830712G57",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Septiembre",
-	"presupesto": 1.18597864e+06,
-	"contrato": "OPG-OD-ESC-AD-C06-063/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "VCO830712G57",
+	"ubicacion": "A) PITAGORAS # 238, EN LA COL. SANTA MARIA DEL SILO DE LA ZONA 6 TETLAN;  B) HACIENDA CEDROS BALCONES DE OBLATOS;  C) JUAN B BENDEJAS 3043;  D) JUAN DIAZ COVARRUBIAS 160;  E) POTRERO DEL LLANO 1534;  F) RIO GRIJALBA 1027 COL. GONZALEZ GALLO;  G) AV. ARTES",
+	"contrato": "OPG-OD-ESC-AD-C06-063/15",
+	"presupuesto": 1.18597864e+06,
+	"descripcion_obra": "SUMINISTRO Y APLICACIÓN DE IMPERMEABILIZANTE ROJO ELASTROMERICO Y PINTURA VINILICA  EN LAS ESCUELAS: A) ESCUELA PRIMARIA FEDERAL \"SALVADOR M. LIMA\";  B) JARDIN DE NIÑOS \"EL PIPILA\";  C) JARDIN DE NIÑOS \"AGUSTIN  YAÑEZ\";  D) ESCUELA PRIMARIA  URBANA 9 ALFO",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46b"
+		"$oid": "58b7acf41d44b643db3aa89f"
 	},
 	"contratista": "Constructora JMA, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESCZV064",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y ELABORACION DE ESTRUCTURA METALICA PARA PATIO EN LAS ESCUELAS:;  A) JARDIN DE NIÑOS NO. 563 \"DIEGO RIVERA\";  B) ESCUELA SECUNDARIA MIXTA NUMERO 29 ;  C) JARDIN DE NIÑOS 57 MA. MAGDALENA VIDAURRI DE COSIO;  D) FRANCISCO JAVIER MINA;  E) ESCUEL",
-	"ubicacion": "A) JAVIER MINA NO. 500;  B) HDA. LA CALERA NO. 2933;  C) FRANCISCO ZARCO 274 A;  D) JAVIER MINA # 4078;  E) CALLE RONDALLA 1565 COL. GDL ORIENTE;  F) MESA DEL CENTRO # 1135 COL. VICENTE GUERRERO;  G) JUAN TABLADA COL. MIRAFLORES;  H) HDA DE GUADALUPE 1227",
-	"contratista_rfc": "CJM121221Q73",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Septiembre",
-	"presupesto": 2.3766399e+06,
-	"contrato": "OPG-OD-ESC-AD-C06-064/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CJM121221Q73",
+	"ubicacion": "A) JAVIER MINA NO. 500;  B) HDA. LA CALERA NO. 2933;  C) FRANCISCO ZARCO 274 A;  D) JAVIER MINA # 4078;  E) CALLE RONDALLA 1565 COL. GDL ORIENTE;  F) MESA DEL CENTRO # 1135 COL. VICENTE GUERRERO;  G) JUAN TABLADA COL. MIRAFLORES;  H) HDA DE GUADALUPE 1227",
+	"contrato": "OPG-OD-ESC-AD-C06-064/15",
+	"presupuesto": 2.3766399e+06,
+	"descripcion_obra": "SUMINISTRO Y ELABORACION DE ESTRUCTURA METALICA PARA PATIO EN LAS ESCUELAS:;  A) JARDIN DE NIÑOS NO. 563 \"DIEGO RIVERA\";  B) ESCUELA SECUNDARIA MIXTA NUMERO 29 ;  C) JARDIN DE NIÑOS 57 MA. MAGDALENA VIDAURRI DE COSIO;  D) FRANCISCO JAVIER MINA;  E) ESCUEL",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46c"
+		"$oid": "58b7acf41d44b643db3aa8a0"
 	},
 	"contratista": "Constructora y Edificadora Plasma, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESCVZ065",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUMINISTRO Y APLICACIÓN DE IMPERMEABILIZANTE ROJO ELASTROMERICO EN LAS ESCUELAS: A) URBANA 198 ELENO GARCÍA RAMOS;  B) JARDIN DE NIÑOS 3 ERO CONSTITUCIONAL;  C) JARDIN DE NIÑOS ELENA ZAPATA;  D) JARDIN DE NIÑOS 23 LUCIA SAHAGUN GARIBAY;  E) ESCUELA PRIMAR",
-	"ubicacion": "A) DIONISIO RODRIGUEZ # 2930, ENTRE ANTONIO ENRIQUEZ Y 2A. DE CARLOS GONZALEZ PEÑA, EN LA COL. LOS ROMOS DE LA ZONA 6 TETLAN;  B) EUTERPE # 2465, ENTRE SAN BASILIO Y LEGALIDAD, EN LA COL. LAS LOMAS INDEPENDENCIA DE LA ZONA 3 HUENTITAN;  C) GRAL. CORONADO",
-	"contratista_rfc": "CEP080129EK6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Septiembre",
-	"presupesto": 2.43445469e+06,
-	"contrato": "OPG-OD-ESC-AD-C06-065/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CEP080129EK6",
+	"ubicacion": "A) DIONISIO RODRIGUEZ # 2930, ENTRE ANTONIO ENRIQUEZ Y 2A. DE CARLOS GONZALEZ PEÑA, EN LA COL. LOS ROMOS DE LA ZONA 6 TETLAN;  B) EUTERPE # 2465, ENTRE SAN BASILIO Y LEGALIDAD, EN LA COL. LAS LOMAS INDEPENDENCIA DE LA ZONA 3 HUENTITAN;  C) GRAL. CORONADO",
+	"contrato": "OPG-OD-ESC-AD-C06-065/15",
+	"presupuesto": 2.43445469e+06,
+	"descripcion_obra": "SUMINISTRO Y APLICACIÓN DE IMPERMEABILIZANTE ROJO ELASTROMERICO EN LAS ESCUELAS: A) URBANA 198 ELENO GARCÍA RAMOS;  B) JARDIN DE NIÑOS 3 ERO CONSTITUCIONAL;  C) JARDIN DE NIÑOS ELENA ZAPATA;  D) JARDIN DE NIÑOS 23 LUCIA SAHAGUN GARIBAY;  E) ESCUELA PRIMAR",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46d"
+		"$oid": "58b7acf41d44b643db3aa8a1"
 	},
 	"contratista": "Construcciones e Inovaciones de Occidente, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ6084",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REMODELACIÓN DE UNIDAD DEPORTIVA Nº 04 FRANCISCO JAVIER MINA. TRABAJOS CONSISTENTES EN CONSTRUCCIÓN DE VESTIDORES, REHABILIRACIÓN DE ALBERCA Y EQUIPO.",
-	"ubicacion": "PRESA LAUREL  No. 137 ESQ. DIONISIO RODRÍGUEZ, EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN.",
-	"contratista_rfc": "CEI120820T79",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Septiembre",
-	"presupesto": 750000.0,
-	"contrato": "OPG-OD-EQP-AD-C09-084/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CEI120820T79",
+	"ubicacion": "PRESA LAUREL  No. 137 ESQ. DIONISIO RODRÍGUEZ, EN LA COL. JARDINES DE SAN FRANCISCO DE LA ZONA 6 TETLAN.",
+	"contrato": "OPG-OD-EQP-AD-C09-084/15",
+	"presupuesto": 750000.0,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REMODELACIÓN DE UNIDAD DEPORTIVA Nº 04 FRANCISCO JAVIER MINA. TRABAJOS CONSISTENTES EN CONSTRUCCIÓN DE VESTIDORES, REHABILIRACIÓN DE ALBERCA Y EQUIPO.",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46e"
+		"$oid": "58b7acf41d44b643db3aa8a2"
 	},
 	"contratista": "Asfaltos Guadalajara, S.A.P.I., de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5039",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRA COMPLEMENTARIA PARA LA PAVIEMNTACION CON CONCRETO HIDRAULICO EN MOTA PADILLA - BASILIO VADILLO (CALLE 54).",
-	"ubicacion": "MOTA PADILLA - BASILIO VADILLO (CALLE 54) ENTRE CALZ. REVOLUCION Y SANTA FE, EN LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "AGU840319SC3",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Agosto",
-	"presupesto": 1.057176425e+07,
-	"contrato": "OPG-OD-EQP-AD-C05-039/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "AGU840319SC3",
+	"ubicacion": "MOTA PADILLA - BASILIO VADILLO (CALLE 54) ENTRE CALZ. REVOLUCION Y SANTA FE, EN LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-OD-EQP-AD-C05-039/15",
+	"presupuesto": 1.057176425e+07,
+	"descripcion_obra": "OBRA COMPLEMENTARIA PARA LA PAVIEMNTACION CON CONCRETO HIDRAULICO EN MOTA PADILLA - BASILIO VADILLO (CALLE 54).",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f46f"
+		"$oid": "58b7acf41d44b643db3aa8a3"
 	},
 	"contratista": "Grupo Constructor Felca S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5055",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA PAVIMENTACIÓN CON CONCRETO HIDRAULICO, SUSTITUCION DE LINEAS HIDROSANITARIA, TOMAS DOMICILIARIAS Y BANQUETAS.",
-	"ubicacion": "EJIDO - FELIPE ANGELES ENTRE AV. REVOLUCION Y ESTEBAN ALATORRE, EN LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "GCF8504255B8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Agosto",
-	"presupesto": 1.59738039e+06,
-	"contrato": "OPG-OD-EQP-AD-C06-055/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GCF8504255B8",
+	"ubicacion": "EJIDO - FELIPE ANGELES ENTRE AV. REVOLUCION Y ESTEBAN ALATORRE, EN LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-OD-EQP-AD-C06-055/15",
+	"presupuesto": 1.59738039e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA PAVIMENTACIÓN CON CONCRETO HIDRAULICO, SUSTITUCION DE LINEAS HIDROSANITARIA, TOMAS DOMICILIARIAS Y BANQUETAS.",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f470"
+		"$oid": "58b7acf41d44b643db3aa8a4"
 	},
 	"contratista": "Her-Padi S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 5: Olímpica",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5056",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA PAVIMENTACIÓN CON CONCRETO HIDRAULICO, SUSTITUCION DE LINEAS HIDROSANITARIA, TOMAS DOMICILIARIAS Y BANQUETAS.",
-	"ubicacion": "JOSE MARIA NARVAEZ ENTRE ESTEBAN ALATORRE Y AV. ARTESANOS, EN LA COL. PENAL DE LA ZONA 5 OLIMPICA.",
-	"contratista_rfc": "HPA970610PW4",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 5: Olímpica",
 	"mes": "Agosto",
-	"presupesto": 142658.24,
-	"contrato": "OPG-OD-EQP-AD-C08-056/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "HPA970610PW4",
+	"ubicacion": "JOSE MARIA NARVAEZ ENTRE ESTEBAN ALATORRE Y AV. ARTESANOS, EN LA COL. PENAL DE LA ZONA 5 OLIMPICA.",
+	"contrato": "OPG-OD-EQP-AD-C08-056/15",
+	"presupuesto": 142658.24,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA PAVIMENTACIÓN CON CONCRETO HIDRAULICO, SUSTITUCION DE LINEAS HIDROSANITARIA, TOMAS DOMICILIARIAS Y BANQUETAS.",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f471"
+		"$oid": "58b7acf41d44b643db3aa8a5"
 	},
 	"contratista": "Corporativo Constructor Cutema S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4057",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REHABILITACIÓN DE UNIDAD DEPORTIVA No.9 \"PLAN DE SAN LUIS\"",
-	"ubicacion": "SAN IGNACIO No.2332 Y HACIENDA GUADALUPE (PANTEÓN GUADALAJARA), EN LA COL. SAN VICENTE DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "CCT0702225I5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Agosto",
-	"presupesto": 104627.16,
-	"contrato": "OPG-OD-EQP-AD-C06-057/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCT0702225I5",
+	"ubicacion": "SAN IGNACIO No.2332 Y HACIENDA GUADALUPE (PANTEÓN GUADALAJARA), EN LA COL. SAN VICENTE DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-OD-EQP-AD-C06-057/15",
+	"presupuesto": 104627.16,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA REHABILITACIÓN DE UNIDAD DEPORTIVA No.9 \"PLAN DE SAN LUIS\"",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f472"
+		"$oid": "58b7acf41d44b643db3aa8a6"
 	},
 	"contratista": "Ing. Veronica Bermudez Torres",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06068",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y REHABILITACIÓN DE REDES HIDROSANITARIAS.",
-	"ubicacion": "CAIRO ENTRE ESTEBAN ALATORRE Y JESÚS URUETA, EN LA COL. LIBERTAD DE LA ZONA 6 TETLÁN.",
-	"contratista_rfc": "BETV600515U89",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Agosto",
-	"presupesto": 3.84010354e+06,
-	"contrato": "OPG-CEI-PAV-CI-C06-068/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "BETV600515U89",
+	"ubicacion": "CAIRO ENTRE ESTEBAN ALATORRE Y JESÚS URUETA, EN LA COL. LIBERTAD DE LA ZONA 6 TETLÁN.",
+	"contrato": "OPG-CEI-PAV-CI-C06-068/15",
+	"presupuesto": 3.84010354e+06,
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y REHABILITACIÓN DE REDES HIDROSANITARIAS.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f473"
+		"$oid": "58b7acf41d44b643db3aa8a7"
 	},
 	"contratista": "TC Construcción y Mantenimiento, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06069",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y REHABILITACIÓN DE REDES HIDROSANITARIAS.",
-	"ubicacion": "TRIPOLI ENTRE FEDERACIÓN Y PABLO VALDÉZ EN LA COL. LIBERTAD DE LA ZONA 6 TETLÁN.",
-	"contratista_rfc": "TCM100915HA1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Agosto",
-	"presupesto": 4.15343765e+06,
-	"contrato": "OPG-CEI-PAV-CI-C06-069/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "TCM100915HA1",
+	"ubicacion": "TRIPOLI ENTRE FEDERACIÓN Y PABLO VALDÉZ EN LA COL. LIBERTAD DE LA ZONA 6 TETLÁN.",
+	"contrato": "OPG-CEI-PAV-CI-C06-069/15",
+	"presupuesto": 4.15343765e+06,
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y REHABILITACIÓN DE REDES HIDROSANITARIAS.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f474"
+		"$oid": "58b7acf41d44b643db3aa8a8"
 	},
 	"contratista": "Ingenieria y Proyectos MDM, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ03069",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTACIÓN CON ASFALTO.",
-	"ubicacion": "EXPERIENCIA ENTRE AV. PATRIA Y JOSÉ JUSTO ÁLVAREZ, EN LA COL. SANTA ELENA DE LA CRUZ DE LA ZONA 3 HUENTITÁN.",
-	"contratista_rfc": "IPM1107056C7",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Agosto",
-	"presupesto": 3.98078918e+06,
-	"contrato": "OPG-CEI-PAV-CI-C06-070/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "IPM1107056C7",
+	"ubicacion": "EXPERIENCIA ENTRE AV. PATRIA Y JOSÉ JUSTO ÁLVAREZ, EN LA COL. SANTA ELENA DE LA CRUZ DE LA ZONA 3 HUENTITÁN.",
+	"contrato": "OPG-CEI-PAV-CI-C06-070/15",
+	"presupuesto": 3.98078918e+06,
+	"descripcion_obra": "PAVIMENTACIÓN CON ASFALTO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f475"
+		"$oid": "58b7acf41d44b643db3aa8a9"
 	},
 	"contratista": "Grupo Constructor Xolot S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ01071",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA No. 30 \"INSURGENTE PEDRO MORENO\"",
-	"ubicacion": "PLATÓN No. 1353 CASI ESQUINA CIRC. DIVISIÓN DEL NORTE, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "GCX0508239ZA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Unidades Deportivas",
+	"zona": "Zona 1: Centro",
 	"mes": "Agosto",
-	"presupesto": 2e+06,
-	"contrato": "OPG-CEI-EQP-AD-C06-071/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "GCX0508239ZA",
+	"ubicacion": "PLATÓN No. 1353 CASI ESQUINA CIRC. DIVISIÓN DEL NORTE, EN LA COL. INDEPENDENCIA DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-CEI-EQP-AD-C06-071/15",
+	"presupuesto": 2e+06,
+	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA No. 30 \"INSURGENTE PEDRO MORENO\"",
+	"tipo_infraestructura": "Unidades Deportivas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f476"
+		"$oid": "58b7acf41d44b643db3aa8aa"
 	},
 	"contratista": "Arq. Liza Nohemi Tapia Garcia",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 2: Minerva",
 	"ejercido_url": "obraDetalle.php?id_obra=15EYPZ2072",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PROYECTO INTEGRAL DE INTERVENCION EN EL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
-	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA",
-	"contratista_rfc": "TAGL661207PG0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"zona": "Zona 2: Minerva",
 	"mes": "Agosto",
-	"presupesto": 222000.0,
-	"contrato": "OPG-OD-EYP-AD-C06-072/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TAGL661207PG0",
+	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA",
+	"contrato": "OPG-OD-EYP-AD-C06-072/15",
+	"presupuesto": 222000.0,
+	"descripcion_obra": "PROYECTO INTEGRAL DE INTERVENCION EN EL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f477"
+		"$oid": "58b7acf41d44b643db3aa8ab"
 	},
 	"contratista": "TC Construcción y Mantenimiento, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1002",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA ESTACIÓN DE TRASFERENCIA MULTIMODAL NIVEL 3 \"PARQUE REVOLUCIÓN\"",
-	"ubicacion": "AV. VALLARTA Y CALZ. FEDERALISMO, EN LA ZONA 1 CENTRO",
-	"contratista_rfc": "TCM100915HA1",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Julio",
-	"presupesto": 2.2051884e+06,
-	"contrato": "OPG-OD-EQP-AD-C04-002/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "TCM100915HA1",
+	"ubicacion": "AV. VALLARTA Y CALZ. FEDERALISMO, EN LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C04-002/15",
+	"presupuesto": 2.2051884e+06,
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA ESTACIÓN DE TRASFERENCIA MULTIMODAL NIVEL 3 \"PARQUE REVOLUCIÓN\"",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f478"
+		"$oid": "58b7acf41d44b643db3aa8ac"
 	},
 	"contratista": "Grupo Constructor MR de Jalisco, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1038",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SEGUNDA ETAPA PARA LA ESTACIÓN DE TRASFERENCIA MULTIMODAL NIVEL 3 \"SAN JUAN DE DIOS\"",
-	"ubicacion": "CALZ. INDEPENDENCIA Y AV. JAVIER MINA, EN LA ZONA 1 CENTRO",
-	"contratista_rfc": "GCM121112J86",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Julio",
-	"presupesto": 5.9943e+06,
-	"contrato": "OPG-OD-EQP-C04-AD-038/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GCM121112J86",
+	"ubicacion": "CALZ. INDEPENDENCIA Y AV. JAVIER MINA, EN LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-C04-AD-038/15",
+	"presupuesto": 5.9943e+06,
+	"descripcion_obra": "SEGUNDA ETAPA PARA LA ESTACIÓN DE TRASFERENCIA MULTIMODAL NIVEL 3 \"SAN JUAN DE DIOS\"",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f479"
+		"$oid": "58b7acf41d44b643db3aa8ad"
 	},
 	"contratista": "Constructora Tzaulan, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4053",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS EN LA REMODELACIÓN DE UNIDAD DEPORTIVA Nº 19 CADETE VICENTE SUÁREZ. TRABAJOS CONSISTENTES EN SKATOPISTA Y PISTA DE BICICROSS",
-	"ubicacion": "AV. DE LA CRUZ  No. 1950  ESQ. MESA CENTRAL, EN LA COL. SAN  MARCOS DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "CTZ020315CN7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Julio",
-	"presupesto": 341303.41,
-	"contrato": "OPG-OD-EQP-AD-C05-053/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CTZ020315CN7",
+	"ubicacion": "AV. DE LA CRUZ  No. 1950  ESQ. MESA CENTRAL, EN LA COL. SAN  MARCOS DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-OD-EQP-AD-C05-053/15",
+	"presupuesto": 341303.41,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS EN LA REMODELACIÓN DE UNIDAD DEPORTIVA Nº 19 CADETE VICENTE SUÁREZ. TRABAJOS CONSISTENTES EN SKATOPISTA Y PISTA DE BICICROSS",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47a"
+		"$oid": "58b7acf41d44b643db3aa8ae"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1058",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACIÓN DE LA PLAZA GUADALAJARA, TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACIÓN, REHABILITACION DE LA ADMINISTRACIÓN, ADAPTACIÓN DE LOCALES, AREAS COMUNES, CUARTO DE MAQUINAS, DRENAJE, AIRE ACONDICIONADO Y RESTAURAC",
-	"ubicacion": "AV. HIDALGO Y AV. ALCALDE, EN EL CENTRO HISTORICO DE LA CIUDAD DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Julio",
-	"presupesto": 160704.29,
-	"contrato": "OPG-OD-EQP-AD-C06-058/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": "AV. HIDALGO Y AV. ALCALDE, EN EL CENTRO HISTORICO DE LA CIUDAD DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-OD-EQP-AD-C06-058/15",
+	"presupuesto": 160704.29,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA LA REHABILITACIÓN DE LA PLAZA GUADALAJARA, TRABAJOS CONSISTENTES EN LA IMPERMEABILIZACIÓN, REHABILITACION DE LA ADMINISTRACIÓN, ADAPTACIÓN DE LOCALES, AREAS COMUNES, CUARTO DE MAQUINAS, DRENAJE, AIRE ACONDICIONADO Y RESTAURAC",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47b"
+		"$oid": "58b7acf41d44b643db3aa8af"
 	},
 	"contratista": "Grupo Constructor Felca S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7059",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS EMERGENTES EN TERRENOS DE MIRAVALLE, COMPRENDIDOS EN MOVER COMPOSTA A CENTROS DE ACOPIO, INDICADOS POR ECOLOGIA.",
-	"ubicacion": "AV. ARTES PLASTICAS Y ANTONIO CASTRO, EN LA COL. 1ro DE MAYO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "GCF8504255B8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Julio",
-	"presupesto": 923835.6,
-	"contrato": "OPG-OD-EQP-AD-C06-059/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "GCF8504255B8",
+	"ubicacion": "AV. ARTES PLASTICAS Y ANTONIO CASTRO, EN LA COL. 1ro DE MAYO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-OD-EQP-AD-C06-059/15",
+	"presupuesto": 923835.6,
+	"descripcion_obra": "TRABAJOS EMERGENTES EN TERRENOS DE MIRAVALLE, COMPRENDIDOS EN MOVER COMPOSTA A CENTROS DE ACOPIO, INDICADOS POR ECOLOGIA.",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47c"
+		"$oid": "58b7acf41d44b643db3aa8b0"
 	},
 	"contratista": "Constructora Kirling S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7060",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPARACION DE DAÑOS PROVOCADOS POR EL TEMPORAL DE LLUVIAS 2015",
-	"ubicacion": "A) COLONIA MIRAVALLE EN LA ZONA 7 CRUZ DEL SUR. B) CANAL DE CALLE LUSITANIA, EN LA COL. AUTOCINEMA DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "CKI110316876",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Construcción",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Julio",
-	"presupesto": 602910.71,
-	"contrato": "OPG-OD-EQP-AD-C06-060/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CKI110316876",
+	"ubicacion": "A) COLONIA MIRAVALLE EN LA ZONA 7 CRUZ DEL SUR. B) CANAL DE CALLE LUSITANIA, EN LA COL. AUTOCINEMA DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-OD-EQP-AD-C06-060/15",
+	"presupuesto": 602910.71,
+	"descripcion_obra": "REPARACION DE DAÑOS PROVOCADOS POR EL TEMPORAL DE LLUVIAS 2015",
+	"tipo_infraestructura": "Obras Varias Construcción"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47d"
+		"$oid": "58b7acf41d44b643db3aa8b1"
 	},
 	"contratista": "Constructora Kirling S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ3062",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 3ra, 4ta Y 5ta SECCIÓN (2da ETAPA), TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE CUARTOS PARA BAÑO, CUARTOS  DORMITORIO, CUARTOS  PARA COCINA, PISOS FIRME, TECHOS  FIRME, MUROS FIRME Y MANTENIMIENTO DE",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE MARIANO OLIVARES, MANUEL I. SOLÍS, JESÚS AMAVISCA, JOSÉ MA. LANZAGORTA, FRANCISCO ESTRADA, LOMAS VALLARTA Y LÍMITE DE BARRANCA, EN LA COL. LOMAS DEL PARAISO 3ra,4ta Y 5ta SECC. DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "CKI110316876",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Julio",
-	"presupesto": 795826.47,
-	"contrato": "OPG-R33-EQP-AD-C06-062/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CKI110316876",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE MARIANO OLIVARES, MANUEL I. SOLÍS, JESÚS AMAVISCA, JOSÉ MA. LANZAGORTA, FRANCISCO ESTRADA, LOMAS VALLARTA Y LÍMITE DE BARRANCA, EN LA COL. LOMAS DEL PARAISO 3ra,4ta Y 5ta SECC. DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-R33-EQP-AD-C06-062/15",
+	"presupuesto": 795826.47,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 3ra, 4ta Y 5ta SECCIÓN (2da ETAPA), TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE CUARTOS PARA BAÑO, CUARTOS  DORMITORIO, CUARTOS  PARA COCINA, PISOS FIRME, TECHOS  FIRME, MUROS FIRME Y MANTENIMIENTO DE",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47e"
+		"$oid": "58b7acf41d44b643db3aa8b2"
 	},
 	"contratista": "Grupo V Y CG, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ01003",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "2da. ETAPA DE LA CONSTRUCCION DE MODULO DE SEGURIDAD GAMAS",
-	"ubicacion": "AV. ALEMANIA Y NORUEGA, EN LA COL. LA MODERNA EN LA ZONA 1 CENTRO.",
-	"contratista_rfc": "GVC1101316W5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Subsemun",
+	"zona": "Zona 1: Centro",
 	"mes": "Junio",
-	"presupesto": 6e+06,
-	"contrato": "OPG-SUBSEMUN-EQP-AD-C02-003/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "GVC1101316W5",
+	"ubicacion": "AV. ALEMANIA Y NORUEGA, EN LA COL. LA MODERNA EN LA ZONA 1 CENTRO.",
+	"contrato": "OPG-SUBSEMUN-EQP-AD-C02-003/15",
+	"presupuesto": 6e+06,
+	"descripcion_obra": "2da. ETAPA DE LA CONSTRUCCION DE MODULO DE SEGURIDAD GAMAS",
+	"tipo_infraestructura": "Subsemun"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f47f"
+		"$oid": "58b7acf41d44b643db3aa8b3"
 	},
 	"contratista": "Consorcio Iconstructora, S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15IHSZV024",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CUADRILLA DE EMERGENCIAS HIDRÁULICAS PARA LA PREVENCIÒN DEL TEMPORAL DE LLUVIAS.",
-	"ubicacion": "EN DIFERENTES PUNTOS DE LA CIUDAD.",
-	"contratista_rfc": "CIC121227RSA",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Desazolves",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 4.73241511e+06,
-	"contrato": "OPG-OD-IHS-CI-C02-024/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CIC121227RSA",
+	"ubicacion": "EN DIFERENTES PUNTOS DE LA CIUDAD.",
+	"contrato": "OPG-OD-IHS-CI-C02-024/15",
+	"presupuesto": 4.73241511e+06,
+	"descripcion_obra": "CUADRILLA DE EMERGENCIAS HIDRÁULICAS PARA LA PREVENCIÒN DEL TEMPORAL DE LLUVIAS.",
+	"tipo_infraestructura": "Desazolves"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f480"
+		"$oid": "58b7acf41d44b643db3aa8b4"
 	},
 	"contratista": "Lim Constructora S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06030",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
-	"ubicacion": "ESMIRNA ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN",
-	"contratista_rfc": "LCO011023NQ1",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 1.99161334e+06,
-	"contrato": "OPG-PEF-PAV-CI-C04-030/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "LCO011023NQ1",
+	"ubicacion": "ESMIRNA ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN",
+	"contrato": "OPG-PEF-PAV-CI-C04-030/15",
+	"presupuesto": 1.99161334e+06,
+	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f481"
+		"$oid": "58b7acf41d44b643db3aa8b5"
 	},
 	"contratista": "Estructuras y Diseños del Sol S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06031",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACION EN CONCRETO HIDRAULICO.",
-	"ubicacion": "TEHERÁN ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
-	"contratista_rfc": "EDS001103AJ2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 2.0405385e+06,
-	"contrato": "OPG-PEF-PAV-AD-C04-031/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "EDS001103AJ2",
+	"ubicacion": "TEHERÁN ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
+	"contrato": "OPG-PEF-PAV-AD-C04-031/15",
+	"presupuesto": 2.0405385e+06,
+	"descripcion_obra": "REPAVIMENTACION EN CONCRETO HIDRAULICO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f482"
+		"$oid": "58b7acf41d44b643db3aa8b6"
 	},
 	"contratista": "Urbanizacion y Construccion Avanzada S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06032",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
-	"ubicacion": "BAGDAD ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
-	"contratista_rfc": "UCA0207107X6",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 1.98510856e+06,
-	"contrato": "OPG-PEF-PAV-CI-C04-032/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "UCA0207107X6",
+	"ubicacion": "BAGDAD ENTRE ESTEBAN ALATORRE Y PABLO VALDÉS, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
+	"contrato": "OPG-PEF-PAV-CI-C04-032/15",
+	"presupuesto": 1.98510856e+06,
+	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f483"
+		"$oid": "58b7acf41d44b643db3aa8b7"
 	},
 	"contratista": "Cadaco Construcciones S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ06033",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
-	"ubicacion": "DAMASCO ENTRE ESTEBAN ALATORRE Y MANUEL PAYNO, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
-	"contratista_rfc": "CCO070612CT2",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Junio",
-	"presupesto": 3.9179322e+06,
-	"contrato": "OPG-PEF-PAV-CI-C04-033/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CCO070612CT2",
+	"ubicacion": "DAMASCO ENTRE ESTEBAN ALATORRE Y MANUEL PAYNO, EN LA COL. CUAUHTEMOC DE LA ZONA 6 TETLAN.",
+	"contrato": "OPG-PEF-PAV-CI-C04-033/15",
+	"presupuesto": 3.9179322e+06,
+	"descripcion_obra": "REPAVIMENTACIÓN EN CONCRETO HIDRÁULICO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f484"
+		"$oid": "58b7acf41d44b643db3aa8b8"
 	},
 	"contratista": "Ingenieria y Construcciones Anrol. S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ04034",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REHABILITACION DE PAVIMENTO ASFALTO.",
-	"ubicacion": "HACIENDA EL PLATANAR, ENTRE LA AV. ARTESANOS Y GRAL. RIVAS GUILLÉN, EN LA COL. CIRCUNVALACIÓN OBLATOS DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "ICA091028E40",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Junio",
-	"presupesto": 4.24512556e+06,
-	"contrato": "OPG-PEF-PAV-CI-C04-034/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "ICA091028E40",
+	"ubicacion": "HACIENDA EL PLATANAR, ENTRE LA AV. ARTESANOS Y GRAL. RIVAS GUILLÉN, EN LA COL. CIRCUNVALACIÓN OBLATOS DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-PEF-PAV-CI-C04-034/15",
+	"presupuesto": 4.24512556e+06,
+	"descripcion_obra": "REHABILITACION DE PAVIMENTO ASFALTO.",
+	"tipo_infraestructura": "Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f485"
+		"$oid": "58b7acf41d44b643db3aa8b9"
 	},
 	"contratista": "RS Obras y Servicios, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ03035",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA Nº 38 \"SANTIAGO CAMARENA\".",
-	"ubicacion": "VOLCAN BABUYAN ENTRE VOLCAN TACANA Y VOLCAN PATAMBAN, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "ROS120904PV9",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Junio",
-	"presupesto": 5.49264922e+06,
-	"contrato": "OPG-PEF-EQP-CI-C04-035/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "ROS120904PV9",
+	"ubicacion": "VOLCAN BABUYAN ENTRE VOLCAN TACANA Y VOLCAN PATAMBAN, EN LA COL. HUENTITAN EL BAJO DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-PEF-EQP-CI-C04-035/15",
+	"presupuesto": 5.49264922e+06,
+	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA Nº 38 \"SANTIAGO CAMARENA\".",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f486"
+		"$oid": "58b7acf41d44b643db3aa8ba"
 	},
 	"contratista": "Construcciones e Inovaciones de Occidente, S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ07036",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA Nº 35 \"LIC. IGNACIO JACOBO\".",
-	"ubicacion": "JOAQUIN MARTINEZ CHAVARRIA No.2322 ESQ. AV. COLON, EN LA COL. 18 DE MARZO DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "CEI120820T79",
 	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
-	"tipo_infraestructura": "Unidad Deportiva",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Junio",
-	"presupesto": 5.50704111e+06,
-	"contrato": "OPG-PEF-EQP-CI-C04-036/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CEI120820T79",
+	"ubicacion": "JOAQUIN MARTINEZ CHAVARRIA No.2322 ESQ. AV. COLON, EN LA COL. 18 DE MARZO DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-PEF-EQP-CI-C04-036/15",
+	"presupuesto": 5.50704111e+06,
+	"descripcion_obra": "REMODELACIÓN DE LA UNIDAD DEPORTIVA Nº 35 \"LIC. IGNACIO JACOBO\".",
+	"tipo_infraestructura": "Unidad Deportiva"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f487"
+		"$oid": "58b7acf41d44b643db3aa8bb"
 	},
 	"contratista": "Grupo Constructor Nuevo Progreso S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ4040",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "EGIPTO ENTRE HACIENDA LA CALERA Y PALESTINA, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "GCN000308RQ9",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Junio",
-	"presupesto": 2.02342e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-040/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "GCN000308RQ9",
+	"ubicacion": "EGIPTO ENTRE HACIENDA LA CALERA Y PALESTINA, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-AD-C05-040/15",
+	"presupuesto": 2.02342e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f488"
+		"$oid": "58b7acf41d44b643db3aa8bc"
 	},
 	"contratista": "Procourza S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ4041",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "EGIPTO ENTRE PALESTINA Y ESTEBAN CORONADO, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "PRO0205208F2",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Junio",
-	"presupesto": 2.5123e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-041/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "PRO0205208F2",
+	"ubicacion": "EGIPTO ENTRE PALESTINA Y ESTEBAN CORONADO, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-AD-C05-041/15",
+	"presupuesto": 2.5123e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Bacheo y Pavimentos"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f489"
+		"$oid": "58b7acf41d44b643db3aa8bd"
 	},
 	"contratista": "Estrategia Grupo Constructor, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ4042",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "EGIPTO ENTRE ESTEBAN CORONADO Y SIDON, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
-	"contratista_rfc": "EGC990317995",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Junio",
-	"presupesto": 2.1315e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-042/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "EGC990317995",
+	"ubicacion": "EGIPTO ENTRE ESTEBAN CORONADO Y SIDON, EN LA COL. HELIODORO HERNANDEZ LOZA DE LA ZONA 4 OBLATOS",
+	"contrato": "OPG-R33-PAV-AD-C05-042/15",
+	"presupuesto": 2.1315e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48a"
+		"$oid": "58b7acf41d44b643db3aa8be"
 	},
 	"contratista": "Grupo Constructor Xolot S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ1043",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "28 DE ENERO ENTRE AV. REVOLUCION Y CONSTITUCION, EN LA COL. ANALCO DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "GCX0508239ZA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 1: Centro",
 	"mes": "Junio",
-	"presupesto": 927947.99,
-	"contrato": "OPG-R33-PAV-AD-C05-043/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "GCX0508239ZA",
+	"ubicacion": "28 DE ENERO ENTRE AV. REVOLUCION Y CONSTITUCION, EN LA COL. ANALCO DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-R33-PAV-AD-C05-043/15",
+	"presupuesto": 927947.99,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48b"
+		"$oid": "58b7acf41d44b643db3aa8bf"
 	},
 	"contratista": "Urbanizaciones e Ingenieria Gaslo S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ1044",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "CONSTITUCION ENTRE 20 DE NOVIEMBRE Y 28 DE ENERO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "UEI081222P68",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 1: Centro",
 	"mes": "Junio",
-	"presupesto": 1.59280777e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-044/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "UEI081222P68",
+	"ubicacion": "CONSTITUCION ENTRE 20 DE NOVIEMBRE Y 28 DE ENERO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-R33-PAV-AD-C05-044/15",
+	"presupuesto": 1.59280777e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48c"
+		"$oid": "58b7acf41d44b643db3aa8c0"
 	},
 	"contratista": "Proyectos  E Insumos Industriales Jelp S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ1045",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO. ALUMBRADO DE FUENTE EN EL PARQUE SAN JOSE DE ANALCO.",
-	"ubicacion": "CONSTITUCION ENTRE 28 DE ENERO Y 5 DE MAYO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO. CONSTITUCION ESQUINA 5 DE MAYO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "PEI020208RW0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 1: Centro",
 	"mes": "Junio",
-	"presupesto": 1.5222e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-045/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "PEI020208RW0",
+	"ubicacion": "CONSTITUCION ENTRE 28 DE ENERO Y 5 DE MAYO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO. CONSTITUCION ESQUINA 5 DE MAYO, EN LA COL. ANALCO DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-R33-PAV-AD-C05-045/15",
+	"presupuesto": 1.5222e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO. ALUMBRADO DE FUENTE EN EL PARQUE SAN JOSE DE ANALCO.",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48d"
+		"$oid": "58b7acf41d44b643db3aa8c1"
 	},
 	"contratista": "Ing. Martin Rodolfo Preciado Rodríguez",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15PAVZ3046",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
-	"ubicacion": "FRANCISCO JAVIER SANTA MARIA Y MARIA GUADALUPE CALDERON BELTRAN, EN LA COL. PLANETARIO DE LA ZONA 3 HUENTITAN.",
-	"contratista_rfc": "PERM631018RP6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Junio",
-	"presupesto": 1.92281431e+06,
-	"contrato": "OPG-R33-PAV-AD-C05-046/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "PERM631018RP6",
+	"ubicacion": "FRANCISCO JAVIER SANTA MARIA Y MARIA GUADALUPE CALDERON BELTRAN, EN LA COL. PLANETARIO DE LA ZONA 3 HUENTITAN.",
+	"contrato": "OPG-R33-PAV-AD-C05-046/15",
+	"presupuesto": 1.92281431e+06,
+	"descripcion_obra": "PAVIMENTO CON CONCRETO HIDRÁULICO, INCLUYE SUSTITUCIÓN DE RED HIDROSANITARIA, CAMBIO DE TOMAS Y DESCARGAS DOMICILIARIAS, SUSTITUCIÓN DE BANQUETA Y BALIZAMIENTO",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48e"
+		"$oid": "58b7acf41d44b643db3aa8c2"
 	},
 	"contratista": "Constructora y Edificadora Plasma, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESCZ1047",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA \"ABEL AYALA\" No.70 Y No.3, TRABAJOS CONSISTENTES EN CUBIERTA EN PATIO A BASE DE ESTRUCTURA METALICA. B) CONSTRUCCION DE CUBIERTA EN LA ESCUELA SECUNDARIA TEC. No. 113, TRABAJOS CONSISTENTES EN CUBIERTA EN",
-	"ubicacion": "A) FRANCISCO SILVA ROMERO No.655 ENTRE LOS ANGELES Y GANTE, EN LA COL. LAS CONCHAS DE LA ZONA 1 CENTRO. B) MARIA LUISA MARTINEZ No.4879  ENTRE JOSE MARIA LANZAGORTA, EN LA COL. LOMAS DEL PARAISO 4ta SECCIÓN DE LA ZONA 3 HUENTITAN. C) HACIENDA SANTIAGO No.",
-	"contratista_rfc": "CEP080129EK6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 2.33759522e+06,
-	"contrato": "OPG-R33-ESC-AD-C05-047/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CEP080129EK6",
+	"ubicacion": "A) FRANCISCO SILVA ROMERO No.655 ENTRE LOS ANGELES Y GANTE, EN LA COL. LAS CONCHAS DE LA ZONA 1 CENTRO. B) MARIA LUISA MARTINEZ No.4879  ENTRE JOSE MARIA LANZAGORTA, EN LA COL. LOMAS DEL PARAISO 4ta SECCIÓN DE LA ZONA 3 HUENTITAN. C) HACIENDA SANTIAGO No.",
+	"contrato": "OPG-R33-ESC-AD-C05-047/15",
+	"presupuesto": 2.33759522e+06,
+	"descripcion_obra": "A) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA \"ABEL AYALA\" No.70 Y No.3, TRABAJOS CONSISTENTES EN CUBIERTA EN PATIO A BASE DE ESTRUCTURA METALICA. B) CONSTRUCCION DE CUBIERTA EN LA ESCUELA SECUNDARIA TEC. No. 113, TRABAJOS CONSISTENTES EN CUBIERTA EN",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f48f"
+		"$oid": "58b7acf41d44b643db3aa8c3"
 	},
 	"contratista": "Constructora JMA, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15ESCZ5048",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA URB. No.914, TRABAJOS CONSISTENTES EN CUBIERTA EN CANCHA A BASE DE ESTRUCTURA METALICA. B) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA \"MANUEL LOPEZ COTILLA\", TRABAJOS CONSISTENTES EN CUBIERTA EN PATI",
-	"ubicacion": "A) MARIANO OLIVARES No. 500 ENTRE JOSE MARIA CANAL Y MANUEL IGNACIO SOLIS, EN LA COL. LOMAS DEL PARAISO 5ta SECCIÓN DE LA ZONA 3 HUENTITAN. B) RIO TINTO No.2575 ENTRE RIO HAYNAMOTA Y MOCTEZUMA, EN LA COL. BOSQUES DE BOULEVARD DE LA ZONA 5 OLIMPICA. C) PIT",
-	"contratista_rfc": "CJM121221Q73",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Escuelas",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 2.65657004e+06,
-	"contrato": "OPG-R33-ESC-AD-C05-048/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CJM121221Q73",
+	"ubicacion": "A) MARIANO OLIVARES No. 500 ENTRE JOSE MARIA CANAL Y MANUEL IGNACIO SOLIS, EN LA COL. LOMAS DEL PARAISO 5ta SECCIÓN DE LA ZONA 3 HUENTITAN. B) RIO TINTO No.2575 ENTRE RIO HAYNAMOTA Y MOCTEZUMA, EN LA COL. BOSQUES DE BOULEVARD DE LA ZONA 5 OLIMPICA. C) PIT",
+	"contrato": "OPG-R33-ESC-AD-C05-048/15",
+	"presupuesto": 2.65657004e+06,
+	"descripcion_obra": "A) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA URB. No.914, TRABAJOS CONSISTENTES EN CUBIERTA EN CANCHA A BASE DE ESTRUCTURA METALICA. B) CONSTRUCCION DE CUBIERTA EN LA ESCUELA PRIMARIA \"MANUEL LOPEZ COTILLA\", TRABAJOS CONSISTENTES EN CUBIERTA EN PATI",
+	"tipo_infraestructura": "Escuelas"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f490"
+		"$oid": "58b7acf41d44b643db3aa8c4"
 	},
 	"contratista": "Constructora Kirling S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4049",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LA COL. BALCONES DE OBLATOS 1ra Y 2da SECCIÓN, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 17 TECHOS  FIRME Y 7 MUROS FIRME. B) MEJORAMIEN",
-	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DEL POLÍGONO DE  LA COL. BALCONES DE OBLATOS 1ra Y 2da SECCIÓN DE LA ZONA 4 OBLATOS B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS BEATRIZ HERNANDEZ, AARON JOAQUIN Y  LOMAS DE OBLATOS 1ra SECCIÓN, DE LA ZONA 4",
-	"contratista_rfc": "CKI110316876",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Junio",
-	"presupesto": 2.98724714e+06,
-	"contrato": "OPG-R33-EQP-AD-C05-049/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CKI110316876",
+	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DEL POLÍGONO DE  LA COL. BALCONES DE OBLATOS 1ra Y 2da SECCIÓN DE LA ZONA 4 OBLATOS B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS BEATRIZ HERNANDEZ, AARON JOAQUIN Y  LOMAS DE OBLATOS 1ra SECCIÓN, DE LA ZONA 4",
+	"contrato": "OPG-R33-EQP-AD-C05-049/15",
+	"presupuesto": 2.98724714e+06,
+	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LA COL. BALCONES DE OBLATOS 1ra Y 2da SECCIÓN, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 17 TECHOS  FIRME Y 7 MUROS FIRME. B) MEJORAMIEN",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f491"
+		"$oid": "58b7acf41d44b643db3aa8c5"
 	},
 	"contratista": "TC Construcción y Mantenimiento, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4050",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS SANTA CECILIA 1ra, 2da Y 3ra SECCIÓN Y TETLAN RIO VERDE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 6 CUARTOS PARA BAÑO,  5 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME Y 9 MUROS",
-	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS  SANTA CECILIA 1ra, 2da Y 3ra SECCIÓN Y TETLAN RIO VERDE, DE LA ZONA 4 OBLATOS B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS LIBERTAD, LAGOS DE ORIENTE 1ra SECCIÓN Y LAGOS DE",
-	"contratista_rfc": "TCM100915HA1",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 2.80849005e+06,
-	"contrato": "OPG-R33-EQP-AD-C05-050/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "TCM100915HA1",
+	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS  SANTA CECILIA 1ra, 2da Y 3ra SECCIÓN Y TETLAN RIO VERDE, DE LA ZONA 4 OBLATOS B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS LIBERTAD, LAGOS DE ORIENTE 1ra SECCIÓN Y LAGOS DE",
+	"contrato": "OPG-R33-EQP-AD-C05-050/15",
+	"presupuesto": 2.80849005e+06,
+	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS SANTA CECILIA 1ra, 2da Y 3ra SECCIÓN Y TETLAN RIO VERDE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 6 CUARTOS PARA BAÑO,  5 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME Y 9 MUROS",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f492"
+		"$oid": "58b7acf41d44b643db3aa8c6"
 	},
 	"contratista": "Lugo Ibarra Consorcio Constructor S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5051",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ATLAS, RANCHO BLANCO, OLIMPICA Y RANCHO BLANCO ALAMO, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 3 CUARTOS PARA BAÑO,  3 CUARTOS  DORMITORIO, 1 CUARTOS  PARA COCINA, 3 PISOS FIRME, 7 TECHOS  FIRME Y 10 MUROS FI",
-	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS ATLAS, RANCHO BLANCO, OLIMPICA Y RANCHO BLANCO ALAMO, DE LA ZONA 5 OLIMPICA B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS BALCONES DEL 4, LAZARO CARDENAS, PATRIA Y PATRIA NUEV",
-	"contratista_rfc": "LIC0208141P8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 1.79841443e+06,
-	"contrato": "OPG-R33-EQP-AD-C05-051/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "LIC0208141P8",
+	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS ATLAS, RANCHO BLANCO, OLIMPICA Y RANCHO BLANCO ALAMO, DE LA ZONA 5 OLIMPICA B) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS BALCONES DEL 4, LAZARO CARDENAS, PATRIA Y PATRIA NUEV",
+	"contrato": "OPG-R33-EQP-AD-C05-051/15",
+	"presupuesto": 1.79841443e+06,
+	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ATLAS, RANCHO BLANCO, OLIMPICA Y RANCHO BLANCO ALAMO, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 3 CUARTOS PARA BAÑO,  3 CUARTOS  DORMITORIO, 1 CUARTOS  PARA COCINA, 3 PISOS FIRME, 7 TECHOS  FIRME Y 10 MUROS FI",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f493"
+		"$oid": "58b7acf41d44b643db3aa8c7"
 	},
 	"contratista": "Tasum Soluciones en Construcción S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 8: Varias Zonas",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5052",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS POTRERO ALTO Y ESTEBAN ALATORRE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 5 CUARTOS PARA BAÑO,  5 CUARTOS  DORMITORIO, 1 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME Y 9 MUROS FIRME. B) MEJORAMIENTO D",
-	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS POTRERO ALTO Y ESTEBAN ALATORRE,  DE LA ZONA 5 OLIMPICA. B) COMPRENDIDO EN EL INTERIOR DEL POLÍGONO DE LA COL.  FERROCARRIL, DE  LA ZONA 7 CRUZ DEL SUR.",
-	"contratista_rfc": "TSC100210E48",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 8: Varias Zonas",
 	"mes": "Junio",
-	"presupesto": 1.82024356e+06,
-	"contrato": "OPG-R33-EQP-AD-C05-052/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "TSC100210E48",
+	"ubicacion": "A) COMPRENDIDO EN EL INTERIOR DE LOS POLÍGONOS DE LAS COLONIAS POTRERO ALTO Y ESTEBAN ALATORRE,  DE LA ZONA 5 OLIMPICA. B) COMPRENDIDO EN EL INTERIOR DEL POLÍGONO DE LA COL.  FERROCARRIL, DE  LA ZONA 7 CRUZ DEL SUR.",
+	"contrato": "OPG-R33-EQP-AD-C05-052/15",
+	"presupuesto": 1.82024356e+06,
+	"descripcion_obra": "A) MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS POTRERO ALTO Y ESTEBAN ALATORRE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 5 CUARTOS PARA BAÑO,  5 CUARTOS  DORMITORIO, 1 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME Y 9 MUROS FIRME. B) MEJORAMIENTO D",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f494"
+		"$oid": "58b7acf41d44b643db3aa8c8"
 	},
 	"contratista": "Arq. Liza Nohemi Tapia Garcia",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 2: Minerva",
 	"ejercido_url": "obraDetalle.php?id_obra=15SUPZ2054",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS DE SUPERVICION CONCEPTUAL EN LA RESTAURACIÓN DEL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
-	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA",
-	"contratista_rfc": "TAGL661207PG0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Cultura",
+	"zona": "Zona 2: Minerva",
 	"mes": "Junio",
-	"presupesto": 92782.05,
-	"contrato": "OPG-OD-SUP-AD-C05-054/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "TAGL661207PG0",
+	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA",
+	"contrato": "OPG-OD-SUP-AD-C05-054/15",
+	"presupuesto": 92782.05,
+	"descripcion_obra": "TRABAJOS DE SUPERVICION CONCEPTUAL EN LA RESTAURACIÓN DEL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
+	"tipo_infraestructura": "Cultura"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f495"
+		"$oid": "58b7acf41d44b643db3aa8c9"
 	},
 	"contratista": "Ingenieria y Proyectos MDM, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15R33Z7007",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. FERROCARRIL, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 15 CUARTOS PARA BAÑO, 18 CUARTOS DORMITORIO, 6 CUARTOS PARA COCINA, 4 PISOS FIRME, 14 TECHOS FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE 16 TECHOS FIRME Y 32 MUROS FI",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE GANSO, HÉROES FERROCARRILEROS, CALLE 2, CALLE 9, CALLE 4, CALLE 7 Y GOBERNADOR CURIEL, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
-	"contratista_rfc": "IPM1107056C7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Vivienda",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Mayo",
-	"presupesto": 2.85096241e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-007/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "IPM1107056C7",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE GANSO, HÉROES FERROCARRILEROS, CALLE 2, CALLE 9, CALLE 4, CALLE 7 Y GOBERNADOR CURIEL, EN LA COL. FERROCARRIL DE LA ZONA 7 CRUZ DEL SUR",
+	"contrato": "OPG-R33-EQP-AD-C02-007/15",
+	"presupuesto": 2.85096241e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. FERROCARRIL, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 15 CUARTOS PARA BAÑO, 18 CUARTOS DORMITORIO, 6 CUARTOS PARA COCINA, 4 PISOS FIRME, 14 TECHOS FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE 16 TECHOS FIRME Y 32 MUROS FI",
+	"tipo_infraestructura": "Vivienda"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f496"
+		"$oid": "58b7acf41d44b643db3aa8ca"
 	},
 	"contratista": "Desarrollos Casavi S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4010",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. HELIODORO HERNANDEZ LOZA 1ra SECCIÓN, LADO ORIENTE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 20 CUARTOS PARA BAÑO,  19 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 5 MUROS FIRME Y MAN",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. LA CALERA, EGIPTO, ESTEBAN CORONADO Y JOSE MARIA MARTINEZ, EN LA COL. HELIODORO HDZ. LOZA 1ra SECC. DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "DCA110131TY7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Mayo",
-	"presupesto": 3.29704891e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-010/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "DCA110131TY7",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. LA CALERA, EGIPTO, ESTEBAN CORONADO Y JOSE MARIA MARTINEZ, EN LA COL. HELIODORO HDZ. LOZA 1ra SECC. DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-R33-EQP-AD-C02-010/15",
+	"presupuesto": 3.29704891e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. HELIODORO HERNANDEZ LOZA 1ra SECCIÓN, LADO ORIENTE, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 20 CUARTOS PARA BAÑO,  19 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 5 MUROS FIRME Y MAN",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f497"
+		"$oid": "58b7acf41d44b643db3aa8cb"
 	},
 	"contratista": "Construcciones y Proyectos SAG S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15IHSZ7022",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "DESAZOLVE DEL VASO REGULADOR VALENTÍN GÓMEZ FARIAS. DESAZOLVE DEL CANAL NUEVA ESPAÑA.",
-	"ubicacion": "AV. JESUS REYES HEROLES Y MARIA C. BANCALARI, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR. PROL. AV. COLON ENTRE FRANCISCO OSORNIO Y SECOYA, DE LA ZONA 7 CRUZ DEL SUR.",
-	"contratista_rfc": "CPS101110QB0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Mayo",
-	"presupesto": 1.55706035e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-022/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CPS101110QB0",
+	"ubicacion": "AV. JESUS REYES HEROLES Y MARIA C. BANCALARI, EN LA COL. LOMA LINDA DE LA ZONA 7 CRUZ DEL SUR. PROL. AV. COLON ENTRE FRANCISCO OSORNIO Y SECOYA, DE LA ZONA 7 CRUZ DEL SUR.",
+	"contrato": "OPG-OD-IHS-AD-C02-022/15",
+	"presupuesto": 1.55706035e+06,
+	"descripcion_obra": "DESAZOLVE DEL VASO REGULADOR VALENTÍN GÓMEZ FARIAS. DESAZOLVE DEL CANAL NUEVA ESPAÑA.",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f498"
+		"$oid": "58b7acf41d44b643db3aa8cc"
 	},
 	"contratista": "Consorcio Constructor Diestro S.A. de C.V.",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15IHSZ7023",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MANTENIMIENTO Y DESAZOLVE EN CANAL MIRAVALLE. DESAZOLVE DEL CANAL DEL SUR. DESAZOLVE EN VASO 5 DE MAYO.",
-	"ubicacion": "LUIS COVARRUBIAS ENTRE ARTES PLASTICAS Y 3 DE MAYO, EN LA ZONA 7 CRUZ DEL SUR.  LUIS COVARRUBIAS ENTRE DAVID BERNAGA  A 3 DE MAYO, EN LA COL. BALCONES DEL 4 EN LA ZONA 7 CRUZ DEL SUR. AV. PATRIA Y JOSE MARIA MENDEZ OLIVARES Y DOMINGO LOEZA, EN LA COL. 5 D",
-	"contratista_rfc": "CCD980709IIA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Alcantarillado y Pavimentación",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Mayo",
-	"presupesto": 2.21485382e+06,
-	"contrato": "OPG-OD-IHS-AD-C02-023/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "CCD980709IIA",
+	"ubicacion": "LUIS COVARRUBIAS ENTRE ARTES PLASTICAS Y 3 DE MAYO, EN LA ZONA 7 CRUZ DEL SUR.  LUIS COVARRUBIAS ENTRE DAVID BERNAGA  A 3 DE MAYO, EN LA COL. BALCONES DEL 4 EN LA ZONA 7 CRUZ DEL SUR. AV. PATRIA Y JOSE MARIA MENDEZ OLIVARES Y DOMINGO LOEZA, EN LA COL. 5 D",
+	"contrato": "OPG-OD-IHS-AD-C02-023/15",
+	"presupuesto": 2.21485382e+06,
+	"descripcion_obra": "MANTENIMIENTO Y DESAZOLVE EN CANAL MIRAVALLE. DESAZOLVE DEL CANAL DEL SUR. DESAZOLVE EN VASO 5 DE MAYO.",
+	"tipo_infraestructura": "Alcantarillado y Pavimentación"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f499"
+		"$oid": "58b7acf41d44b643db3aa8cd"
 	},
 	"contratista": "Chemtrol Mexico S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1026",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "ADQUISICIÓN DE EQUIPAMIENTO ESCÉNICO PARA EL TEATRO TORRES BODET.",
-	"ubicacion": "AV. ESPAÑA ESQ. CON AV. CHAPULTEPEC SUR, EN LA COL. MODERNA DE LA ZONA 1 CENTRO",
-	"contratista_rfc": "CME121205RZ5",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Mayo",
-	"presupesto": 2.04855e+06,
-	"contrato": "OPG-PEF-EQP-AD-C04-026/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CME121205RZ5",
+	"ubicacion": "AV. ESPAÑA ESQ. CON AV. CHAPULTEPEC SUR, EN LA COL. MODERNA DE LA ZONA 1 CENTRO",
+	"contrato": "OPG-PEF-EQP-AD-C04-026/15",
+	"presupuesto": 2.04855e+06,
+	"descripcion_obra": "ADQUISICIÓN DE EQUIPAMIENTO ESCÉNICO PARA EL TEATRO TORRES BODET.",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49a"
+		"$oid": "58b7acf41d44b643db3aa8ce"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 2: Minerva",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ2027",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "RESTAURACIÓN DEL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
-	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA.",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Conaculta",
+	"zona": "Zona 2: Minerva",
 	"mes": "Mayo",
-	"presupesto": 4.54632085e+06,
-	"contrato": "OPG-PEF-EQP-AD-C04-027/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": "CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA.",
+	"contrato": "OPG-PEF-EQP-AD-C04-027/15",
+	"presupuesto": 4.54632085e+06,
+	"descripcion_obra": "RESTAURACIÓN DEL CENTRO CULTURAL COLOMOS \"EL CASTILLO\".",
+	"tipo_infraestructura": "Conaculta"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49b"
+		"$oid": "58b7acf41d44b643db3aa8cf"
 	},
 	"contratista": "Napreco Grupo Constructor S.A. de C.V.",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15PEFZ1028",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "RESTAURACION DE \"LA CASA REFORMA\" 2A ETAPA",
-	"ubicacion": "REFORMA NUMERO 363, 367, 369 Y 373, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "NGC010921SV7",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Conaculta",
+	"zona": "Zona 1: Centro",
 	"mes": "Mayo",
-	"presupesto": 4.114579e+06,
-	"contrato": "OPG-PEF-EQP-AD-C04-028/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "NGC010921SV7",
+	"ubicacion": "REFORMA NUMERO 363, 367, 369 Y 373, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-PEF-EQP-AD-C04-028/15",
+	"presupuesto": 4.114579e+06,
+	"descripcion_obra": "RESTAURACION DE \"LA CASA REFORMA\" 2A ETAPA",
+	"tipo_infraestructura": "Conaculta"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49c"
+		"$oid": "58b7acf41d44b643db3aa8d0"
 	},
 	"contratista": "Arq. Alejandro Canales Daroca",
-	"origen_de_resultados": "FEDERAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15SUPZ1029",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "CONSULTORIA Y ASESORIA DE LA RESTAURACION DE \"LA CASA REFORMA\" 2A ETAPA.",
-	"ubicacion": "REFORMA NUMEROS 363, 367, 369 Y 373, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "CADA580612S73",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"zona": "Zona 1: Centro",
 	"mes": "Mayo",
-	"presupesto": 83971.0,
-	"contrato": "OPG-PEF-SUP-AD-C04-029/15"
+	"origen_de_recursos": "FEDERAL",
+	"contratista_rfc": "CADA580612S73",
+	"ubicacion": "REFORMA NUMEROS 363, 367, 369 Y 373, EN EL CENTRO HISTORICO DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-PEF-SUP-AD-C04-029/15",
+	"presupuesto": 83971.0,
+	"descripcion_obra": "CONSULTORIA Y ASESORIA DE LA RESTAURACION DE \"LA CASA REFORMA\" 2A ETAPA.",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49d"
+		"$oid": "58b7acf41d44b643db3aa8d1"
 	},
 	"contratista": "Consorcio Constructor Diestro S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ3005",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 5ta SECCIÓN,   TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 15 CUARTOS PARA BAÑO,  16 CUARTOS  DORMITORIO, 6 CUARTOS  PARA COCINA, 3 PISOS FIRME, 17 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE 20 TE",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE VOLCÁN POPOCA, MANUEL STA. MARÍA, MANUEL I. SOLÍS, MARIANO OLIVARES, JUAN I. RAMOS, MARIANO OLIVARES, LIMITE DE BARRANCA Y PANORÁMICA, EN LA COL LOMAS DEL PARAISO 5ta SECC. DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "CCD980709IIA",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 2.77968753e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-005/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CCD980709IIA",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE VOLCÁN POPOCA, MANUEL STA. MARÍA, MANUEL I. SOLÍS, MARIANO OLIVARES, JUAN I. RAMOS, MARIANO OLIVARES, LIMITE DE BARRANCA Y PANORÁMICA, EN LA COL LOMAS DEL PARAISO 5ta SECC. DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-R33-EQP-AD-C02-005/15",
+	"presupuesto": 2.77968753e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 5ta SECCIÓN,   TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 15 CUARTOS PARA BAÑO,  16 CUARTOS  DORMITORIO, 6 CUARTOS  PARA COCINA, 3 PISOS FIRME, 17 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE 20 TE",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49e"
+		"$oid": "58b7acf41d44b643db3aa8d2"
 	},
 	"contratista": "AAV Arquitectura y Edificación S. de RL de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ3006",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 3ra, 4ta Y 5ta SECCIÓN,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 14 CUARTOS PARA BAÑO,  17 CUARTOS  DORMITORIO, 6 CUARTOS  PARA COCINA, 5 PISOS FIRME, 15 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENT",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE MARIANO OLIVARES, MANUEL I. SOLÍS, JESÚS AMAVISCA, JOSÉ MA. LANZAGORTA, FRANCISCO ESTRADA, LOMAS VALLARTA Y LÍMITE DE BARRANCA, EN LA COL. LOMAS DEL PARAISO 3ra,4ta Y 5ta SECC. DE LA ZONA 3 HUENTITAN",
-	"contratista_rfc": "AAE140702594",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 2.75618501e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-006/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "AAE140702594",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE MARIANO OLIVARES, MANUEL I. SOLÍS, JESÚS AMAVISCA, JOSÉ MA. LANZAGORTA, FRANCISCO ESTRADA, LOMAS VALLARTA Y LÍMITE DE BARRANCA, EN LA COL. LOMAS DEL PARAISO 3ra,4ta Y 5ta SECC. DE LA ZONA 3 HUENTITAN",
+	"contrato": "OPG-R33-EQP-AD-C02-006/15",
+	"presupuesto": 2.75618501e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LOMAS DEL PARAISO 3ra, 4ta Y 5ta SECCIÓN,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 14 CUARTOS PARA BAÑO,  17 CUARTOS  DORMITORIO, 6 CUARTOS  PARA COCINA, 5 PISOS FIRME, 15 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENT",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f49f"
+		"$oid": "58b7acf41d44b643db3aa8d3"
 	},
 	"contratista": "Ventura Construcciones, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ5008",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LA LOMA,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE  2 CUARTOS PARA BAÑO,  5  CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 6 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE  10 TECHOS FIRME Y 16 MUROS F",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE GIGANTES, MEDRANO, ANTONIO TELLO Y PEDRO CATANI EN LA COL. LA LOMA DE LA ZONA 5 OLIMPICA. COMPRENDIDO EN EL POLIGONO DE PERIFERICO MANUEL GOMEZ MORIN, EGIPTO, HACIENDA LA CALERA Y MARIA GUADALUPE MARTINEZ DE HERNANDEZ LOZA, D",
-	"contratista_rfc": "VCO830712G57",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Marzo",
-	"presupesto": 2.50950466e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-008/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "VCO830712G57",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE GIGANTES, MEDRANO, ANTONIO TELLO Y PEDRO CATANI EN LA COL. LA LOMA DE LA ZONA 5 OLIMPICA. COMPRENDIDO EN EL POLIGONO DE PERIFERICO MANUEL GOMEZ MORIN, EGIPTO, HACIENDA LA CALERA Y MARIA GUADALUPE MARTINEZ DE HERNANDEZ LOZA, D",
+	"contrato": "OPG-R33-EQP-AD-C02-008/15",
+	"presupuesto": 2.50950466e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. LA LOMA,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE  2 CUARTOS PARA BAÑO,  5  CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 6 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE  10 TECHOS FIRME Y 16 MUROS F",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a0"
+		"$oid": "58b7acf41d44b643db3aa8d4"
 	},
 	"contratista": "Urbanizacion y Construccion Avanzada S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1009",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. SAN JUAN DE DIOS,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE  3 CUARTOS PARA BAÑO,  5  CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 4 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE  5 TECHOS FIRME Y 12",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE GIGANTES, CONSTITUCION,CALZ. INDEPENDENCIA Y 5 DE MAYO EN LA COL. SAN JUAN DE DIOS DE LA ZONA 1 CENTRO. COMPRENDIDO EN EL POLÍGONO DE JOSE MARIA LETENA, IGNACIO MEJIA, LINO MORALES, JESUS AMAVISCA, EUSTAQUIO ARIAS, ARNULFO GO",
-	"contratista_rfc": "UCA0207107X6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Marzo",
-	"presupesto": 2.501818e+06,
-	"contrato": "OPG-R33-EQP-C02-AD-009/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "UCA0207107X6",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE GIGANTES, CONSTITUCION,CALZ. INDEPENDENCIA Y 5 DE MAYO EN LA COL. SAN JUAN DE DIOS DE LA ZONA 1 CENTRO. COMPRENDIDO EN EL POLÍGONO DE JOSE MARIA LETENA, IGNACIO MEJIA, LINO MORALES, JESUS AMAVISCA, EUSTAQUIO ARIAS, ARNULFO GO",
+	"contrato": "OPG-R33-EQP-C02-AD-009/15",
+	"presupuesto": 2.501818e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. SAN JUAN DE DIOS,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE  3 CUARTOS PARA BAÑO,  5  CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 4 TECHOS  FIRME, 7 MUROS FIRME Y MANTENIMIENTO DE  5 TECHOS FIRME Y 12",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a1"
+		"$oid": "58b7acf41d44b643db3aa8d5"
 	},
 	"contratista": "Divicon S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15Z4EQP011",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. HELIODORO HERNANDEZ LOZA 1ra SECCIÓN, LADO PONIENTE,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 19 CUARTOS PARA BAÑO,  19 CUARTOS  DORMITORIO, 5 CUARTOS  PARA COCINA, 2 PISOS FIRME, 11 TECHOS  FIRME, 6 MUROS FIRME Y M",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. LA CALERA, JOSE MA. MARTINEZ, ESTEBAN CORONADO Y MARÍA GPE. DE HDZ. LOZA, EN LA COL. HELIODORO HDZ. LOZA 1ra SECC. DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "DIV010905510",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Marzo",
-	"presupesto": 2.78043003e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-011/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "DIV010905510",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. LA CALERA, JOSE MA. MARTINEZ, ESTEBAN CORONADO Y MARÍA GPE. DE HDZ. LOZA, EN LA COL. HELIODORO HDZ. LOZA 1ra SECC. DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-R33-EQP-AD-C02-011/15",
+	"presupuesto": 2.78043003e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COL. HELIODORO HERNANDEZ LOZA 1ra SECCIÓN, LADO PONIENTE,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 19 CUARTOS PARA BAÑO,  19 CUARTOS  DORMITORIO, 5 CUARTOS  PARA COCINA, 2 PISOS FIRME, 11 TECHOS  FIRME, 6 MUROS FIRME Y M",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a2"
+		"$oid": "58b7acf41d44b643db3aa8d6"
 	},
 	"contratista": "GOC Constructores S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4012",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS BETHEL Y  VILLAS DE GUADALUPE,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO DE 12",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE PERIFERICO MANUEL GOMEZ MORIN, AV. MALECON, SIDON Y EGIPTO DE LA COL. BETHEL Y LAS CALLES DE SIDON, MALECON, PATRIA, IGNACIO REVUELTAS, JOSE PANTOJA GOMEZ Y EGIPTO, EN LA COL. VILLAS DE GUADALUPE DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "GCO0501311Q0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Marzo",
-	"presupesto": 1.7841963e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-012/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "GCO0501311Q0",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE PERIFERICO MANUEL GOMEZ MORIN, AV. MALECON, SIDON Y EGIPTO DE LA COL. BETHEL Y LAS CALLES DE SIDON, MALECON, PATRIA, IGNACIO REVUELTAS, JOSE PANTOJA GOMEZ Y EGIPTO, EN LA COL. VILLAS DE GUADALUPE DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-R33-EQP-AD-C02-012/15",
+	"presupuesto": 1.7841963e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS BETHEL Y  VILLAS DE GUADALUPE,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 4 CUARTOS  PARA COCINA, 3 PISOS FIRME, 8 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO DE 12",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a3"
+		"$oid": "58b7acf41d44b643db3aa8d7"
 	},
 	"contratista": "Codecam Construcciones S. A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ3013",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COLONIA LOMAS DEL PARAISO 4ta SECCIÓN,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 9 CUARTOS PARA BAÑO,  11 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 7 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO DE 10 TE",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE MARIA LUISA MARTINEZ, EUCARIO LEON LOPEZ, JESUS AMAVISCA, PERIFERICO MANUEL GOMEZ MORIN Y LIMITE CON LA BARRANCA DE LA COLONIA LOMAS DEL PARAISO 4TA SECCION DE LA ZONA 3 HUENTITAN.",
-	"contratista_rfc": "CCO0507278V6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 1.62867027e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-013/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CCO0507278V6",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE MARIA LUISA MARTINEZ, EUCARIO LEON LOPEZ, JESUS AMAVISCA, PERIFERICO MANUEL GOMEZ MORIN Y LIMITE CON LA BARRANCA DE LA COLONIA LOMAS DEL PARAISO 4TA SECCION DE LA ZONA 3 HUENTITAN.",
+	"contrato": "OPG-R33-EQP-AD-C02-013/15",
+	"presupuesto": 1.62867027e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COLONIA LOMAS DEL PARAISO 4ta SECCIÓN,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 9 CUARTOS PARA BAÑO,  11 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 7 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO DE 10 TE",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a4"
+		"$oid": "58b7acf41d44b643db3aa8d8"
 	},
 	"contratista": "Velero Pavimentación y Construcción S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 3: Huentitán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ3014",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS RANCHO NUEVO 1ra SECCIÓN Y NUEVO SUR, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  14 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 3 PISOS FIRME, 5 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE  ANGEL MARTINEZ, JOSE MARIA MONTENEGRO, PROLONGACION FRANCISCO ESTRADA, EUTIMIO PINZON, AGUSTIN ALCERRECA Y PERIFERICO MANUEL GOMEZ MORIN, DE LAS COLONIAS RANCHO NUEVO 1RA SECCION Y NUEVO SUR DE LA ZONA 3 HUENTITAN.",
-	"contratista_rfc": "VPC0012148K0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 3: Huentitán",
 	"mes": "Marzo",
-	"presupesto": 1.7445753e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-014/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "VPC0012148K0",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE  ANGEL MARTINEZ, JOSE MARIA MONTENEGRO, PROLONGACION FRANCISCO ESTRADA, EUTIMIO PINZON, AGUSTIN ALCERRECA Y PERIFERICO MANUEL GOMEZ MORIN, DE LAS COLONIAS RANCHO NUEVO 1RA SECCION Y NUEVO SUR DE LA ZONA 3 HUENTITAN.",
+	"contrato": "OPG-R33-EQP-AD-C02-014/15",
+	"presupuesto": 1.7445753e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS RANCHO NUEVO 1ra SECCIÓN Y NUEVO SUR, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  14 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 3 PISOS FIRME, 5 TECHOS  FIRME, 6 MUROS FIRME Y MANTENIMIENTO",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a5"
+		"$oid": "58b7acf41d44b643db3aa8d9"
 	},
 	"contratista": "Corporativo Almira de Jalisco, S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7016",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS LOMAS DEL PEDREGAL Y LOMA LINDA, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  12 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 5 PISOS FIRME, 15 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE JESÚS REYES HEROLES, AGUA DULCE, AGUA BLANCA, OJO DE AGUA, AGUA DEL RIO, AGUA FRÍA, MEZQUITERA, ELISEO GRANJA, FRANCISCO VILLA Y DIEGO MONTENEGRO, EN LAS COLONIAS LOMA LINDA Y LOMAS DEL PEDREGAL, DE LA ZONA 7 CRUZ DEL SUR.",
-	"contratista_rfc": "CAJI208151M8",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Marzo",
-	"presupesto": 1.9577607e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-016/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CAJI208151M8",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE JESÚS REYES HEROLES, AGUA DULCE, AGUA BLANCA, OJO DE AGUA, AGUA DEL RIO, AGUA FRÍA, MEZQUITERA, ELISEO GRANJA, FRANCISCO VILLA Y DIEGO MONTENEGRO, EN LAS COLONIAS LOMA LINDA Y LOMAS DEL PEDREGAL, DE LA ZONA 7 CRUZ DEL SUR.",
+	"contrato": "OPG-R33-EQP-AD-C02-016/15",
+	"presupuesto": 1.9577607e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS LOMAS DEL PEDREGAL Y LOMA LINDA, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  12 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 5 PISOS FIRME, 15 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a6"
+		"$oid": "58b7acf41d44b643db3aa8da"
 	},
 	"contratista": "Consorcio Constructor Válvula, S.A de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7017",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS VALENTIN GOMEZ FARIAS, FRANCISCO VILLA Y VISTAS DEL SUR, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  13 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS F",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE LUIS COVARRUBIAS, AGUSTÍN FERNÁNDEZ, BENIGNO LÓPEZ Y EDMUNDO GÁMEZ OROZCO, EN LA COL. GOMEZ FARIAS, LUIS COVARRUBIAS, EDMUNDO GAMEZ, REYES HEROLES Y RAFAEL LOZADA EN LA COL. FCO VILLA Y BENIGNO LOPEZ, MARIA C. BANCALARI, REYE",
-	"contratista_rfc": "CCV120524J49",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Marzo",
-	"presupesto": 1.85184193e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-017/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CCV120524J49",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE LUIS COVARRUBIAS, AGUSTÍN FERNÁNDEZ, BENIGNO LÓPEZ Y EDMUNDO GÁMEZ OROZCO, EN LA COL. GOMEZ FARIAS, LUIS COVARRUBIAS, EDMUNDO GAMEZ, REYES HEROLES Y RAFAEL LOZADA EN LA COL. FCO VILLA Y BENIGNO LOPEZ, MARIA C. BANCALARI, REYE",
+	"contrato": "OPG-R33-EQP-AD-C02-017/15",
+	"presupuesto": 1.85184193e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS VALENTIN GOMEZ FARIAS, FRANCISCO VILLA Y VISTAS DEL SUR, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  13 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS F",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a7"
+		"$oid": "58b7acf41d44b643db3aa8db"
 	},
 	"contratista": "Relieve Empresarial S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7018",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ECHEVERRIA 2DA Y 3RA SECCION, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 4 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 10",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE LONGINOS CADENA, MARIA C. BANCALARI, LUIS COVARRUBIAS Y RAFAEL LOZADA DE LA COL. ECHEVERRIA 2DA SECCION   Y LAS CALLES DE LUIS COVARRUBIAS, MARIA C. BANCALARI, LOPEZ DE LEGAZPI, RODOLFO NAVARRETE, ANDRES VALBANERA, BARTOLOME",
-	"contratista_rfc": "REM040628563",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Marzo",
-	"presupesto": 1.7690536e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-018/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "REM040628563",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE LONGINOS CADENA, MARIA C. BANCALARI, LUIS COVARRUBIAS Y RAFAEL LOZADA DE LA COL. ECHEVERRIA 2DA SECCION   Y LAS CALLES DE LUIS COVARRUBIAS, MARIA C. BANCALARI, LOPEZ DE LEGAZPI, RODOLFO NAVARRETE, ANDRES VALBANERA, BARTOLOME",
+	"contrato": "OPG-R33-EQP-AD-C02-018/15",
+	"presupuesto": 1.7690536e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ECHEVERRIA 2DA Y 3RA SECCION, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 4 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 10",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a8"
+		"$oid": "58b7acf41d44b643db3aa8dc"
 	},
 	"contratista": "Constructora Apantli S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ1019",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ANALCO Y SAN JUAN DE DIOS, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 6 CUARTOS PARA BAÑO,  6 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 6 TECHO",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE JAVIER MINA, FRAY BARTOLOME DE LAS CASAS, CALZ. INDEPENDENCIA SUR Y CALZADA DEL EJERCITO DE LAS COLONIAS ANALCO Y SAN JUAN DE DIOS DE LA ZONA 1 CENTRO. COMPRENDIDO EN EL POLIGONO DE FRAY BARTOLOME DE LAS CASAS, 5 DE FEBRERO,",
-	"contratista_rfc": "CAP9906078U0",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 1: Centro",
 	"mes": "Marzo",
-	"presupesto": 2.67860727e+06,
-	"contrato": "OPG-R33-EQP-C02-AD-019/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CAP9906078U0",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE JAVIER MINA, FRAY BARTOLOME DE LAS CASAS, CALZ. INDEPENDENCIA SUR Y CALZADA DEL EJERCITO DE LAS COLONIAS ANALCO Y SAN JUAN DE DIOS DE LA ZONA 1 CENTRO. COMPRENDIDO EN EL POLIGONO DE FRAY BARTOLOME DE LAS CASAS, 5 DE FEBRERO,",
+	"contrato": "OPG-R33-EQP-C02-AD-019/15",
+	"presupuesto": 2.67860727e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS ANALCO Y SAN JUAN DE DIOS, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 6 CUARTOS PARA BAÑO,  6 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 2 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 6 TECHO",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4a9"
+		"$oid": "58b7acf41d44b643db3aa8dd"
 	},
 	"contratista": "Construcciones y Remodelaciones Tepeyac S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 4: Oblatos",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ4020",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS SANTA ROSA Y VICENTE GUERRERO, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 4 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 1",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. DE GUADALUPE, JUAN DE DIOS ROBLEDO, SAN INOCENCIO, GENOVEVA RIVAS GUILLEN, JUAN PABLO II, SAN PATRICIO, AV. DE LA CRUZ, MESA CENTRAL Y STA. LUCIA, EN LA COL. STA. ROSA Y VICENTE GUERRERO DE LA ZONA 4 OBLATOS.",
-	"contratista_rfc": "CRT971211IQ1",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 4: Oblatos",
 	"mes": "Marzo",
-	"presupesto": 1.7690536e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-020/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "CRT971211IQ1",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE HDA. DE GUADALUPE, JUAN DE DIOS ROBLEDO, SAN INOCENCIO, GENOVEVA RIVAS GUILLEN, JUAN PABLO II, SAN PATRICIO, AV. DE LA CRUZ, MESA CENTRAL Y STA. LUCIA, EN LA COL. STA. ROSA Y VICENTE GUERRERO DE LA ZONA 4 OBLATOS.",
+	"contrato": "OPG-R33-EQP-AD-C02-020/15",
+	"presupuesto": 1.7690536e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS SANTA ROSA Y VICENTE GUERRERO, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 10 CUARTOS PARA BAÑO,  10 CUARTOS  DORMITORIO, 3 CUARTOS  PARA COCINA, 4 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS FIRME Y MANTENIMIENTO DE 1",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4aa"
+		"$oid": "58b7acf41d44b643db3aa8de"
 	},
 	"contratista": "Lim Constructora S.A. de C.V.",
-	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
-	"zona": "Zona 6: Tetlán",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ6021",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS TETLAN 1rA Y 2da SECCIÓN, POBLADO DE TETLÁN Y OBELISCOS,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  13 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS",
-	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE LÍMITE CON PARQUE SOLIDARIDAD Y MUNICIPIO DE TONALÁ, LEONOR PINTADO, ADRIÁN PUGA, MERCEDES CELIS, ANTONIO AYALA RÍOS, RAMÓN CORONA, GÓMEZ DE MENDIOLA, ELEUTERIO GONZÁLEZ, JOSEFA ORTIZ DE DOMÍNGUEZ Y MALECÓN, EN LAS COLONIAS T",
-	"contratista_rfc": "LCO011023NQ1",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"zona": "Zona 6: Tetlán",
 	"mes": "Marzo",
-	"presupesto": 1.85184193e+06,
-	"contrato": "OPG-R33-EQP-AD-C02-021/15"
+	"origen_de_recursos": "APORTACION FEDERAL RAMO 33",
+	"contratista_rfc": "LCO011023NQ1",
+	"ubicacion": "COMPRENDIDO EN EL POLÍGONO DE LÍMITE CON PARQUE SOLIDARIDAD Y MUNICIPIO DE TONALÁ, LEONOR PINTADO, ADRIÁN PUGA, MERCEDES CELIS, ANTONIO AYALA RÍOS, RAMÓN CORONA, GÓMEZ DE MENDIOLA, ELEUTERIO GONZÁLEZ, JOSEFA ORTIZ DE DOMÍNGUEZ Y MALECÓN, EN LAS COLONIAS T",
+	"contrato": "OPG-R33-EQP-AD-C02-021/15",
+	"presupuesto": 1.85184193e+06,
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LAS COLONIAS TETLAN 1rA Y 2da SECCIÓN, POBLADO DE TETLÁN Y OBELISCOS,  TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 8 CUARTOS PARA BAÑO,  13 CUARTOS  DORMITORIO, 2 CUARTOS  PARA COCINA, 3 PISOS FIRME, 10 TECHOS  FIRME, 10 MUROS",
+	"tipo_infraestructura": "Obras Varias Equipamiento"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4ab"
+		"$oid": "58b7acf41d44b643db3aa8df"
 	},
 	"contratista": "Acaspoluca Consultoria y Construccion S.A de C.V",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 1: Centro",
 	"ejercido_url": "obraDetalle.php?id_obra=15SUPZ1025",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "SUPERVISION EXTERNA, TECNICA Y EL ASEGURAMIENTO DEL CONTROL DE CALIDAD PARA LA OBRA DEL MERCADO CORONA.",
-	"ubicacion": "AV. HIDALGO ESQ. ZARAGOZA, EN EL CENTRO HISTORICO DE LA CIUDAD DE LA ZONA 1 CENTRO.",
-	"contratista_rfc": "ACC0202071Z6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"zona": "Zona 1: Centro",
 	"mes": "Marzo",
-	"presupesto": 3.248e+06,
-	"contrato": "OPG-OD-SUP-AD-C03-025/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "ACC0202071Z6",
+	"ubicacion": "AV. HIDALGO ESQ. ZARAGOZA, EN EL CENTRO HISTORICO DE LA CIUDAD DE LA ZONA 1 CENTRO.",
+	"contrato": "OPG-OD-SUP-AD-C03-025/15",
+	"presupuesto": 3.248e+06,
+	"descripcion_obra": "SUPERVISION EXTERNA, TECNICA Y EL ASEGURAMIENTO DEL CONTROL DE CALIDAD PARA LA OBRA DEL MERCADO CORONA.",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )"
 }
 {
 	"_id": {
-		"$oid": "58b7a2031d44b63e1656f4ac"
+		"$oid": "58b7acf41d44b643db3aa8e0"
 	},
 	"contratista": "Govarmex Construcciones, S.A. de C.V..",
-	"origen_de_resultados": "MUNICIPAL",
-	"zona": "Zona 7: Cruz del Sur",
 	"ejercido_url": "obraDetalle.php?id_obra=15EQPZ7001",
 	"estatus": "En proceso de Firmas",
-	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA EL MERCADO PEDRO OGAZON, CONSISTENTES EN LA CONSTRUCCION DE CUARTO DE BASURA, MODULOS DE BAÑOS, ALBAÑILERIA, HERRERIA, SEÑALETICA, JARDINERIA Y LIMPIEZA.",
-	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE ANADE, ANDADOR PERDIZ, FRESNO Y ANDADOR TORTOLA, EN LA COL. MORELOS (TEPOPOTE) DE LA ZONA 7 CRUZ DEL SUR.",
-	"contratista_rfc": "PVO030304CH6",
 	"modalidad": "ASIGNACION DIRECTA",
-	"tipo_infraestructura": "Mercados",
+	"zona": "Zona 7: Cruz del Sur",
 	"mes": "Febrero",
-	"presupesto": 1.22419458e+06,
-	"contrato": "OPG-OD-EQP-AD-C01-001/15"
+	"origen_de_recursos": "MUNICIPAL",
+	"contratista_rfc": "PVO030304CH6",
+	"ubicacion": "COMPRENDIDO EN EL POLIGONO DE ANADE, ANDADOR PERDIZ, FRESNO Y ANDADOR TORTOLA, EN LA COL. MORELOS (TEPOPOTE) DE LA ZONA 7 CRUZ DEL SUR.",
+	"contrato": "OPG-OD-EQP-AD-C01-001/15",
+	"presupuesto": 1.22419458e+06,
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS PARA EL MERCADO PEDRO OGAZON, CONSISTENTES EN LA CONSTRUCCION DE CUARTO DE BASURA, MODULOS DE BAÑOS, ALBAÑILERIA, HERRERIA, SEÑALETICA, JARDINERIA Y LIMPIEZA.",
+	"tipo_infraestructura": "Mercados"
 }
