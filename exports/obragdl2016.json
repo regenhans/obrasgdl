@@ -1,0 +1,4842 @@
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ad"
+	},
+	"contratista": "Servicios de Ingenieria y Proyectos Eléctricos de Occidente, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01035",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"JAVIER MINA\", EN LA COL. SAN JUAN DE DIOS DE LA ZONA 1 CENTRO, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SIP130520FW3",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 2.43524365e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-035-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ae"
+	},
+	"contratista": "Nucleo Constructor Forte, S. de RL. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ03121",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE VENTURA ANAYA, ZONA OBLATOS, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "NCF080704NQ3",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.42175084e+06,
+	"contrato": "DOP-CON-EST-PAV-AD-121-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4af"
+	},
+	"contratista": "Mega Geotecnia S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06156",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN PARQUE LINEAL AV. PATRIA, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MGE070227V61",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 9.62742058e+06,
+	"contrato": "DOP-CON-FED-PRE-LP-156-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b0"
+	},
+	"contratista": "Megaobras S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06157",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN PARQUE LINEAL AV. PATRIA, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MEG030224QK1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 6.19657941e+06,
+	"contrato": "DOP-CON-FED-PRE-LP-157-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b1"
+	},
+	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06158",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA TETLÁN RÍO VERDE DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SCI0003011Z5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.349741131e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-158-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b2"
+	},
+	"contratista": "Lacariere Edificaciones, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07159",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO NO. 25 EN LA COLONIA JARDINES DEL SAUZ, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LED091006JG1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 7e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-159-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b3"
+	},
+	"contratista": "Imex Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02160",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD DEPORTIVA PLAN DE SAN LUIS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ICO040304FY5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Diciembre",
+	"presupesto": 8.55e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-160-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b4"
+	},
+	"contratista": "Grupo Elizaar Elizaar S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01161",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CORREDOR LOPEZ COTILLA (CHAPULTEPEC A MARCOS CASTELLANOS), FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GEE0012153I0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Diciembre",
+	"presupesto": 8.29233694e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-161-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b5"
+	},
+	"contratista": "Arq. Jorge Armando Torres Zermeño",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01162",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CORREDOR LOPEZ COTILLA (CHAPULTEPEC A MARCOS CASTELLANOS), FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TOZJ5907209A4",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Diciembre",
+	"presupesto": 5.10248369e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-162-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b6"
+	},
+	"contratista": "Urbanismo de Calidad S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01163",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN EN COLONIA CENTRO, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UCA020422540",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 4.22147512e+06,
+	"contrato": "DOP-REH-MUN-PRO-LP-163-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b7"
+	},
+	"contratista": "SJ Lagos Constructora e Inmobiliaria, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01164",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN EN COLONIA CENTRO, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SLC090211283",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 4.79655474e+06,
+	"contrato": "DOP-REH-MUN-PRO-LP-164-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b8"
+	},
+	"contratista": "KMS Construcciones S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04165",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN EN COLONIA DIVISIÓN DEL NORTE, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KCO081109A67",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 7.2881445e+06,
+	"contrato": "DOP-REH-MUN-PRO-LP-165-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4b9"
+	},
+	"contratista": "Tecorsa S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04166",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN EN COLONIA DIVISIÓN DEL NORTE, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TEC0806209D9",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 7.56133994e+06,
+	"contrato": "DOP-REH-MUN-PRO-LP-166-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ba"
+	},
+	"contratista": "Carsa Grupo Constructor Inmobiliario S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05167",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y EQUIPAMIENTO DEL PARQUE SAN RAFAEL SEGUNDA ETAPA, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGC9305171D4",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Diciembre",
+	"presupesto": 8.20100384e+06,
+	"contrato": "DOP-REH-EST-FOC-LP-167-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4bb"
+	},
+	"contratista": "Constructora Ceico S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06168",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO, GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PÚBLICO Y ARBOLADO, DE LA CALLE MALECÓN EN LA ZONA ORIENTE DE LA CIUDAD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCE030124TIA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 3.79633579e+06,
+	"contrato": "DOP-CON-FED-PDR-CI-168-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4bc"
+	},
+	"contratista": "Lugo Ibarra Consorcio Constructor S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04169",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 48 PROFESOR MANUEL URIARTE TOVAR FRENTE 1, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LIC0208141P8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Diciembre",
+	"presupesto": 5.49624061e+06,
+	"contrato": "DOP-REH-FED-FOR-CI-169-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4bd"
+	},
+	"contratista": "Grupo Constructor Perseverancia S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03170",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE ANGEL MARTINEZ ENTRE CALLE SOTO Y GAMA A CALLE MIGUEL URREA ZONA HUENTITAN, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCP01042784A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.95188804e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-170-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4be"
+	},
+	"contratista": "Tecnoindustria y Tecnoglobal S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ07171",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE CALLE MARCELINO MANGAS A CALLE MARIA C. BANCALARI, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TTE150306IT2",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 3.49474334e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-171-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4bf"
+	},
+	"contratista": "Grupo Constructor Strade S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04172",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 48 PROFESOR MANUEL URIARTE TOVAR FRENTE 2, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCS080902S44",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Diciembre",
+	"presupesto": 4.10501016e+06,
+	"contrato": "DOP-REH-FED-FOR-CI-172-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c0"
+	},
+	"contratista": "Ing. Saul Mireles Navarro",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03173",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE ANGEL MARTINEZ ENTRE CALLE MIGUEL URREA A CALLE EUTIMIO PINZON, ZONA HUENTITAN, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MINS590404CM5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.94167467e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-173-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c1"
+	},
+	"contratista": "Petrolast S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ07174",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE CALLE MARIA C. BACALARI  A CALLE 5 DE FEBRERO, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PET150306NL3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 5.0476521e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-174-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c2"
+	},
+	"contratista": "Grupo V Y CG, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01179",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2DA. ETAPA, RENOVACIÓN INTEGRAL DEL PARQUE REVOLUCIÓN Y SUS CALLES ALEDAÑAS, FRENTE 4 MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GVC1101316W5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 1.76486279e+06,
+	"contrato": "DOP-CON-EST-CZM-CI-179-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c3"
+	},
+	"contratista": "I + A Ingenieria y Arquitectura Construcción y Proyectos S.de R.L. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ07181",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE CALLE 21 DE MARZO A CALLE ARTES PLASTICAS, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IIA160303MFA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 4.56320976e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-181-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c4"
+	},
+	"contratista": "C. Jennifer Flores Chávez",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03186",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN URBANA DEL BARRIO DE HUENTITAN EL BAJO, UBICADO EN AL ZONA 3 HUENTITAN, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "FOCJ870210T39",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 1.99677951e+06,
+	"contrato": "DOP-CON-EST-CZM-CI-186-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c5"
+	},
+	"contratista": "Madison Constructores S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ0590",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE OBRA COMPLEMENTARIA DE LA UNIDAD DE PROTECCIÓN ANIMAL (UPA), UBICADA EN RIO TIZAPAN Y CALZ. GONZÁLEZ GALLO, EN LA ZONA 5 OLÍMPICA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MCO1005204Z5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 833241.7,
+	"contrato": "DOP-REH-MUN-PRO-AD-190-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c6"
+	},
+	"contratista": "Construcciones Hidraulicas Guadalajara S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01197",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL MERCADO (LOS ELOTES), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CHG040708HA6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 6.229302e+06,
+	"contrato": "DOP-REH-FED-MER-CI-197-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c7"
+	},
+	"contratista": "Ceele Construcciones S.A. de C.V.",
+	"origen_de_resultados": "TRIPARTITA",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01198",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO \"DIF NO. 17\", MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCO020123366",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 1.45726516e+06,
+	"contrato": "DOP-REH-FED-HAB-AD-198-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c8"
+	},
+	"contratista": "Gama Constructores y Asociados S.A. de C.V.",
+	"origen_de_resultados": "TRIPARTITA",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07199",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACION CON CONCRETO HIDRÁULICO EN LA CALLE 10, PARTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCA010529EU7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 6.5278236e+06,
+	"contrato": "DOP-REH-FED-HAB-CI-199-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4c9"
+	},
+	"contratista": "Constructora Megadriel, S.A. de C.V.",
+	"origen_de_resultados": "TRIPARTITA",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07200",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACION CON CONCRETO HIDRÁULICO EN LA CALLE 10, PARTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CME08100345A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 6.55012365e+06,
+	"contrato": "DOP-REH-FED-HAB-CI-200-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ca"
+	},
+	"contratista": "Valika Constructora, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03201",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL PARQUE JOSE ORTIZ VIDALEZ EN LA COLONIA VILLAS DE LA BARRANCA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "VCO9412201J0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 2.38410395e+06,
+	"contrato": "DOP-REH-FED-ESP-CI-201-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4cb"
+	},
+	"contratista": "Grupo Constructor Hisaca S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ0202",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL PARQUE MANUEL R. ALATORRE EN LA COLONIA VISTAS DEL NILO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCH070702SH8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 2.39042995e+06,
+	"contrato": "DOP-REH-FED-ESP-CI-202-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4cc"
+	},
+	"contratista": "Tecnologos e Ingenieros Civiles, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07203",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MERCADO MUNICIPAL IGNACIO ALDAMA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TIC961106DX9",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 1.61715288e+07,
+	"contrato": "DOP-REH-FED-MER-LP-203-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4cd"
+	},
+	"contratista": "Construcciones y Edificaciones Bato S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05204",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE MERCADO MUNICIPAL JAVIER MINA EN GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CEB961031DJ1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 9.57375468e+06,
+	"contrato": "DOP-REH-FED-MER-LP-204-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ce"
+	},
+	"contratista": "Tecnologos e Ingenieros Civiles, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05205",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MERCADO MUNICIPAL SAN JACINTO EN GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TIC961106DX9",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 8.38056201e+06,
+	"contrato": "DOP-REH-FED-MER-LP-205-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4cf"
+	},
+	"contratista": "Quantum Constructores y Proyectos, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05206",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MERCADO BELISARIO DOMINGUEZ EN GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "QCP1307172S6",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 8.61997257e+06,
+	"contrato": "DOP-REH-FED-MER-LP-206-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d0"
+	},
+	"contratista": "Edificaciones y Espacios Letco S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZZ01207",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MERCADO MUNICIPAL, PONCIANO ARRIAGA EN GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EEL0204268V2",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 8.84558391e+06,
+	"contrato": "DOP-REH-FED-PRE-LP-207-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d1"
+	},
+	"contratista": "Neoingenieria S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05208",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO No. 07 EN LA COLONIA MEDRANO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "NEO080722M53",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 6.50773355e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-208-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d2"
+	},
+	"contratista": "Constructora Galafer S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02213",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO NO. 19 EN LA COLONIA EL FRESNO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGA091202HS2",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 8e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-213-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d3"
+	},
+	"contratista": "J.R. Leon Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06214",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO NO. 13 EN LA COLONIA TETLÁN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "JLC070402TB5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 8.11569e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-214-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d4"
+	},
+	"contratista": "Construcciones y Rentas de Maquinaria de Occidente, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01215",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRINCIPALES DE LA ZONA CENTRO FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CRM910909K48",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.219391371e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-215-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d5"
+	},
+	"contratista": "KMS Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01216",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRINCIPALES DE LA ZONA CENTRO FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KCO081109A67",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.127768113e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-216-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d6"
+	},
+	"contratista": "Construcciones Covimex, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05217",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES SECUNDARIAS EN LA COLONIA SAN ANDRES, II SECCIÓN, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCO0404226D8",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.499622639e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-217-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d7"
+	},
+	"contratista": "Estudios Proyectos y Construcciones de Guadalajara S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05218",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES SECUNDARIAS EN LA COLONIA SAN ANDRES, II SECCIÓN, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EPC7107236R1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.474626847e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-218-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d8"
+	},
+	"contratista": "Grupo Constructor Strade S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02219",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRIMARIAS EN LA ZONA PONIENTE FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCS080902S44",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.484186496e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-219-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4d9"
+	},
+	"contratista": "Carsa Grupo Constructor Inmobiliario S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02220",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRIMARIAS EN LA ZONA PONIENTE FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGC9305171D4",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.4647245e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-220-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4da"
+	},
+	"contratista": "Construmaq, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06221",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES SECUNDARIAS EN LA COLONIA MIGUEL HIDALGO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CON970514LY1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.491184251e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-221-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4db"
+	},
+	"contratista": "López de Miguel Construcciones, S. de R.L. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05222",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES SECUNDARIAS EN LA COLONIA BLANCO Y CUELLAR II SECCIÓN DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LMC151007GM5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.419441107e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-222-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4dc"
+	},
+	"contratista": "Grupo Taube de México S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07224",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES SECUNDARIAS EN LA COLONIA ECHEVERRIA DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GTM050418384",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.127571203e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-224-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4dd"
+	},
+	"contratista": "Infraestructura, Pavimentos, Asfaltos y Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07225",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES EN LA COLONIA INDUSTRIAL III SECCIÓN DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IPA071009KQ2",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.369232255e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-225-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4de"
+	},
+	"contratista": "KMS Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05227",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES EN LA COLONIA SAN ANDRES DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KCO081109A67",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.269588973e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-227-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4df"
+	},
+	"contratista": "Grupo Elizaar Elizaar S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16rehz05228",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES EN LA COLONIA SAN MARTIN ANEXO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GEE0012153I0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.53475386e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-228-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e0"
+	},
+	"contratista": "Urbanizadora Vazquez Guerra S.A. de C.-V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07229",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRIMARIAS EN LA ZONA SUR DEL MUNCIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UVG841211G22",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 1.903063676e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-229-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e1"
+	},
+	"contratista": "Duran Jimenez Arquitectos y Asociados S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06230",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL MERCADO FELIPE ÁNGELES, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DJA9405184G7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 7.529302e+06,
+	"contrato": "DOP-REH-FED-MER-CI-230-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e2"
+	},
+	"contratista": "Anitsuj, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05231",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "'REHABILITACIÓN DEL MERCADO INDEPENDENCIA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ANI1102217W2",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 4.0031973e+06,
+	"contrato": "DOP-REH-FED-MER-CI-231-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e3"
+	},
+	"contratista": "Consorcio Constructor Adobes S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05232",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE MERCADO MUNICIPAL PEDRO VELEZ, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCA971126QC9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 4.46704525e+06,
+	"contrato": "DOP-REH-FED-MER-CI-232-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e4"
+	},
+	"contratista": "Cuiba Constructora S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05233",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MERCADO MUNICIPAL ÁLVARO OBREGÓN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCO0904288M8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 3.87246536e+06,
+	"contrato": "DOP-REH-FED-MER-CI-233-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e5"
+	},
+	"contratista": "Toscana Ingeniería, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01234",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN DE CRUCEROS FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TIN04100824A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 6.9431441e+06,
+	"contrato": "DOP-CON-FED-PAV-CI-234-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e6"
+	},
+	"contratista": "Constructora Monte S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03235",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL CENTRO DE BIENESTAR COMUNITARIO EN LA COLONIA RANCHO NUEVO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CMO831020VC3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 4.81542211e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-235-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e7"
+	},
+	"contratista": "Constructora y Distribuidora Mazva, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06236",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LAS CALLES PRINCIPALES DE LA ZONA ORIENTE, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CDM090216NM7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 5.52030833e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-236-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e8"
+	},
+	"contratista": "Asfaltos y Agregados Copalita, S. A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN DE CRUCEROS FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AAC081114952",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 6.23898388e+06,
+	"contrato": "DOP-CON-FED-PAV-CI-237-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4e9"
+	},
+	"contratista": "Acont S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02238",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE AVENIDA VALLARTA DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO980205C89",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 2.402319695e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-238-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ea"
+	},
+	"contratista": "Estudio A Tres S.C.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16SUPZ01239",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DIAGNOSTICO, ANALISIS, VALORACIÓN Y SUPERVISION ESPECIALIZADA CON DERECHO DE AUTORIA DE LA REHABILITACIÓN DE LAS INSTALACIONES Y OBRA CIVIL PARA EL REMOZAMIENTO DEL MERCADO \"SAN JUAN DE DIOS\", EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ETR020124AD1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"mes": "Diciembre",
+	"presupesto": 580000.0,
+	"contrato": "DOP-SUP-MUN-PRO-AD-239-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4eb"
+	},
+	"contratista": "C. Karla Alicia Jauregui Arreola",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16RESZ02240",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE CONSERVACIÓN Y RESTAURACIÓN DE LA ESCULTURA \"LA MINERVA\" UBICADA EN LA ZONA 2 (MINERVA), DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "JAAK82012393A",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 3.8e+06,
+	"contrato": "DOP-RES-MUN-PRO-AD-240-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ec"
+	},
+	"contratista": "Plastic Omnium Sistemas Urbanos, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01241",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE ''PUNTOS LIMPIOS'' PLATAFORMAS SOTERRADAS EN DIVERSAS UBICACIONES, MUNICIPIO DE GUADALAJARA, JALISCO",
+	"ubicacion": ".",
+	"contratista_rfc": "POS010724I83",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"mes": "Diciembre",
+	"presupesto": 5.2896e+06,
+	"contrato": "DOP-CON-EST-CZM-AD-241-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ed"
+	},
+	"contratista": "Quantum Constructores y Proyectos, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01242",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS PRELIMINARES DE LA REHABILITACIÓN DEL MUSEO DEL NIÑO, EN LA UNIDAD ADMINISTRATIVA REFORMA DE LA ZONA 1 CENTRO, MUNICIPIO DE GUADALAJARA, JALISCO",
+	"ubicacion": ".",
+	"contratista_rfc": "QCP1307172S6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Museos",
+	"mes": "Diciembre",
+	"presupesto": 1.4505e+06,
+	"contrato": "DOP-REH-EST-CZM-AD-242-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ee"
+	},
+	"contratista": "Ingenieros de la Torre, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07243",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE REPARACIÓN DE CUBIERTA DE CONCRETO, PROTECCIONES, DEMOLICIÓN DE LOCALES INTERNOS Y PINTURA PARA LA REHABILITACIÓN DEL MERCADO MUNICIPAL DE LA UNIDAD JOSE CLEMENTE OROZCO, EN LA ZONA 7 CRUZ DEL SUR, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ITO951005HY5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 1.39997774e+06,
+	"contrato": "DOP-REH-EST-CZM-AD-243-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ef"
+	},
+	"contratista": "Constructur S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03244",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL RANCHO NUEVO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CON0008033N9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 2.16632448e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-244-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f0"
+	},
+	"contratista": "Nicco, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03245",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL BENITO JUÁREZ, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "NIC8411126L0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 3.68492496e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-245-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f1"
+	},
+	"contratista": "Proyectistas y Calculistas Asociados S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07246",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL EL FERROCARRIL, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PCA900924D15",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 3.38905186e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-246-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f2"
+	},
+	"contratista": "Constructora 5392, S.A. de C.V",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04247",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL CENTRO DE DESARROLLO INFANTIL NO. 02 EN LA COLONIA VICENTE GUERRERO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCM130208MW2",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 2.15052806e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-247-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f3"
+	},
+	"contratista": "Constructora Grina, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07248",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL MIRAVALLE, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGR120828P29",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 2.91492371e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-248-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f4"
+	},
+	"contratista": "Constructora Vico S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04249",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL SANTA CECILIA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CVI980213UM6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 2.90400391e+06,
+	"contrato": "DOP-REH-FED-PRE-CI-249-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f5"
+	},
+	"contratista": "Former Grupo Constructor S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07250",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO NO. 27  EN LA COLONIA LOS COLORINES, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "FGC070201HGA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 3.27642925e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-250-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f6"
+	},
+	"contratista": "Constructora Apantli S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04251",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESTANCIA INFANTIL RIO VERDE, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CAP9906078U0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Infantil",
+	"mes": "Diciembre",
+	"presupesto": 3.43292389e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-251-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f7"
+	},
+	"contratista": "Urbanizaciones y Edificaciones Loro S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06252",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL CENTRO DE BIENESTAR COMUNITARIO EN LA COLONIA TETLÁN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UEL0304241V6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 6.31553069e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-252-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f8"
+	},
+	"contratista": "Grupo Emporio Contemporáneo, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05253",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO No. 05 EN LA COLONIA BLANCO Y CUELLAR, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GEC060410IX9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 6.03898078e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-253-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4f9"
+	},
+	"contratista": "Althen Constructora, S.A. de  C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06254",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y AMPLIACIÓN DEL CENTRO DE DESARROLLO COMUNITARIO NO. 14 EN LA COLONIA LOMAS DEL GALLO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO110719FD1",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Diciembre",
+	"presupesto": 7.87370752e+06,
+	"contrato": "DOP-REH-FED-FFI-CI-254-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4fa"
+	},
+	"contratista": "Ingenieria y Edificaciones Lec, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01255",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LAS INSTALACIONES DE LA RED DE AGUA POTABLE, SANITARIA Y PISOS PARA EL REMOZAMIENTO DEL MERCADO \"SAN JUAN DE DIOS\", EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IEL101130SI0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 5.0484241e+06,
+	"contrato": "DOP-REH-EST-MER-CI-255-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4fb"
+	},
+	"contratista": "Comkrete S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01256",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE OBRA CIVIL PARA LA CONSTRUCCIÓN, ADECUACIÓN DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\", MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "COM040227229",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 5.0984748e+06,
+	"contrato": "DOP-CON-EST-MER-CI-256-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4fc"
+	},
+	"contratista": "Arquitectura y Diseño en Armonia S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01257",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE BAJANTES, IMPERMEABILIZACIÓN, DOMOS, PINTURAS Y ARBOLADO PARA EL REMOZAMIENTO DEL MERCADO \"SAN JUAN DE DIOS\", EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ADA040607DY7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 5.11215348e+06,
+	"contrato": "DOP-REH-EST-MER-CI-257-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4fd"
+	},
+	"contratista": "Cuadra Urbanismo, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 8: Varias Zonas",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ05258",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTO EJECUTIVO DE REGENERACIÓN URBANA EN POLÍGONO DE LOS CORREDORES COMERCIALES DE LONGINOS CADENA, MEDRANO, INDUSTRIA, HOSPITAL Y ENTORNO MERCADO FELIPE ÁNGELES, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CUR150410HU4",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 4.2104e+06,
+	"contrato": "DOP-EYP-MUN-PRO-AD-258-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4fe"
+	},
+	"contratista": "Prococarr, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05259",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL MODULO DE SEGURIDAD, EXPLANADA, INTERVENCIÓN DE AREAS COMERCIALES DEL MERCADO FRANCISCO VILLA, UBICADO EN LA COLONIA BLANCO Y CUELLAR DE LA ZONA 5 OLIMPICA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PRO1411074U0",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Seguridad Publica",
+	"mes": "Diciembre",
+	"presupesto": 2.07845921e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-259-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f4ff"
+	},
+	"contratista": "Haro Rent, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02260",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE REHABILITACIÓN DE LA INSTALACIÓN HIDRAULICA DE LAS CASCADAS DE LA FUENTE MINERVA, ZONA MINERVA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "HRE970609BY7",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 499957.91,
+	"contrato": "DOP-REH-MUN-PRO-AD-260-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f500"
+	},
+	"contratista": "Taller Led, S.C.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16SUP01261",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUPERVISIÓN, CONTROL Y GESTIÓN ARQUITECTÓNICA DE EXPEDIENTES DE OBRA PARA LA PLANEACIÓN, ACOMPAÑAMIENTO EN LA EJECUCIÓN DE LAS ACCIONES CONTRATADAS POR EL MUNICIPIO, ESTADO, FEDERACIÓN, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TLE1009014X5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 3e+06,
+	"contrato": "DOP-SUP-MUN-PRO-AD-261-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f501"
+	},
+	"contratista": "Cuadra Urbanismo, S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01262",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTO EJECUTIVO DE REGENERACIÓN URBANA EN POLÍGONO DEL CENTRO HISTÓRICO (ENTORNO SAN JUAN DE DIOS-PLAZA TAPATÍA Y ÁLVARO OBREGÓN), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CUR150410HU4",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 1.52e+06,
+	"contrato": "DOP-EYP-EST-CZM-AD-262-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f502"
+	},
+	"contratista": "Arq. Elías Rizo Suárez",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01263",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTO EJECUTIVO DE REGENERACIÓN URBANA EN POLÍGONO DEL CENTRO HISTÓRICO (PUENTE PEATONAL HIDALGO), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RISE670628E31",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 1.74e+06,
+	"contrato": "DOP-EYP-EST-CZM-AD-263-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f503"
+	},
+	"contratista": "Metro Arquitectura S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01264",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTO EJECUTIVO DE REGENERACIÓN URBANA EN POLÍGONO DEL CENTRO HISTÓRICO (PARQUE MORELOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MAR970702FC6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 1.74e+06,
+	"contrato": "DOP-EYP-EST-CZM-AD-264-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f504"
+	},
+	"contratista": "Control Grade, S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ02265",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTO EJECUTIVO CORREDOR EXPO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGR-100319-DT6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Diciembre",
+	"presupesto": 5e+06,
+	"contrato": "DOP-EYP-EST-CZM-AD-265-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f505"
+	},
+	"contratista": "Construbravo S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02266",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS PRELIMINARES DEL MODULO DE BAÑOS PÚBLICOS DE LA RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL DISTRITO DE LA SALUD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CON020208696",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Diciembre",
+	"presupesto": 1.45e+06,
+	"contrato": "DOP-REH-EST-CZM-AD-266-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f506"
+	},
+	"contratista": "Constructora Bauer S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01267",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "INSTALACIONES ELECTRICAS (MEDIA TENSIÓN) DE LA CONSTRUCCIÓN, ADECUACIÓN Y EQUIPAMIENTO DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\", EN LA ZONA 1 (CENTRO) DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CBA910123TDA",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"mes": "Diciembre",
+	"presupesto": 1.03663902e+06,
+	"contrato": "DOP-REH-EST-FCC-AD-267-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f507"
+	},
+	"contratista": "Semex S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ02268",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE SUMINISTRO Y COLOCACION DE SEÑALETICA VERTICAL Y HORIZONTAL (FRENTE 1), EN EL PROGRAMA DE VIALIDADES DE LAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SEM680801193",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Balizamiento",
+	"mes": "Diciembre",
+	"presupesto": 1.35e+06,
+	"contrato": "DOP-CON-EST-SEÑ-AD-268-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f508"
+	},
+	"contratista": "Cactus Traffic de Chihuahua, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ05269",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE SUMINISTRO Y COLOCACION DE SEÑALETICA VERTICAL Y HORIZONTAL (FRENTE 2), EN EL PROGRAMA DE VIALIDADES DE LAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CTC051025D83",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Balizamiento",
+	"mes": "Diciembre",
+	"presupesto": 1e+06,
+	"contrato": "DOP-CON-EST-SEÑ-AD-269-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f509"
+	},
+	"contratista": "Arq. Adriana Gonzalez Montañez",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ02270",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE SUMINISTRO Y COLOCACION DE SEÑALETICA VERTICAL Y HORIZONTAL (FRENTE 3), EN EL PROGRAMA DE VIALIDADES DE LAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO",
+	"ubicacion": ".",
+	"contratista_rfc": "GOMA690304EZ9",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Balizamiento",
+	"mes": "Diciembre",
+	"presupesto": 1.35e+06,
+	"contrato": "DOP-CON-EST-SEÑ-AD-270-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50a"
+	},
+	"contratista": "Conaire de Occidente S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01271",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE AIRE ACONDICIONADO, INSTALACIONES DE VOZ Y DATOS PARA LA CONSTRUCCIÓN, ADECUACIÓN Y EQUIPAMIENTO DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\", MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "COC910823G80",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 5.0974159e+06,
+	"contrato": "DOP-CON-EST-MER-CI-271-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50b"
+	},
+	"contratista": "Ingenieria Proser, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01272",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LAS INSTALACIONES ELECTRICAS PARA EL REMOZAMIENTO DEL MERCADO \"SAN JUAN DE DIOS\", EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IPR110119PE8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 4.86671577e+06,
+	"contrato": "DOP-REH-EST-MER-CI-272-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50c"
+	},
+	"contratista": "Terra Civitas, S. de R.L. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01273",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE PISOS ESPECIALES, CCTV Y PLANTA DE EMERGENCIA PARA LA CONSTRUCCIÓN, ADECUACIÓN Y EQUIPAMIENTO DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\", MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TCI100324HP0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 5.09801992e+06,
+	"contrato": "DOP-CON-EST-MER-CI-273-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50d"
+	},
+	"contratista": "Planeación Urbana S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06274",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE BAÑOS Y VESTIDORES, BOMBAS DE CALOR PARA LA REHABILITACIÓN Y EQUIPAMIENTO DEL PARQUE SAN RAFAEL SEGUNDA ETAPA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PUR740725SA6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 5.04819616e+06,
+	"contrato": "DOP-REH-EST-FOC-CI-274-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50e"
+	},
+	"contratista": "Constructora Bauer S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REH0275",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LAS INSTALACIONES ELECTRICAS, GAS, RED CONTRA INCENDIO Y OBRA CIVIL PARA EL REMOZAMIENTO DEL MERCADO \"SAN JUAN DE DIOS\", EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CBA910123TDA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Diciembre",
+	"presupesto": 4.56632662e+06,
+	"contrato": "DOP-REH-EST-MER-CI-275-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f50f"
+	},
+	"contratista": "Karol Urbanizaciones y Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06276",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL MERCADO FELIPE ÁNGELES EN LA CALLE GUELATAO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KUC070424344",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Diciembre",
+	"presupesto": 4.92460574e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-276-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f510"
+	},
+	"contratista": "Constructora Tequilense S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02277",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN DE LA CALLE CORONEL CALDERON DE LA RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN AREAS Y ZONAS COMERCIALES EN EL POLIGONO DE DISTRITO DE LA SALUD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CTE9911098R9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Diciembre",
+	"presupesto": 5.11052552e+06,
+	"contrato": "DOP-REH-EST-PAV-CI-277-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f511"
+	},
+	"contratista": "SB  Ingenieros Civiles S. A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06278",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL MERCADO FELIPE ÁNGELES EN LA CALLE FEDERACIÓN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SIC980529I59",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 5.0693267e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-278-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f512"
+	},
+	"contratista": "Torres Aguirre Ingenieros S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07279",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL CORREDOR POLANCO EN LA CALLE LONGINOS CADENA (PONIENTE), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TAI920312952",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 5.02279215e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-279-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f513"
+	},
+	"contratista": "Infraestructura San Miguel S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06280",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL MERCADO FELIPE ÁNGELES EN LA CALLE HUERTAS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISM0112209Y5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Diciembre",
+	"presupesto": 5.00261757e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-280-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f514"
+	},
+	"contratista": "Constructora Cecuchi, S.A. de C.V.",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01281",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TERMINACIÓN DEL MODULO DE BAÑOS PÚBLICOS E INTERVENCIÓN DE LA PRIMERA ETAPA DEL JARDIN BOTANICO DE LA RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL DISTRITO DE LA SALUD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCE130723IR7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 3.438575e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-281-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f515"
+	},
+	"contratista": "Sr. José Antonio Cuevas Briseño",
+	"origen_de_resultados": "CONSEJO METROPOLITANO",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07282",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL URBANA HABITACIONAL EN ÁREAS Y ZONAS COMERCIALES EN EL POLIGONO DEL CORREDOR POLANCO EN LA CALLE LONGINOS CADENA (ORIENTE), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CUBA5705179V8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Diciembre",
+	"presupesto": 3.21225579e+06,
+	"contrato": "DOP-REH-EST-CZM-CI-282-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f516"
+	},
+	"contratista": "Grupo Constructor Los Muros S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06283",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE PISTA DE TARTAN PARA LA REHABILITACIÓN Y EQUIPAMIENTO DEL PARQUE SAN RAFAEL SEGUNDA ETAPA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCM020226F28",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Diciembre",
+	"presupesto": 1.45080001e+06,
+	"contrato": "DOP-REH-EST-FOC-AD-283-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f517"
+	},
+	"contratista": "Asesydis, S.C.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01020",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DIAGNÓSTICO, DISEÑO Y PROYECTOS ESTRUCTURALES DE DIFERENTES ELEMENTOS  DEL PROGRAMA 2016, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ASE080211FP1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Noviembre",
+	"presupesto": 1.99404e+06,
+	"contrato": "DOP-EYP-MUN-PRO-AD-020-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f518"
+	},
+	"contratista": "Ingenieria de Suelos Asesoria y Laboratorio, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01021",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ESTUDIO DE MECÁNICA DE SUELOS, CONTROL DE CALIDAD Y ESTUDIOS DE INGENIERÍA EN DIVERSAS OBRAS ESPECIALIZADAS DEL PROGRAMA 2016, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISA910601QB5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Noviembre",
+	"presupesto": 2.00031393e+06,
+	"contrato": "DOP-EYP-MUN-PRO-AD-021-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f519"
+	},
+	"contratista": "Ingenieria Proser, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05040",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"PONCIANO ARRIAGA\", EN LA COL. JARDINES DE GUADALUPE DE LA ZONA 5 OLÍMPICA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IPR110119PE8",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Noviembre",
+	"presupesto": 3.08897319e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-040-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51a"
+	},
+	"contratista": "Ingenieros de la Torre, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16ESTZ01117",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "'PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE RAMON LOPEZ VELARDE  ENTRE CALLE GIGANTES Y CALLE ALDAMA, ZONA OLIMPICA, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ITO951005HY5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 4.74977444e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-117-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51b"
+	},
+	"contratista": "KMS Construcciones S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ03118",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE MONTAÑAS ROCALLOSAS ENTRE PERIFERICO NORTE Y CALLE COMBATE PALO ALTO, ZONA HUENTITAN, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KCO081109A67",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 3.94475004e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-118-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51c"
+	},
+	"contratista": "Torres Aguirre Ingenieros S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ05120",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE RAMON LOPEZ VELARDE ENTRE CALLE ALDAMA Y CALLE MEDRANO, ZONA OLIMPICA, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TAI920312952",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 5.05695412e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-120-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51d"
+	},
+	"contratista": "Tekton Grupo Empresarial, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ03122",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA MONTAÑAS ROCALLOSAS ENTRE CALLE COMBATE PALO ALTO Y CALLE SABIDURIA, ZONA HUENTITAN, ETAPA 1,  MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TGE101215JI6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 4.09900578e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-122-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51e"
+	},
+	"contratista": "Megaenlace Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ05123",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE RAMON LOPEZ VELARDE ENTRE CALLE MEDRANO Y CALLE PENSADOR MEXICANO, ZONA OLIMPICA, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MCO1510113H8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 4.19874699e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-123-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f51f"
+	},
+	"contratista": "Grupo Taube de México S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ07124",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE CALLE MANUEL AVELEYRA A CALLE MARCELINO MANGAS, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GTM050418384",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 4.08930763e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-124-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f520"
+	},
+	"contratista": "Ing. Martin Rodolfo Preciado Rodríguez",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ04",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS CASTILLO LEDÓN ENTRE CALLE ABUNDANCIA Y PERIFERICO NORTE, ZONA OBLATOS, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PERM631018RP6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 5.07130973e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-125-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f521"
+	},
+	"contratista": "TC Construcción y Mantenimiento, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ05127",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE RAMON LOPEZ VELARDE ENTRE CALLE PENSADOR MEXICANO Y CALLE ARTES, ZONA OLIMPICA, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TCM100915HA1",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 5.10503137e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-127-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f522"
+	},
+	"contratista": "Karol Urbanizaciones y Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ03128",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE NAVARRA ENTRE AV. PATRIA A CALLE PORTALEGRE, EN LA COL. SANTA ELENA DE LA CRUZ EN LA ZONA 3 HUENTITAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KUC070424344",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 3.89324499e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-128-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f523"
+	},
+	"contratista": "Constructora Cecuchi, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05129",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO PREVENTIVO Y CORRECTIVO DE PAVIMENTOS EN LA ZONA 5 (OLIMPICA) Y ZONA 1 (CENTRO), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCE130723IR7",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 2.984448e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-129-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f524"
+	},
+	"contratista": "Ingenieros Pavimentos, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ07175",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE CALLE 5 DE FEBRERO A CALLE 21 DE MARZO, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IPA151104DX8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 4.18546238e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-177-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f525"
+	},
+	"contratista": "Constructora Anguibara N.G. S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01180",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA CALLE CONSTITUCIÓN, EN LA COLONIA ANALCO DE LA ZONA 1 CENTRO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CAN071001BH1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Noviembre",
+	"presupesto": 2.29883318e+06,
+	"contrato": "DOP-CON-MUN-PAV-AD-180-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f526"
+	},
+	"contratista": "Grupo Constructor Maca, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05187",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RESCATE DE ESPACIO PÚBLICO EN LA ESQUINA DE BLVR. GRAL. MARCELINO GARCIA BARRAGÁN Y CORREGIDORA (C-40), EN LA COL. UNIDAD MODELO DE LA ZONA 5 OLIMPICA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCM071204995",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Recuperación de Espacios Publicos",
+	"mes": "Noviembre",
+	"presupesto": 1.84913138e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-187-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f527"
+	},
+	"contratista": "Edificaciones y Espacios Letco S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01191",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN, ADECUACIÓN Y EQUIPAMIENTO DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\" (IMPERMEABILIZACIÓN), EN LA ZONA 1 (CENTRO) DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EEL0204268V2",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Noviembre",
+	"presupesto": 388940.52,
+	"contrato": "DOP-REH-EST-MER-AD-191-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f528"
+	},
+	"contratista": "Tecnologos e Ingenieros Civiles, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16VZREH192",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESCUELAS CONSISTENTE EN CUBIERTA SOBRE CANCHA DE USOS MÚLTIPLES DEL  CENTRO DE ATENCIÓN MÚLTIPLE No.1, PRIMARIA URBANA No.5 \"SARA MERCADO GONZÁLEZ\", PRIMARIA \"BENITO JUÁREZ\", SECUNDARIA MIXTA No.11 \"AMELIA GUADALUPE COVARRUBIAS\" Y LA SEC",
+	"ubicacion": ".",
+	"contratista_rfc": "TIC961106DX9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Escuelas",
+	"mes": "Noviembre",
+	"presupesto": 4.79662803e+06,
+	"contrato": "DOP-REH-MUN-ESC-CI-192-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f529"
+	},
+	"contratista": "Rustico Mexicano, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06193",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE COMEDOR EN EL CENTRO DE BIENESTAR COMUNITARIO \"CUAUHTÉMOC\", EN LA COLONIA CUAUHTÉMOC DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RME961105JW1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Noviembre",
+	"presupesto": 1.89168465e+06,
+	"contrato": "DOP-CON-MUN-COM-AD-193-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52a"
+	},
+	"contratista": "Comkrete S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01194",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN, ADECUACIÓN Y EQUIPAMIENTO DE LA UNIDAD ADMINISTRATIVA EN EL \"MERCADO CORONA\" (ALUMINIO), EN LA ZONA 1 (CENTRO) DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "COM040227229",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Noviembre",
+	"presupesto": 1.44877907e+06,
+	"contrato": "DOP-REH-EST-MER-AD-194-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52b"
+	},
+	"contratista": "Lakay Construcciones S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04195",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RECONSTRUCCIÓN EMERGENTE DE MURO DE CONTENCIÓN EN ANDADOR BARRANCA DE OBLATOS DE LA ZONA 4 (OBLATOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LCO110719FD1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Riesgos ( Contingencias )",
+	"mes": "Noviembre",
+	"presupesto": 620291.13,
+	"contrato": "DOP-REH-MUN-PRO-AD-195-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52c"
+	},
+	"contratista": "Acont S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03196",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE LA RED DE AGUA POTABLE, ALCANTARILLADO Y PAVIMENTO EN DISTINTAS CALLES EN LA COLONIA DIVISIÓN DEL NORTE, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO980205C89",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Noviembre",
+	"presupesto": 3.65059518e+06,
+	"contrato": "DOP-CON-MUN-PAV-CI-196-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52d"
+	},
+	"contratista": "Pareti Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=15Z01RM002",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUPERVISION EXTERNA A LA SUSTITUCION DE LUMINARIAS, FOCOS Y BALASTROS ASI COMO AL FORTALECIMIENTO DE LA INFRAESTRUCTURA DE ALUMBRADO PÚBLICO DE GUADALAJARA.",
+	"ubicacion": ".",
+	"contratista_rfc": "PCO1201264F5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"mes": "Octubre",
+	"presupesto": 7.1939177e+06,
+	"contrato": "SSM-RM-AP-CI-C05-002/15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52e"
+	},
+	"contratista": "IME. Javier Omar González Hurtado",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03038",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"FRAY ANTONIO DE SEGOVIA\", EN LA COL. ESPERANZA DE LA ZONA 3 HUENTITAN, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GOHJ681226AI0",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Octubre",
+	"presupesto": 1.15835186e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-038-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f52f"
+	},
+	"contratista": "Desarrolladora Mar Mediterraneo, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02092",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL BOSQUE LOS COLOMOS SEGUNDA ETAPA, FRENTE 2 (AREA DE ROTARIOS,  EJERCITADORES DE ZONA PATRIA, ZONA DE LA ARAÑA, FUENTE BALLENAS,  PERGOLAS, PUENTES VEHICULARES Y PEATONALES) EN LA ZONA 2 MINERVA DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DMM0409235K3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Octubre",
+	"presupesto": 4.99695252e+06,
+	"contrato": "DOP-REH-EST-PRO-CI-092-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f530"
+	},
+	"contratista": "Gilco Ingenieria S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01132",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES DE LA CALLE CONTRERAS MEDELLIN, DE JESUS GARCIA A AV. HIDALGO, CALLE MARIANO BARCENA, DE JESUS GARCIA A AV. HIDALGO, EN LA COLONIA CENTRO (ZONA 1), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GIN1202272F9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.29895087e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-132-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f531"
+	},
+	"contratista": "Construcciones y Edificaciones Bato S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05133",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES DE LA CALLE RIO AMECA, DE RIO TUITO A RIO SAN JUAN DE DIOS, CALLE RIO TUITO, DE RIO AMECA A RIO AUTLÁN, CALLE TORRECILLAS, DE RIO ATOTONILCO A RIO MASCOTA, CALLE TORRECILLAS, DE RIO INDEPENDENCIA A RIO JUAREZ, EN LA COLONIA A",
+	"ubicacion": ".",
+	"contratista_rfc": "CEB961031DJ1",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 3.18445866e+06,
+	"contrato": "DOP-REH-EST-PAV-CI-133-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f532"
+	},
+	"contratista": "Megaobras S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07134",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES DE LA CALLE RIO ALBERTO CORREA, DE LUIS COVARRUBIAS A 8 DE JULIO, CALLE JOSE ARRECE, DE RAFAEL LOZADA A MARIA C. BANCALARI, CALLE JOSE MANCISIDOR, DE LUIS COVARRUBIAS A JOSE ARRECE, CALLE LIBRADO ACEVEDO DE BARTOLOME GUTIERRE",
+	"ubicacion": ".",
+	"contratista_rfc": "MEG030224QK1",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.08313712e+06,
+	"contrato": "DOP-REH-EST-PAV-CI-134-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f533"
+	},
+	"contratista": "Sr. Regino Ruiz del Campo Medina",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16Z06REH135",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DESMONTE, DESPLAME Y LIMPIEZA DE PREDIO MUNICIPAL, UBICADO EN AVENIDA MALECON Y ESQUINA AVENIDA PATRIA, EN LA COLONIA VISTAS DEL NILO DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RUMR771116UA8",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Octubre",
+	"presupesto": 772509.53,
+	"contrato": "DOP-REH-MUN-PRO-AD-135-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f534"
+	},
+	"contratista": "KMS Construcciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ05136",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO, GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PÚBLICO Y ARBOLADO, DE LA CALLE PUERTO MELAQUE (FRENTE 1), EN LA ZONA ORIENTE DE LA CIUDAD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KCO081109A67",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.384059388e+07,
+	"contrato": "DOP-CON-FED-PDR-LP-136-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f535"
+	},
+	"contratista": "Proyectos  E Insumos Industriales Jelp S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ05",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO, GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PÚBLICO Y ARBOLADO, DE LA CALLE PUERTO MELAQUE (FRENTE 2), EN LA ZONA ORIENTE DE LA CIUDAD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PEI020208RW0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.09095027e+07,
+	"contrato": "DOP-CON-FED-PDR-LP-137-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f536"
+	},
+	"contratista": "Construtop S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ04138",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO, GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PÚBLICO Y ARBOLADO, DE LA CALLE FRANCISCO SARABIA EN LA ZONA ORIENTE DE LA CIUDAD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CON001027V80",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.483383525e+07,
+	"contrato": "DOP-CON-FED-PDR-LP-138-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f537"
+	},
+	"contratista": "Constructora Cecuchi, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06139",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO, GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PÚBLICO Y ARBOLADO, DE LA CALLE GIGANTES EN LA ZONA ORIENTE DE LA CIUDAD, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCE130723IR7",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.11247762e+06,
+	"contrato": "DOP-CON-FED-PDR-LP-139-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f538"
+	},
+	"contratista": "Desarrolladora Glar S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04140",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD DEPORTIVA CIUDAD DE TUCSON, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DGL060620SUA",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Octubre",
+	"presupesto": 8.06977586e+06,
+	"contrato": "DOP-REH-FED-PDR-LP-140-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f539"
+	},
+	"contratista": "Grucon de Occidente, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04141",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD DEPORTIVA CIUDAD DE TUCSON, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GOC1205232H3",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Octubre",
+	"presupesto": 9.73222414e+06,
+	"contrato": "DOP-REH-FED-PDR-LP-141-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53a"
+	},
+	"contratista": "Asfaltos y Agregados Copalita, S. A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05142",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA SAN ISIDRO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AAC081114952",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.42589775e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-142-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53b"
+	},
+	"contratista": "Acont S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05143",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA SAN ANTONIO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO980205C89",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 8.19808479e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-143-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53c"
+	},
+	"contratista": "Grupo Losa Electricidad y Asfalto S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05144",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA TALPITA, FRENTE 1, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GLE0812162E9",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.296611744e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-144-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53d"
+	},
+	"contratista": "UJTAIS, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05145",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA TALPITA, FRENTE 2, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UJT080924U4A",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.091032113e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-145-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53e"
+	},
+	"contratista": "Pavimentos y Terracerias LMS, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05146",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA POTRERO ALTO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PTL080924T30",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 4.11401658e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-146-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f53f"
+	},
+	"contratista": "Supercate S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05147",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA BLANCO Y CUELLAR, FRENTE 1, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SUP050405330",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 9.36180677e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-147-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f540"
+	},
+	"contratista": "Rivera Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05148",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA BLANCO Y CUELLAR, FRENTE 2, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RCO820921T66",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 1.005795799e+07,
+	"contrato": "DOP-REH-FED-FFI-LP-148-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f541"
+	},
+	"contratista": "Megaenlace Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05149",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA BLANCO Y CUELLAR, FRENTE 3, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MCO1510113H8",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 9.92708933e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-149-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f542"
+	},
+	"contratista": "Constructora Liderazgo, S.A. de C.V",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05150",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA SAN ANTONIO (2DA SECCIÓN) DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CLI081211GL3",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.37172062e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-150-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f543"
+	},
+	"contratista": "Acont S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05151",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES EN LA COLONIA PROGRESO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO980205C89",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 8.1695763e+06,
+	"contrato": "DOP-REH-FED-FFI-LP-151-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f544"
+	},
+	"contratista": "TC Construcción y Mantenimiento, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ2152",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACION DE PAVIMENTO CON CONCRETO HIDRAULICO DE CALLES EN LA COLONIA ATLAS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TCM100915HA1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 7.41537575e+06,
+	"contrato": "DOP-REH-EST-CZM-LP-152-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f545"
+	},
+	"contratista": "Grupo Promotor y Constructor de Occidente S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07153",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACION DE PAVIMENTO ASFALTICO DE CALLES EN LA COLONIA ECHEVERRIA, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GPC0610136X6",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 6.10549615e+06,
+	"contrato": "DOP-REH-EST-CZM-LP-153-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f546"
+	},
+	"contratista": "Construcciones y Rentas de Maquinaria de Occidente, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07154",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACION DE PAVIMENTO ASFALTICO DE CALLES EN LA COLONIA ECHEVERRIA, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CRM910909K48",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 5.90956047e+06,
+	"contrato": "DOP-REH-EST-CZM-LP-154-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f547"
+	},
+	"contratista": "Estructuras Construcciones y Urbanizaciones S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07155",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACION DE PAVIMENTO ASFALTICO DE CALLES EN LA COLONIA ECHEVERRIA, FRENTE 3, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ECU991015221",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Octubre",
+	"presupesto": 8.75649261e+06,
+	"contrato": "DOP-REH-EST-CZM-LP-155-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f548"
+	},
+	"contratista": "Asadc Ingenieria, S.A de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16FEDZ05093",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 7 HEROES DE CHAPULTEPEC EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AIN100317DV7",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Septiembre",
+	"presupesto": 9.80199202e+06,
+	"contrato": "DOP-REH-FED-FOR-LP-093-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f549"
+	},
+	"contratista": "Constructora Rural del País, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16FEDZ01094",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 11 MANUEL LOPEZ COTILLA EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CRP870708I62",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Septiembre",
+	"presupesto": 1.158634373e+07,
+	"contrato": "DOP-REH-FED-FOR-LP-094-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54a"
+	},
+	"contratista": "Construcciones Levisa, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16FEDZ04096",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 78 PLAZA VECINAL ARANDAS EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CLE131023270",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Septiembre",
+	"presupesto": 1.040991344e+07,
+	"contrato": "DOP-REH-FED-FOR-LP-096-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54b"
+	},
+	"contratista": "Pavimentos Industriales y Urbanizaciones S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07097",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACION CON CONCRETO HIDRAULICO Y OBRAS INDUCIDAS DE LA CALLE LONGINOS CADENA, INCLUYE GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PUBLICO EN LA COLONIA LOMAS DE POLANCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PIU790912MS1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Septiembre",
+	"presupesto": 7.16570633e+06,
+	"contrato": "DOP-REH-FED-FOR-LP-097-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54c"
+	},
+	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07098",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACION CON CONCRETO HIDRAULICO Y OBRAS INDUCIDAS DE LA CALLE OTHON BLANCO, INCLUYE GUARNICIONES, BANQUETAS, RED DE AGUA POTABLE Y ALCANTARILLADO, ALUMBRADO PUBLICO EN LA COLONIA LOMAS DE POLANCO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SCI0003011Z5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Septiembre",
+	"presupesto": 9.77481073e+06,
+	"contrato": "DOP-REH-FED-FOR-LP-098-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54d"
+	},
+	"contratista": "Grupo Elizaar Elizaar S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16MUSZ04099",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCION DEL MUSEO DE ARTE MODERNO Y CONTEMPORANEO, 4TA ETAPA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GEE0012153I0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Museos",
+	"mes": "Septiembre",
+	"presupesto": 3.615631679e+07,
+	"contrato": "DOP-CON-FED-MUS-LP-099-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54e"
+	},
+	"contratista": "Bufete Arquitectonico S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16MUSZ04100",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCION DEL MUSEO DE ARTE MODERNO Y CONTEMPORANEO, (AEREAS EXTERIORES), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "BAR710430CT1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Museos",
+	"mes": "Septiembre",
+	"presupesto": 6.59767206e+06,
+	"contrato": "DOP-CON-FED-MUS-LP-100-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f54f"
+	},
+	"contratista": "UJTAIS, S.A. de C.V.",
+	"origen_de_resultados": "FEDERAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01101",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION Y EQUIPAMIENTO DE LA UNIDAD DEPORTIVA No. 34 LUIS PEREZ PICHOJOS EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UJT080924U4A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Septiembre",
+	"presupesto": 4.56595607e+06,
+	"contrato": "DOP-REH-FED-FOR-CI-101-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f550"
+	},
+	"contratista": "Grupo Losa Electricidad y Asfalto S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01102",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD MEDICA \"DR. ERNESTO ARIAS\", COL. LAS CONCHAS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GLE0812162E9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 7.69625562e+06,
+	"contrato": "DOP-REH-MUN-SAL-CI-102-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f551"
+	},
+	"contratista": "Ing. Alfredo Flores Chávez",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06103",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "'REHABILITACIÓN DE LA UNIDAD PREHOSPITALARIA MEDICA IGNACIO ALLENDE, COL. HERMOSA PROVINCIA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "FOCA830904HT8",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 1.81994642e+06,
+	"contrato": "DOP-REH-MUN-SAL-AD-103-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f552"
+	},
+	"contratista": "Construbravo S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ06104",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE LA RED DE AGUA POTABLE, ALCANTARILLADO Y PAVIMENTO DE CALLES EN LA COLONIA LOMAS DEL GALLO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CON020208696",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Septiembre",
+	"presupesto": 5.26339545e+06,
+	"contrato": "DOP-CON-MUN-PAV-CI-104-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f553"
+	},
+	"contratista": "Grucon de Occidente, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01105",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD MEDICA \"DR. JESÚS DELGADILLO ARAUJO\", COL. ALCALDE BARRANQUITAS (QUIROFANOS, CEYE, URGENCIAS, CUARTO DE MÁQUINAS Y CONSTRUCCIÓN DE BAÑOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GOC1205232H3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 7.08767434e+06,
+	"contrato": "DOP-REH-MUN-SAL-CI-105-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f554"
+	},
+	"contratista": "Ing. Veronica Bermudez Torres",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07106",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION DE LA UNIDAD MEDICA \" DR. LEONARDO OLIVA\", COL. JARDINES DE LA CRUZ ( CUARTO DE MAQUINAS, BANQUETAS, MURO PERIMETRAL, IMPERMEABILIZACION DEL EDIFICIO, PINTURA EN FACHADA Y AREA EXTERIOR) MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "BETV600515U89",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 2.82189872e+06,
+	"contrato": "DOP-REH-MUN-SAL-AD-106-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f555"
+	},
+	"contratista": "Constructora Monte S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03107",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD MEDICA \"DR. MARIO RIVAS SOUZA\", COL. SANTA ISABEL, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CMO831020VC3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 6.62571985e+06,
+	"contrato": "DOP-REH-MUN-SAL-CI-107-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f556"
+	},
+	"contratista": "Constructora Vico S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07108",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD PREHOSPITALARIA MEDICA BENITO JUÁREZ, COL. POLANCO ORIENTE, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CVI980213UM6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 1.8935087e+06,
+	"contrato": "DOP-REH-MUN-SAL-AD-108-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f557"
+	},
+	"contratista": "Divicon S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04109",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD PREHOSPITALARIA MEDICA PRISCILIANO SÁNCHEZ, COL. OBLATOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DIV010905510",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 1.40051061e+06,
+	"contrato": "DOP-REH-MUN-SAL-AD-109-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f558"
+	},
+	"contratista": "Sr. Omar Soto Ayala",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03110",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD MEDICA \"DR. FRANCISCO RUIZ SANCHEZ\", COL. LAS LOMAS, MUNICIPIO DE GUADALAJARA, JALISCO .",
+	"ubicacion": ".",
+	"contratista_rfc": "SOAO7004223D0",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 2.89205638e+06,
+	"contrato": "DOP-REH-MUN-SAL-AD-110-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f559"
+	},
+	"contratista": "Constructora Ikaboss, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07111",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD MEDICA \"DR. LEONARDO OLIVA\", COL. JARDINES DE LA CRUZ (QUIROFANO, SELLE, CONSULTORIOS, ENCAMADOS, SALA DE ESPERA, LABORATORIO E INTERIOR DEL EDIFICIO), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CIK131016KYA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 5.23255216e+06,
+	"contrato": "DOP-REH-MUN-SAL-CI-111-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55a"
+	},
+	"contratista": "Manjarrez Urbanizaciones, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01112",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILTACIÓN DE LA UNIDAD MEDICA \"DR. JESÚS DELGADILLO ARAUJO\", COL. BARRANQUITAS (EDIFICIO DE COMUNICACIÓN Y EDIFICIO DE CUERPO MOTORIZADO), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MUR090325P33",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Septiembre",
+	"presupesto": 4.73206515e+06,
+	"contrato": "DOP-REH-MUN-SAL-CI-112-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55b"
+	},
+	"contratista": "Desarrollos Vicsa S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04114",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "AMPLIACIÓN DEL COMEDOR COMUNITARIO #4 EN EL CENTRO DE DESARROLLO COMUNITARIO, EN LA COLONIA RANCHO NUEVO Y EL COMEDOR COMUNITARIO # 12 EN EL CENTRO DE DESARROLLO COMUNITARIO, EN LA COLONIA BALCONES DE OBLATOS,  TRABAJOS CONSISTENTES EN PISOS, JARDINERIA,",
+	"ubicacion": ".",
+	"contratista_rfc": "DVI0903301U3",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Septiembre",
+	"presupesto": 658044.54,
+	"contrato": "DOP-REH-MUN-COM-AD-114-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55c"
+	},
+	"contratista": "Enerval Sustentable, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01115",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUMINISTRO E INSTALACIÓN DE SISTEMA FOTOVOLTAICO EN EL \"MERCADO CORONA\", EN LA ZONA 1 CENTRO DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EEE090806320",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Septiembre",
+	"presupesto": 4.9e+06,
+	"contrato": "DOP-REH-EST-MER-CI-115-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55d"
+	},
+	"contratista": "C. Karla Alicia Jauregui Arreola",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16RESZ2116",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS DE CONSERVACIÓN Y RESTAURACIÓN DE PEDESTAL (BASA Y PODIO) DE LA ESCULTURA \"LA MINERVA\" UBICADA EN LA ZONA 2 (MINERVA), DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "JAAK82012393A",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Septiembre",
+	"presupesto": 2.20272843e+06,
+	"contrato": "DOP-RES-MUN-PRO-AD-116-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55e"
+	},
+	"contratista": "Duran Jimenez Arquitectos y Asociados S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ07119",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y OBRAS INDUCIDAS DE LA CALLE LUIS COVARRUBIAS ENTRE AV. 8 DE JULIO A CALLE MANUEL AVELEYRA Y DE LA TORRE, ZONA MIRAVALLE, ETAPA 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DJA9405184G7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Septiembre",
+	"presupesto": 4.14945747e+06,
+	"contrato": "DOP-CON-EST-PAV-CI-119-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f55f"
+	},
+	"contratista": "Green Patcher México, S. de R.L. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ130",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUMINISTRO DE COLOCACIÓN DE BACHEO PREVENTIVO Y CORRECTIVO DE PAVIMENTOS MEDIANTE EL USO DEL METODO DE APLICACIÓN DE MEZCLA ASFALTICA EN FRIO A TRAVES DE PRESION NEUMATICA, FRENTE 2, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISA071206P64",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"mes": "Septiembre",
+	"presupesto": 2.83637748e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-130-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f560"
+	},
+	"contratista": "Espacio Diseño y Construcción S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPVZ024",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTOS CONCEPTUALES DE IMAGEN URBANA EN ESPACIOS CERRADOS EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EDC010614NU3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Agosto",
+	"presupesto": 4.82008423e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-024-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f561"
+	},
+	"contratista": "Ime Servicios y Suministros S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03039",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"INDEPENDENCIA\", EN LA COL. INDEPENDENCIA DE LA ZONA 3 HUENTITAN, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISS920330811",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Agosto",
+	"presupesto": 1.6476523e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-039-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f562"
+	},
+	"contratista": "Urbanizaciones y Edificaciones Loro S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05042",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"FRANCISCO VILLA\",  EN LA COL. BLANCO Y CUELLAR DE LA ZONA 5 OLÍMPICA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "UEL0304241V6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Agosto",
+	"presupesto": 1.88978618e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-042-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f563"
+	},
+	"contratista": "Capacitores y Electrosistemas Industriales S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04044",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"PLUTARCO ELÍAS CALLES\", EN LA COL. SAN ISIDRO DE LA ZONA 4 OBLATOS, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CEI021216U57",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Agosto",
+	"presupesto": 1.4067747e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-044-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f564"
+	},
+	"contratista": "Aldsanbm Constructora, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01073",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN DE LA CALLE ZARAGOZA ENTRE CALLE INDEPENDENCIA E HIDALGO, ALUMBRADO DE LA CALLE SANTA MÓNICA E INDEPENDENCIA, ZONA 1 CENTRO, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACO070606CY5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Alumbrado Público",
+	"mes": "Agosto",
+	"presupesto": 4.09974471e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-073-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f565"
+	},
+	"contratista": "Aspavi S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16PAVZ07082-1",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PAVIMENTACIÓN CON CONCRETO HIDRÁULICO Y COLECTOR DEL CRUCERO DE AV. LÁZARO CÁRDENAS Y AV. 18 DE MARZO, EN LA ZONA 7 (CRUZ DEL SUR), MUNICIPIO DE GUADALAJARA, JALSICO",
+	"ubicacion": ".",
+	"contratista_rfc": "ASP100215RH9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Agosto",
+	"presupesto": 6.72989819e+06,
+	"contrato": "DOP-PAV-MUN-PRO-CI-082-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f566"
+	},
+	"contratista": "Ingenieria y Edificaciones Lec, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSZ04083",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE LA DESCARGA DEL CANAL PLUVIAL PARA REGULACIÓN Y CONTROL DE AVENIDAS, EN LA AV. PLUTARCO ELÍAS CALLES EN SU CRUCE CON AV. JOSÉ MARÍA IGLESIAS EN LA ZONA 4 (OBLATOS), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IEL101130SI0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Agosto",
+	"presupesto": 5.8232858e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-083-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f567"
+	},
+	"contratista": "Desarrolladores Marsol S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ084",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL E IMAGEN URBANA EN UNIDADES HABITACIONALES Y ÁREAS COMUNES, ETAPA 1, FRENTE 1 EN VARIAS COLONIAS DEL MUNICIPIO DE GUADALAJARA, JALISCO",
+	"ubicacion": ".",
+	"contratista_rfc": "DMA0803144J1",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Agosto",
+	"presupesto": 6.21449559e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-084-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f568"
+	},
+	"contratista": "Daca Constructora, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ085",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL E IMAGEN URBANA EN UNIDADES HABITACIONALES Y ÁREAS COMUNES, ETAPA 1, FRENTE 2 EN VARIAS COLONIAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DCO100827QB4",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Agosto",
+	"presupesto": 6.1883376e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-085-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f569"
+	},
+	"contratista": "Green Patcher México, S. de R.L. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ087",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUMINISTRO Y COLOCACIÓN DE BACHEO PREVENTIVO Y CORRECTIVO DE PAVIMENTOS MEDIANTE EL USO DEL METODO DE APLICACIÓN DE MEZCLA ASFÁLTICA EN FRIO A TRAVÉS DE PRESIÓN NEUMATICA, FRENTE 1 MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISA071206P64",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Bacheo y Pavimentos",
+	"mes": "Agosto",
+	"presupesto": 2.80506634e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-087-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56a"
+	},
+	"contratista": "Ingenieria Mécanica Eléctrica, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04088",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"PEDRO VELEZ\", EN LA COL. SAN MARCOS DE LA ZONA 4 OBLATOS, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IME0308051U7",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Agosto",
+	"presupesto": 1.18516923e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-088-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56b"
+	},
+	"contratista": "Lakay Construcciones S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ07089",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE AREA DE RECREACIÓN PARA LAS PERSONAS DE LA TERCERA EDAD EN MODULO DE POLICIA, UBICADO EN LA CALLE PEDRO CIPRES Y ARQUITECTURA EN LA COL. MIRAVALLE DE LA ZONA 7 CRUZ DEL SUR, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LCO110719FD1",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Agosto",
+	"presupesto": 926750.09,
+	"contrato": "DOP-CON-MUN-PRO-AD-089-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56c"
+	},
+	"contratista": "Construcciones Citus S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPVZ090",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTOS CONCEPTUALES PARA DIFERENTES ACCIONES DEPENDIENTES DE LA DIRECCIÓN DEL ESPACIO PÚBLICO, FRENTE 1, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCI020411HS5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Agosto",
+	"presupesto": 5.46466001e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-090-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56d"
+	},
+	"contratista": "GVA Desarrollos Integrales, S.A. de .C.V",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02091",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL BOSQUE LOS COLOMOS SEGUNDA ETAPA, (ESTACIONAMIENTO, ARCO DE INGRESO, SENDEROS,  CASETA DE INGRESO DE PATRIA Y CHACO Y MUROS DE  CONTENCION) EN LA ZONA 2 MINERVA DEL MUNICIPIO DE   GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GDI020122D2A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Agosto",
+	"presupesto": 4.80304748e+06,
+	"contrato": "DOP-REH-EST-PRO-CI-091-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56e"
+	},
+	"contratista": "Ing. José de Jesús Orozco Hernández",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPVZ019",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ESTUDIOS DE TOPOGRAFÍA PARA DIFERENTES PROYECTOS DEL PROGRAMA 2016, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "OOHJ65042251A",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Julio",
+	"presupesto": 1.9331979e+06,
+	"contrato": "DOP-EYP-MUN-PRO-AD-019-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f56f"
+	},
+	"contratista": "Acar Obras y Proyectos S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPVZ023",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "ELABORACIÓN DE PROYECTOS CONCEPTUALES DE IMAGEN URBANA EN ACCESO DE CALLES PRINCIPALES, ESPACIOS URBANOS PÚBLICOS, VIALIDADES, MERCADOS Y PLAZAS EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AOP071220PP2",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Julio",
+	"presupesto": 2.420485e+06,
+	"contrato": "DOP-EYP-MUN-PRO-AD-023-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f570"
+	},
+	"contratista": "Grupo Promotor y Constructor de Occidente S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01028",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN URBANA DEL BARRIO DE MEXICALTZINGO SEGUNDA ETAPA, FRENTE 1, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GPC0610136X6",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 5.76914486e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-028-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f571"
+	},
+	"contratista": "SJ Lagos Constructora e Inmobiliaria, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01029",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN URBANA DEL BARRIO DE MEXICALTZINGO SEGUNDA ETAPA, FRENTE 2, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SLC090211283",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 6.2089516e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-029-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f572"
+	},
+	"contratista": "SEI Grupo Constructor, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01036",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"MEZQUITAN\", EN LA COL. LA NORMAL DE LA ZONA 1 CENTRO, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SGC080530DK7",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 1.55677223e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-036-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f573"
+	},
+	"contratista": "Ing. Alejandro Arturo Aviña Gómez",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05041",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"IGNACIO ALDAMA\", EN LA COL. MEDRANO DE LA ZONA 5 OLÍMPICA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AIGA661111LX3",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 2.03128678e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-041-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f574"
+	},
+	"contratista": "Constructora Bauer S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ04043-16",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"ÁLVARO OBREGÓN\", EN LA COL. SAN MARCOS DE LA ZONA 4 OBLATOS, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CBA910123TDA",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 1.31418795e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-043-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f575"
+	},
+	"contratista": "Jal Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06045",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"SAN JACINTO\", EN LA COL. SAN ANDRÉS DE LA ZONA 6 TETLAN, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "JCO961129KH2",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 2.56661685e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-045-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f576"
+	},
+	"contratista": "Ingenieros Pavimentos, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16ESTZ05055",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "'2° ETAPA RENOVACIÓN INTEGRAL DE LA UNIDAD 18 DE MARZO FRENTE 1, UBICADA EN LA ZONA 5 OLIMPICA, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "IPA151104DX8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Julio",
+	"presupesto": 5.08252847e+06,
+	"contrato": "DOP-CON-EST-CZM-CI-055-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f577"
+	},
+	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01060",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 2, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SCI0003011Z5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Julio",
+	"presupesto": 6.05963739e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-060-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f578"
+	},
+	"contratista": "Grupo Irlanda S.A de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16conz01061",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 3, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GIR031020-AK3",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Julio",
+	"presupesto": 5.46336627e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-061-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f579"
+	},
+	"contratista": "Servicios Profesionales y Construcción Méndez Martínez S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01063",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 5, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SPC071105S59",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Julio",
+	"presupesto": 4.50060768e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-063-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57a"
+	},
+	"contratista": "Keops Ingenieria y Construccion S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ02065",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "PRIMERA ETAPA RENOVACIÓN URBANA DEL CORREDOR AVENIDA MEXICO, UBICADO EN LA ZONA 2 MINERVA, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KIC040617JIA",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 2.463999994e+07,
+	"contrato": "DOP-CON-EST-CZM-LP-065-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57b"
+	},
+	"contratista": "Former Grupo Constructor S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ07068",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELECTRICA PARA EL MERCADO \"SANTOS DEGOLLADO\", UBICADO EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "FGC070201HGA",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 1.60672605e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-068-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57c"
+	},
+	"contratista": "Expekta Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16ESPZ01069",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "TRABAJOS COMPLEMENTARIOS DE REHABILITACIÓN, ILUMINACIÓN Y ACABADOS DE LA FUENTE DANZARINAS, UBICADA EN LA PLAZA TAPATÍA PRIMER CUADRO DEL CENTRO HISTÓRICO DE LA CIUDAD, DE LA ZONA 1 CENTRO, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ECO0905228P5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 3.69925522e+06,
+	"contrato": "DOP-ESP-MUN-PRO-CI-069-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57d"
+	},
+	"contratista": "Construcciones Trocadero S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05070",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUSTITUCIÓN DE BARDA PERIMETRAL EN LA UNIDAD DEPORTIVA \"TALPITA\", UBICADA EN LA COL. POPULAR DE LA ZONA 5 OLÍMPICA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CTR050202AKA",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Julio",
+	"presupesto": 2.19822497e+06,
+	"contrato": "DOP-REH-MUN-PRO-AD-070-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57e"
+	},
+	"contratista": "Pared Urbana, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05071",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE LA CALLE JOSÉ MA.CASTILLEROS EN LA COLONIA POLANCO Y LA CALLE NORUEGA EN LA COLONIA MODERNA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PUR071001L23",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Julio",
+	"presupesto": 700445.17,
+	"contrato": "DOP-REH-MUN-PRO-AD-071-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f57f"
+	},
+	"contratista": "Karol Urbanizaciones y Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ06072",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONSTRUCCIÓN DE MURO DE CONTENCIÓN Y PLAZOLETA EN LA AVENIDA MALECÓN, UBICADO EN LA ZONA 6 TETLAN, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "KUC070424344",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Construcción",
+	"mes": "Julio",
+	"presupesto": 970891.34,
+	"contrato": "DOP-CON-MUN-PRO-AD-072-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f580"
+	},
+	"contratista": "Desarrollos Casavi S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EQPZ1075",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "OBRAS COMPLEMENTARIAS PARA LA TERMINACIÓN DE BASE GAMAS Y EQUIPAMIENTO, UBICADO EN LA COL. LA MODERNA EN LA ZONA 1 CENTRO, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DCA110131TY7",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Equipamiento",
+	"mes": "Julio",
+	"presupesto": 1.66451657e+06,
+	"contrato": "DOP-EQP-MUN-PRO-AD-075-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f581"
+	},
+	"contratista": "Corporativo Constructor Cutema S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPVZ076",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "SUPERVISIÓN TÉCNICA Y ADMINISTRATIVA DE LA CONSTRUCCIÓN DE DIVERSAS OBRAS FRENTE 1, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CCT0702225I5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"mes": "Julio",
+	"presupesto": 4.98683181e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-076-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f582"
+	},
+	"contratista": "Lonas y Estructuras HS S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ077",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESCUELA PRIMARIA URBANA 571 LADRON DE GUEVARA CONSISTENTE EN CUBIERTA SOBRE CANCHA DE USOS MULTIPLES, EN LA COLONIA GUADALAJARA ORIENTE,  REHABILITACIÓN DE ESCUELA PRIMARIA SOR JUANA INES DE LA CRUZ CONSISTENTE EN CUBIERTA SOBRE CANCHA D",
+	"ubicacion": ".",
+	"contratista_rfc": "LEH110401N14",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Escuelas",
+	"mes": "Julio",
+	"presupesto": 4.81966267e+06,
+	"contrato": "DOP-REH-MUN-ESC-CI-077-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f583"
+	},
+	"contratista": "Lonas Lorenzo S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16ESCVZ078",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE ESCUELA PRIMARIA JÓSE LUIS ARREGUI CONSISTENTE EN CUBIERTA SOBRE CANCHA DE USOS MULTIPLES, EN LA COLONIA OBLATOS, REHABILITACIÓN DE ESCUELA PRIMARIA BENITO JUAREZ CONSISTENTE EN CUBIERTA SOBRE CANCHA DE USOS MULTIPLES, EN LA COLONIA REYE",
+	"ubicacion": ".",
+	"contratista_rfc": "LLO8510167J9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Escuelas",
+	"mes": "Julio",
+	"presupesto": 5.15778292e+06,
+	"contrato": "DOP-REH-MUN-ESC-CI-078-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f584"
+	},
+	"contratista": "C. Karla Alicia Jauregui Arreola",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16RESZ02079",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REGISTRO, ANALISIS, DIAGNOSTICO Y PROYECTO DE INTERVENCIÓN DE LA ESCULTURA \"LA MINERVA\" UBICADA EN LA ZONA 2 (MINERVA), DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "JAAK82012393A",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 1.5e+06,
+	"contrato": "DOP-RES-MUN-PRO-AD-079-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f585"
+	},
+	"contratista": "Ing. Martin Rodolfo Preciado Rodríguez",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16RESZ01080",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DIAGNOSTICO, RESTAURACIÓN Y REMOZAMIENTO: DE LA FACHADA DEL EDIFICIO DE LA TESORERIA MUNICIPAL UBICADO EN LA CALLE MIGUEL BLANCO EN SU CRUCE CON CALLE COLÓN Y DE LA BALAUSTRADA DEL ARCO DEL ANTIGUO MERCADO CORONA, EN LA ZONA 1 (CENTRO), DEL MUNICIPIO DE G",
+	"ubicacion": ".",
+	"contratista_rfc": "PERM631018RP6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Julio",
+	"presupesto": 2e+06,
+	"contrato": "DOP-RES-MUN-PRO-AD-080-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f586"
+	},
+	"contratista": "Sr. Mario Raúl de la Mora Cuellar",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02081",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE CAMELLÓN EN AV. AMERICAS EN LA ZONA 2 (MINERVA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MOCM780207RP2",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Camellones",
+	"mes": "Julio",
+	"presupesto": 2.75080509e+06,
+	"contrato": "DOP-REH-MUN-JAR-AD-081-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f587"
+	},
+	"contratista": "Sr. Ismael Salazar Alvarez",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONTZ01086",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONTINGENCIA EN EL MERCADO ALCALDE, TRABAJOS DE REHABILITACIÓN CONSISTENTES EN OBRAS CIVILES, REDES E INSTALACIONES DE SERVICIO, UBICACIÓN EN EL PERIMETRO DE ANGULO, LICEO, HERRERA Y CAIRO Y PINO SUAREZ EN EL CENTRO HISTORICO DE LA CIUDAD DE LA ZONA 1 C",
+	"ubicacion": ".",
+	"contratista_rfc": "SAAI520614CC3",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Julio",
+	"presupesto": 2.8e+06,
+	"contrato": "DOP-CONT-MUN-MER-AD-086-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f588"
+	},
+	"contratista": "Sr. José Antonio Cuevas Briseño",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONTZ07002",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "CONTINGENCIA EN EL MERCADO \"SANTOS DEGOLLADO\", TRABAJOS  DE REHABILITACIÓN CONSISTENTES EN OBRAS CIVILES, REDES E INSTALACIONES DE SERVICIO, UBICACIÓN EN: LONGINOS CADENA CRUCE GUILLERMO BACA, EN LA COL. LOMAS DE POLANCO DE LA ZONA 7 CRUZ DEL SUR, MUNICIP",
+	"ubicacion": ".",
+	"contratista_rfc": "CUBA5705179V8",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Junio",
+	"presupesto": 3.89680728e+06,
+	"contrato": "DOP-CONT-MUN-MER-AD-002-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f589"
+	},
+	"contratista": "Ingenieros de la Torre, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05004-16",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN EN EL MERCADO \"FRANCISCO VILLA\", UBICADO EN LA COL. BLANCO Y CUELLAR DE LA ZONA 5 OLÍMPICA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ITO951005HY5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Junio",
+	"presupesto": 1.89137056e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-004-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58a"
+	},
+	"contratista": "Constructora Ikaboss, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ05005",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD DE URGENCIA MÉDICA CRUZ VERDE \"DR. FRANCISCO RUIZ SÁNCHEZ\", UBICADA EN LA COL. MEDRANO DE LA ZONA 5 OLÍMPICA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CIK131016KYA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Salud ( Centros de, Unidades Medicas )",
+	"mes": "Junio",
+	"presupesto": 5.79415373e+06,
+	"contrato": "DOP-REH-EST-SAL-CI-006-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58b"
+	},
+	"contratista": "SB  Ingenieros Civiles S. A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ012",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA UNIDAD DEPORTIVA No. 51 \"OBLATOS\",  DE LA ZONA 4 OBLATOS Y LA UNIDAD DEPORTIVA No. 13 \"MIGUEL HIDALGO\", EN LA HERMOSA PROVINCIA DE LA ZONA 6 TETLAN, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SIC980529I59",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidad Deportiva",
+	"mes": "Junio",
+	"presupesto": 5.8140571e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-012-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58c"
+	},
+	"contratista": "Sr. Regino Ruiz del Campo Medina",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSVZ013",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "LIMPIEZA, DESAZOLVE Y MANTENIMIENTO DE LOS CANALES DEL SUR, NUEVA ESPAÑA Y ARBOLEDAS DEL SUR, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RUMR771116UA8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Junio",
+	"presupesto": 2.29763207e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-013-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58d"
+	},
+	"contratista": "Tractomaquinaria el Troje, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSVZ014",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "LIMPIEZA Y DESAZOLVE DE LOS CANALES CIÉNEGA DE MATA, CANAL ENTRE MONTE SAN ELIAS Y PROL. NORMALISTAS EN RANCHO NUEVO, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TTR020104UZ7",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Junio",
+	"presupesto": 2.27851642e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-014-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58e"
+	},
+	"contratista": "Grupo Constructor Los Muros S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSVZ015",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "HABILITACIÓN DE CUADRILLA DE EMERGENCIAS HIDRAULICAS PARA LA PREVENCION DEL TEMPORAL DE LLUVIAS, FRENTE 1, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCM020226F28",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Junio",
+	"presupesto": 3.06280721e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-015-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f58f"
+	},
+	"contratista": "Empo Constructores, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSVZ016",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "HABILITACIÓN DE CUADRILLA DE EMERGENCIAS HIDRAULICAS PARA LA PREVENCION DEL TEMPORAL DE LLUVIAS, FRENTE 2, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ECO130308NEA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Junio",
+	"presupesto": 2.62934977e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-016-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f590"
+	},
+	"contratista": "Corporación Rehovot, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01025",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "EVALUACIÓN SOCIOECONÓMICA DEL PROGRAMA DE AMPLIACIONES PARA PROYECTOS DE DESARROLLO REGIONAL Y FONDO PARA EL FORTALECIMIENTO DE LA INFRAESTRUCTURA ESTATAL Y MUNICIPAL INCLUIDO EN LOS ANEXOS 20.2 Y 20.3 DEL RAMO 23  PARA EL PRESUPUESTO DE EGRESOS DE LA FED",
+	"ubicacion": ".",
+	"contratista_rfc": "CRE9605303U2",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Proyecto )",
+	"mes": "Junio",
+	"presupesto": 1.9999024e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-025-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f591"
+	},
+	"contratista": "Grupo Constructor Felca S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01027",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN URBANA DEL BARRIO SANTA TERE TERCERA ETAPA, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GCF8504255B8",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Junio",
+	"presupesto": 1.499999999e+07,
+	"contrato": "DOP-CON-EST-CZM-LP-027-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f592"
+	},
+	"contratista": "Edificaciones y Espacios Letco S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03030",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN URBANA DEL BARRIO HUENTITÁN EL ALTO TERCERA ETAPA, FRENTE 1, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "EEL0204268V2",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Junio",
+	"presupesto": 1.7791594e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-030-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f593"
+	},
+	"contratista": "Galjack Arquitectos y Construcciones S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ03031",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN URBANA DEL BARRIO HUENTITÁN EL ALTO TERCERA ETAPA, FRENTE 2, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GAC051206TQ3",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Junio",
+	"presupesto": 6.2208406e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-031-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f594"
+	},
+	"contratista": "Estructuras Construcciones y Urbanizaciones S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ02032",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE CALLES SERIS Y CHICHIMECAS ENTRE AZTECAS Y ACOLHUAS EN LA COLONIA MONRAZ TERRAZAS, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ECU991015221",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Junio",
+	"presupesto": 9.64999998e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-032-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f595"
+	},
+	"contratista": "Alquimia Grupo Constructor S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONVA033",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "MANTENIMIENTO A LA CICLO VÍA WASHINGTON E INTEGRACIÓN CON AVENIDA INGLATERRA, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AGC070223J95",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Ciclovias",
+	"mes": "Junio",
+	"presupesto": 5.93e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-033-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f596"
+	},
+	"contratista": "Ingenieria en Sistemas Electromecanicos de Occidente S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03037",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE INSTALACIÓN ELÉCTRICA PARA EL MERCADO \"BELISARIO DOMÍNGUEZ\", EN LA COL. BELISARIO DOMÍNGUEZ DE LA ZONA 3 HUENTITAN, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISE8102103Z8",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Junio",
+	"presupesto": 2.17024442e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-037-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f597"
+	},
+	"contratista": "Construcciones Levisa, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02046",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "IMPERMEABILIZACIÓN E INSTALACIONES ELÉCTRICAS PARA EL CENTRO DE LA AMISTAD INTERNACIONAL DEL SISTEMA DIF GUADALAJARA, UBICADO EN LA COL. LADRÓN DE GUEVARA DE LA ZONA 2 MINERVA, DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CLE131023270",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "DIF",
+	"mes": "Junio",
+	"presupesto": 977827.51,
+	"contrato": "DOP-REH-MUN-EQP-AD-046-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f598"
+	},
+	"contratista": "Rivera Construcciones, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ06052",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN Y EQUIPAMIENTO DE ALBERCA EN EL PARQUE SAN RAFAEL PRIMERA ETAPA,  UBICADO EN LA COL. SAN RAFAEL DE LA ZONA 6 TETLAN, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "RCO820921T66",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Unidades Deportivas",
+	"mes": "Junio",
+	"presupesto": 3.84892447e+06,
+	"contrato": "DOP-REH-MUN-EQP-CI-052-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f599"
+	},
+	"contratista": "Grupo Elizaar Elizaar S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01059",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 1, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GEE0012153I0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Junio",
+	"presupesto": 7.68090556e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-059-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59a"
+	},
+	"contratista": "Construcciones Levisa, S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01062",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 4, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CLE131023270",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Junio",
+	"presupesto": 5.414779e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-062-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59b"
+	},
+	"contratista": "Imex Construcciones S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01064",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN INTEGRAL DEL PARQUE ALCALDE FRENTE 6, UBICADO EN LA ZONA 1 CENTRO EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ICO040304FY5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Parques",
+	"mes": "Junio",
+	"presupesto": 8.88069408e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-064-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59c"
+	},
+	"contratista": "Proyectos  E Insumos Industriales Jelp S.A. de C.V.",
+	"origen_de_resultados": "ESTATAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16CONZ01066",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "2° ETAPA RENOVACIÓN URBANA DEL BARRIO DE ANALCO, UBICADO EN LA ZONA 1 CENTRO, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "PEI020208RW0",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Junio",
+	"presupesto": 9.64999996e+06,
+	"contrato": "DOP-CON-EST-CZM-LP-066-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59d"
+	},
+	"contratista": "Desarrollo Dap C,  S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ03067",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DEL ESPACIO PÚBLICO EN IRENE ROBLEDO Y LA AV. ALCALDE, UBICADA EN LA COL. SANTA ELENA ALCALDE DE LA ZONA 3 HUENTITAN, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DDC050127VD5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Junio",
+	"presupesto": 683522.83,
+	"contrato": "DOP-REH-MUN-PRO-AD-067-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59e"
+	},
+	"contratista": "Control Grade, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16IHSZ07017",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DESAZOLVE DE LOS VASOS REGULADORES NO. 5 DE MAYO, VALENTÍN GÓMEZ FARÍAS Y BALCONES DEL CUATRO, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGR-100319-DT6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Infraestructura Hidrosanitaria",
+	"mes": "Mayo",
+	"presupesto": 1.733858e+06,
+	"contrato": "DOP-IHS-MUN-PRO-CI-017-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f59f"
+	},
+	"contratista": "Maxrusqui Ingenieria S. A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZV022",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "DIAGNOSTICO, DISEÑO Y PROYECTOS HIDRÁULICOS DE DIFERENTES REDES DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y PLUVIAL DEL PROGRAMA 2016, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "MIN111216EV9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"mes": "Mayo",
+	"presupesto": 1.99866283e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-022-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a0"
+	},
+	"contratista": "Demoliciones Quinto S. A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16EYPZ01026",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "COORDINACIÓN ADMINISTRATIVA Y JURIDICA DE LOS PROCESOS DE LICITACIÓN, CONTRATACIÓN DE LOS CONTRATOS DEL PROGRAMA 2016, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DQU130613S7A",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Estudios y Proyectos ( Trabajo )",
+	"mes": "Mayo",
+	"presupesto": 1.99872431e+06,
+	"contrato": "DOP-EYP-MUN-PRO-CI-026-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a1"
+	},
+	"contratista": "Facility Services Depot, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ034",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES; A) AV. UNION ENTRE AV. LA PAZ Y AV. NIÑOS HEROES, EN LA ZONA 2 MINERVA; B) HACIENDA DE LA PIEDRA ENTRE HACIENDA DE LA VENTA Y AV. PLUTARCO ELÍAS CALLES, EN LA ZONA 4 OBLATOS; C) HACIENDA LA RAJADURA ENTRE HACIENDA DE LA ERRE",
+	"ubicacion": ".",
+	"contratista_rfc": "FSD120315C74",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Mayo",
+	"presupesto": 5.77745752e+06,
+	"contrato": "DOP-REH-MUN-PRO-CI-034-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a2"
+	},
+	"contratista": "Constructores y Asesores de Obras S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16OPZ2048",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION DE SANITARIOS DENOMINADOS ''INGRESO PATRIA'', ''PERGOLAS'', ''CABALLERIZAS'', ''EUCALIPTOS'', UBICADOS EN EL BOSQUE DE LOS COLOMOS, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA, EN EL MUNICIPIO DE GUADALAJARA , JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CAO0310105I6",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Mayo",
+	"presupesto": 2.97828004e+06,
+	"contrato": "DOP-REH-MUN-EQP-CI-048-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a3"
+	},
+	"contratista": "Costos Obras y Proyectos S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ02001",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE MÓDULOS DE SANITARIOS EN EL ''BOSQUE LOS COLOMOS'', UBICADO EN CHACO No.3200, EN LA COL. PROVIDENCIA DE LA ZONA 2 MINERVA, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "COP070220HS6",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Obras Varias Rehabilitación",
+	"mes": "Abril",
+	"presupesto": 636838.68,
+	"contrato": "DOP-REH-MUN-PRO-AD-001-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a4"
+	},
+	"contratista": "Tecnologos e Ingenieros Civiles, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHZ01005",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN DE LA ESCUELA SECUNDARIA TECNICA No.1, TRABAJOS CONSISTENTES EN CUBIERTA SOBRE CANCHA DE BASQUET, UBICADA EN LA COL. SAN JUAN DE DIOS EN LA ZONA 1 CENTRO, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TIC961106DX9",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Escuelas",
+	"mes": "Abril",
+	"presupesto": 1.08276082e+06,
+	"contrato": "DOP-REH-MUN-ESC-AD-005-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a5"
+	},
+	"contratista": "Infraestructura San Miguel S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVA053",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "RENOVACIÓN INTEGRAL Y DE IMAGEN URBANA DE LAS PRINCIPALES CALLES  1ra ETAPA DEL POLIGONO COMPRENDIDO EN EL MERCADO DE ABASTOS, MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ISM0112209Y5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Mercado Abastos",
+	"mes": "Abril",
+	"presupesto": 5.19606546e+06,
+	"contrato": "DOP-REH-MUN-PAV-CI-053-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a6"
+	},
+	"contratista": "Construcciones Wegebau S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=15EQPVA088",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "MEJORAMIENTO DE VIVIENDA EN LA COLONIA RANCHO NUEVO 2DA SECCIÓN, TRABAJOS CONSISTENTES EN LA CONSTRUCCIÓN DE 6 CUARTOS PARA BAÑO, 12 CUARTOS DORMITORIO, 2 CUARTOS PARA COCINA, 2 PISOS FIRME, 6 TECHOS FIRME, 6 MUROS FIRME Y MANTENIMIENTO DE 8 TECHOS FIRME",
+	"ubicacion": ".",
+	"contratista_rfc": "CWE140922S62",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Vivienda",
+	"mes": "Abril",
+	"presupesto": 1.51511992e+06,
+	"contrato": "OPG-R33-EQP-AD-C10-088/15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a7"
+	},
+	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=15REHZ05117",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "OBRAS CIVILES PARA LA REHABILITACIÓN DE LA RED ELÉCTRICA E INSTALACIONES DEL MERCADO \"IRINEO PAZ\", UBICADO EN JESÚS GALINDO Y VILLA EN LA COL. JARDINES DE LA PAZ DE LA ZONA 5 OLÍMPICA, EN EL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SCI0003011Z5",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Mercados",
+	"mes": "Abril",
+	"presupesto": 2e+06,
+	"contrato": "DOP-REH-MUN-MER-AD-117-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a8"
+	},
+	"contratista": "Tralogic de Puebla, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ008",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN (ARBOLADO Y JARDINERIA) DE CAMELLONES, GLORIETAS Y PARQUES, FRENTE 1 EN VARIAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "TPU070316ER1",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Camellones",
+	"mes": "Febrero",
+	"presupesto": 1.190942647e+07,
+	"contrato": "DOP-REH-MUN-JAR-LP-008-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5a9"
+	},
+	"contratista": "Alquimia Grupo Constructor S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ009",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN (ARBOLADO Y JARDINERIA) DE CAMELLONES, GLORIETAS Y PARQUES, FRENTE 2 EN VARIAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "AGC070223J95",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Camellones",
+	"mes": "Febrero",
+	"presupesto": 7.42410738e+06,
+	"contrato": "DOP-REH-MUN-JAR-LP-009-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5aa"
+	},
+	"contratista": "Aguas y Caminos de Jalisco S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ010",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN (ARBOLADO Y JARDINERIA) DE CAMELLONES, GLORIETAS Y PARQUES, FRENTE 3 EN VARIAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ACJ050421TE3",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Camellones",
+	"mes": "Febrero",
+	"presupesto": 8.37353574e+06,
+	"contrato": "DOP-REH-MUN-JAR-LP-010-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5ab"
+	},
+	"contratista": "Servicios Constructivos e Ingenieria, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=16REHVZ011",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACIÓN (JARDINERIA Y OBRA HIDRÁULICA) DE CAMELLONES, GLORIETAS Y PARQUES, FRENTE 4 EN VARIAS ZONAS DEL MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SCI0003011Z5",
+	"modalidad": "LICITACION PUBLICA",
+	"tipo_infraestructura": "Camellones",
+	"mes": "Febrero",
+	"presupesto": 1.007169639e+07,
+	"contrato": "DOP-REH-MUN-JAR-LP-011-16"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5ac"
+	},
+	"contratista": "Ing. Veronica Bermudez Torres",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 1: Centro",
+	"ejercido_url": "obraDetalle.php?id_obra=15Z1EQP89",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REHABILITACION INTEGRAL DEL EDIFICIO DE OBRAS PUBLICAS., MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "BETV600515U89",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Edificios Municipales",
+	"mes": "Febrero",
+	"presupesto": 1.1e+06,
+	"contrato": "OPG-OD-EQP-AD-C10-089/15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5ad"
+	},
+	"contratista": "Breysa Constructora S.A. DE C.V",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ02119",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE FRANCISCO JAVIER GAMBOA DE CIRC. AGUSTÍN YÁÑEZ A AV. MÉXICO, EN LA ZONA 2 (MINERVA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "BCO900423GC5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 6.18298852e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-119-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5ae"
+	},
+	"contratista": "Sr. Ismael Salazar Alvarez",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ02120",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE JUSTO SIERRA DE AV. AMÉRICAS A CALLE SEVERO DÍAZ, EN LA ZONA 2 (MINERVA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SAAI520614CC3",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 5.10555721e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-120-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5af"
+	},
+	"contratista": "Carsa Grupo Constructor Inmobiliario S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ02121",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE  AZTECAS DE AV. LOMAS ALTAS A CALLE CORAS, EN LA ZONA 2 (MINERVA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CGC9305171D4",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 3.74881587e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-121-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b0"
+	},
+	"contratista": "Desarrolladora Glar S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 2: Minerva",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ02122",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN AV. ACUEDUCTO DE AV. PABLO NERUDA A AV. PATRIA (LIMITE MUNICIPAL), EN LA ZONA 2 (MINERVA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "DGL060620SUA",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 4.28334512e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-122-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b1"
+	},
+	"contratista": "Construcciones Electrificaciones y Arrendamiento de Maquinaria S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 3: Huentitán",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ03123",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE LISBOA DE AV. NORMALISTAS A CALZADA INDEPENDENCIA; CALLE MONTE SAN ELIAS DE CALLE LEGALIDAD A CALLE LISBOA, EN LA ZONA 3 (HUENTITAN), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "CEA010615GTO",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 3.61194712e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-123-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b2"
+	},
+	"contratista": "Mega Estructuras Milenium S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ04124",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE BETZAYDA DE CALLE LUIS VELAZCO A CALLE HACIENDA SAN RAMON; AV. BELISARIO DOMINGUEZ EN GLORIETA AMISTAD; CALLE MANUEL GUITIERREZ DE AV. BELISARIO DOMINGUEZ A CALLE ANTONIO SALANUEVA, EN LA ZONA 4 (OBLATOS), MUNICIPIO",
+	"ubicacion": ".",
+	"contratista_rfc": "MEM100709EE0",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 2.729145e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-124-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b3"
+	},
+	"contratista": "Estructuras Construcciones y Urbanizaciones S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ05125",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE FRANCISCO DE AYZA DE CALLE RIVAS GUILLEN A CALLE PORFIRIO DÍAZ, EN LA ZONA 5 (OLÍMPICA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ECU991015221",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 5.09538916e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-125-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b4"
+	},
+	"contratista": "Gilco Ingenieria S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ05126",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE DIONISIO RODRIGUEZ DE AV. BELISARIO DOMÍNGUEZ A CALLE EMILIANO ZAPATA; CALLE JOSEFA ORTIZ DE DOMÍNGUEZ DE CALLE 34 A AV. BELISARIO DOMÍNGUEZ; CALLE PORFIRIO DÍAZ DE CALLE INDUSTRIA A AV. PABLO VALDEZ, EN LA ZONA 5 (O",
+	"ubicacion": ".",
+	"contratista_rfc": "GIN1202272F9",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 3.40442209e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-126-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b5"
+	},
+	"contratista": "Servicios Profesionales y Construcción Méndez Martínez S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 5: Olímpica",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ05127",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE LOS ÁNGELES DE CALZ. DEL EJERCITO A CALLE BARTOLOMÉ DE LAS CASAS; CALLE CONSTANCIA DE AV. REVOLUCIÓN A AV. FRANCISCO JAVIER MINA, EN LA ZONA 5 (OLÍMPICA), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "SPC071105S59",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 2.93868984e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-127-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b6"
+	},
+	"contratista": "Lugo Ibarra Consorcio Constructor S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 6: Tetlán",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ06128",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN AV. MERCEDES CELIS DE CALLE MANUEL R. ALATORRE A AV. RIO NILO, EN LA ZONA 6 (TETLAN), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "LIC0208141P8",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 3.84961808e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-128-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b7"
+	},
+	"contratista": "Grupo Taube de México S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANZ0712915",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN AV. COLON CRUCE CON AV. LOPEZ DE LEGASPI; CALZ. LÁZARO CÁRDENAS (LATERAL) DE AV. 18 DE MARZO A CALLE FUELLE (AMBOS SENTIDOS), EN LA ZONA 7 (CRUZ DEL SUR), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "GTM050418384",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 4.19433003e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-129-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b8"
+	},
+	"contratista": "Ingenieros de la Torre, S.A. de C.V.",
+	"origen_de_resultados": "MUNICIPAL",
+	"zona": "Zona 7: Cruz del Sur",
+	"ejercido_url": "obraDetalle.php?id_obra=15MANTZ07130",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "REPAVIMENTACIÓN DE VIALIDADES EN CALLE  ESCULTURA DE AV. GONZÁLEZ CAMARENA / DEGAS A AV. GOBERNADOR CURIEL; CALZ. LÁZARO CÁRDENAS (PUENTES) EN LAS CRESTAS DE TODOS LOS PUENTES, EN LA ZONA 7 (CRUZ DEL SUR), MUNICIPIO DE GUADALAJARA, JALISCO.",
+	"ubicacion": ".",
+	"contratista_rfc": "ITO951005HY5",
+	"modalidad": "CONCURSO INVITACION                    \n\n\n\nInvitaciones",
+	"tipo_infraestructura": "Pavimentos",
+	"mes": "Enero",
+	"presupesto": 5.63590254e+06,
+	"contrato": "DOP-MANT-MUN-PRO-CI-130-15"
+}
+{
+	"_id": {
+		"$oid": "58b7a2061d44b63e1656f5b9"
+	},
+	"contratista": "Construcciones Levisa, S.A. de C.V.",
+	"origen_de_resultados": "APORTACION FEDERAL RAMO 33",
+	"zona": "Zona 4: Oblatos",
+	"ejercido_url": "obraDetalle.php?id_obra=15R33Z04131",
+	"estatus": "En proceso de Firmas",
+	"descripcion_obra": "AMPLIACIÓN PARA EL COMEDOR COMUNITARIO \"HELIODORO HERNANDEZ LOZA\", TRABAJOS CONSISTENTES EN PISOS, JARDINERIA, MOBILIARIO, INSTALACIONES ELECTRICAS Y PINTURA, UBICADO EN: MARIA GPE. MARTINEZ DE HERNANDEZ LOZA ESQUINA HACIENDA SANTIAGO, EN LA COL. HELIODOR",
+	"ubicacion": ".",
+	"contratista_rfc": "CLE131023270",
+	"modalidad": "ASIGNACION DIRECTA",
+	"tipo_infraestructura": "Centros de Desarrollo Comunitario",
+	"mes": "Enero",
+	"presupesto": 230000.0,
+	"contrato": "DOP-R33-EST-CDC-AD-131-15"
+}
