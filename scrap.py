@@ -10,12 +10,10 @@ import re
 client = MongoClient()
 db = client['obrasgdl']
 
-
 url = "http://enlinea.guadalajara.gob.mx:8800/obras/obraspublicas/listadoObras.php?year="
 
 count = 0 
 for year in range(2007,2018):
-	count += 1
 	print(count)
 	# Create http request
 	request = urllib.request.Request(url + str(year))
@@ -27,6 +25,9 @@ for year in range(2007,2018):
 	
 	##mongo and csv 
 	year_collection = db['year'+str(year)]
+
+
+
 	with open('./csv/year'+str(year)+'.csv', 'w+') as csvfile:
 		fieldnames = ['contrato', 'estatus', 'mes', 'modalidad', 'origen_de_recursos', 'tipo_infraestructura','descripcion_obra', 'ubicacion','zona','presupuesto','ejercido_url', 'contratista', 'contratista_rfc']
 		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -50,8 +51,9 @@ for year in range(2007,2018):
 			data['presupuesto'] = float(price)
 			data['ejercido_url'] = str(cells[10].find('a')['href']).strip()
 			data['contratista'] = str(cells[11].get_text()).strip()
-			data['contratista_rfc'] = str(cells[12].get_text()).strip()
-
+			rfc = cells[12].get_text().strip()
+			cleanRFC = re.sub('[ /-]', '', rfc)
+			data['contratista_rfc'] = str(cleanRFC)
 
 			#write on csv
 			writer.writerow(data)
